@@ -1,0 +1,175 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Defer</title>
+   
+   
+    <style type="text/css">
+    html { background:#666; }
+    body{font-family: sans-serif;font-size: 8pt;background:white; padding:20px;margin:20px; min-height:800px;}
+    
+    </style>
+</head>
+
+<body>
+	<h1 id="title">jQuery Defer</h1>
+
+
+
+	<a href="https://plus.google.com/u/0/115133653231679625609/posts/7pozWtg1LcD">HTML Dev Tools</a>
+	|
+	<a href="http://addyosmani.com/blog/jquery-1-7s-callbacks-feature-demystified/">Defer example</a>
+
+	<div id="results"></div>
+
+<script id="tubeTemplate" type="text/x-jquery-tmpl">
+{{each(i,line) lines}}
+	<ul data-color="${line.color}" data-label="${line.label}" data-shiftCoords="${line.data_shiftCoords}">
+			{{each(i,s) stations}}
+			<li 
+			data-coords="${s.x+line.offsetx},${s.y+line.offsety}" 
+			data-dir="${s.dir}"  
+			 data-marker="${s.marker}" 
+			 data-markerInfo="${s.markerInfo}"
+			 data-labelPos = "${s.pos}"
+			 >{{html s.name}}</li>
+			{{/each}}
+	</ul>
+{{/each}}
+</script>
+   
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+    <script type="text/javascript">
+
+    	$(function () {
+
+    		//	applyTemplate("#subway-map", "#tubeTemplate", map);
+    		demo3();
+    	});
+
+
+    	function applyTemplate(target,template,data) {
+    		$(target).html("");
+    		$(template).tmpl(data).prependTo(target); 
+
+    	}
+
+    	function log(value) {
+    		console.log(value);
+    		$("#results").append(value  +"<br/>");
+    	}
+
+    	function demo1() {
+    		var fn1 = function (value) {
+    			log(value);
+    			return false;
+    		}
+    		var fn2 = function (value) {
+    			fn1('fn2 says:' + value);
+    			return false;
+    		}
+    		var callbacks = $.Callbacks('unique memory');
+    		callbacks.add(fn1);
+    		callbacks.fire('foo');
+    		callbacks.add(fn1); // repeat addition
+    		callbacks.add(fn2);
+    		callbacks.fire('bar');
+    		callbacks.add(fn2);
+    		callbacks.fire('baz');
+    		callbacks.remove(fn2);
+    		callbacks.fire('foobar');
+    		/*
+    		output:
+    		foo
+    		fn2 says:foo
+    		bar
+    		fn2 says:bar
+    		baz
+    		fn2 says:baz
+    		foobar
+    		*/
+
+    	}
+
+    	function demo2() {
+    		var callbacks = $.Callbacks();
+    		var add = callbacks.add;
+    		var remove = callbacks.remove;
+    		var fire = callbacks.fire;
+    		add(fn1);
+    		fire('hello world');
+    		remove(fn1);
+    	}
+
+    	function demo3() {
+
+    		var topics = {};
+    		jQuery.Topic = function (id) {
+    			var callbacks,
+				method,
+				topic = id && topics[id];
+    					if (!topic) {
+    						callbacks = jQuery.Callbacks();
+    						topic = {
+    							publish: callbacks.fire,
+    							subscribe: callbacks.add,
+    							unsubscribe: callbacks.remove
+    						};
+    						if (id) {
+    							topics[id] = topic;
+    						}
+    					}
+    					return topic;
+    				};
+
+    				sub1();
+
+    				function sub1() {
+    					// Subscribers
+    					$.Topic('mailArrived').subscribe(fn1);
+    					$.Topic('mailArrived').subscribe(fn2);
+    					$.Topic('mailSent').subscribe(fn1);
+    					// Publisher
+    					$.Topic('mailArrived').publish('hello world!');
+    					$.Topic('mailSent').publish('woo! mail!');
+    					//  Here, 'hello world!' gets pushed to fn1 and fn2
+    					//  when the 'mailArrived' notification is published
+    					//  with 'woo! mail!' also being pushed to fn1 when
+    					//  the 'mailSent' notification is published.
+    					/*
+    					output:
+    					hello world!
+    					fn2 says: hello world!
+    					woo! mail!
+    					*/
+    				}
+
+    				function sub2() {
+    					// subscribe to the mailArrived notification
+    					$.Topic('mailArrived').subscribe(fn1);
+    					// create a new instance of Deferreds
+    					var dfd = $.Deferred();
+    					// define a new topic (without directly publishing)
+    					var topic = $.Topic('mailArrived');
+    					// when the deferred has been resolved, we'll
+    					// then publish a notification to subscribers
+    					dfd.done(topic.publish);
+    					// here we're resolving the Deferred with a message
+    					// that will be passed back to subscribers. We could
+    					// easily integrate this into a more complex routine
+    					// (eg. waiting on an ajax call to complete) so that
+    					// we only published once the task finished.
+    					dfd.resolve('its been published!');
+    				}
+
+
+
+    	}
+
+
+    	
+    </script>
+</body>
+
+</html>

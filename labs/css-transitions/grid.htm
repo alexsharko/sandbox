@@ -1,0 +1,332 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title> - jsFiddle demo by addyosmani</title>
+  <script type='text/javascript' src='http://code.jquery.com/jquery-1.5.2.js'></script>
+  
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+    
+  <style type='text/css'>
+         .switcher { /* this can be whatever selector you want */         
+                     width: 910px; /* the full width of the switcher */         
+                     position: relative; /* important */         
+                     font-family: Georgia;       } 
+		.switcher > div {         height: 80px; /* the height of the boxes when collapsed */         
+		                          position: absolute;         
+		                          left: 660px; /* the width of the switcher minus the outer width of the collapsed boxes (including margin, padding and border) */         
+		                          right: 0; /* important */         
+		                          margin: 4px; /* the margin between collapsed boxes */         
+		                          padding: 5px; /* the padding for the collapsed boxes */         
+		                          border: 1px solid #C2C2C2; /* the border for collapsed boxes */         
+		                          background: #e3e3e3;         
+		                          overflow: hidden; /* important */       }
+       .switcher > div .content {  opacity: 0; /* impotant */       } 
+       .switcher > div > h3 {  text-align: center;
+                               line-height: 80px; /* used to vertically center the text in collapsed boxes, should be the height of the collapsed boxes */  
+                               font-size: 24px;         
+                               font-family: Helvetica;       
+                               }       
+      .switcher .active {         height: auto; /* important */         
+                                  width: auto; /* important */         
+                                  top: 0; /* important */         
+                                  left: 0; /* important */         
+                                  bottom: 0; /* important */         
+                                  right: 250px; /* the outer width of the collapsed boxes */       }
+	  .switcher .active .content {         opacity: 1; /* important */       }
+	  .switcher .active > h3 {         line-height: 48px; /* the line height of the box heading when active */       }
+	  p {         line-height: 22px;         font-size: 14px;         padding: 5px;       }
+  </style>
+  
+  <script type='text/javascript'>
+  //<![CDATA[ 
+  $(window).load(function(){
+  (function($) {
+        $.fn.extend({
+          oldAnimate: $.fn.animate,
+          animate: function(props, speed, easing, callback) {
+            var camelToHyphen = function(camel) {
+              return camel.replace(/([A-Z])/g, "-$1").toLowerCase();
+            }, prefixes = [
+              "Moz", "Webkit",
+              "O", "Ms", "Khtml"
+            ], transitionProp = false,
+            $this = $(this);
+            callback = (typeof easing === "function") ? easing : (callback) ? callback : function() {};
+            easing = (easing && typeof easing === "string") ? easing : "ease-in-out";
+            for (var i = 0; i < prefixes.length; i++) {
+              if (prefixes[i] + "Transition" in $this.get(0).style) {
+                transitionProp = "-" + prefixes[i].toLowerCase() + "-transition";
+                break;
+              }
+            }
+            return $this.each(function() {
+              var $$this = $(this);
+              if (transitionProp) {
+                var oldTransition = $$this.css(transitionProp);
+                    transitionString = (oldTransition) ? oldTransition + ", " : "";
+                for (prop in props) {
+                  transitionString += camelToHyphen(prop) + " " + speed + "ms " + easing + ", ";
+                }
+                transitionString = transitionString.replace(/\, $/, "");
+                $$this.css(transitionProp, transitionString).css(props);
+                setTimeout(function() {
+                  $$this.css(transitionProp, oldTransition);
+                  callback();
+                }, speed);
+              }
+              else {
+                $$this.oldAnimate(props, speed, callback);
+              }
+            });
+          }
+        });
+      })(jQuery);
+      
+      (function($) {
+        $.fn.extend({
+          danceSwitcher: function(options) {
+            var defaults = {
+              speed: 1,
+              collapsedWidth: 230,
+              collapsedHeight: 80,
+              collapsedMPB: [10, 10, 10, 10],
+              collapsedLineHeight: '80px',
+              activeLineHeight: '48px',
+              animationSequence: 'prev/next'
+            };
+            options = $.extend(defaults, options);
+            return $(this).each(function() {
+              var $this = $(this),
+                  speed = options.speed,
+                  first = $(this).children('div').eq(0), // the first child of the switcher, so that it is open by default
+                  i;  
+              $this.css('height', ($this.children('div').length - 1) * (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2]) + 'px'); // set the height of the switcher to the appropriate value
+              first.addClass('active'); // make the first box active
+              for (i = 1; i < $this.children('div').length; i++) { // position all of the boxes appropriately
+                $this.children('div').eq(i).css('top', (i - 1) * (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2]) + 'px');
+              }
+              if (options.animationSequence === 'prev/next') { // using the default animation
+                $this.children('div').click(function() { // bind aclick event to all the boxes
+                  var $$this = $(this);
+                  if (!$$this.hasClass('active') && !$this.hasClass('inprogress')) { // if the box clicked isn't already active and there isn't already animation going on
+                    var next, prev;
+                    $this.addClass('inprogress'); // make sure 2 animations don't happen at once
+                    $this.children('.active').children('.content').animate({ // fade out the content of the active box
+                      opacity: 0
+                    }, 750 / speed);
+                    $this.children('.active').children('h3').animate({ // animate the active header line height
+                      lineHeight: options.collapsedLineHeight
+                    }, 750 / speed);
+                    if ($$this.next(':not(.active)').get(0)) { // if the clicked box isn't last
+                      next = $(this).next();
+                      prev = false;
+                    }
+                    else {
+                      next = $$this.prev();
+                      prev = true;
+                    }
+                    $$this.css({ // convert the height property of the clicked box to the bottom property
+                      bottom: $this.height() - $$this.position().top - (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2]),
+                      height: 'auto'
+                    });
+                    $this.children('.active').css('height', $this.children('.active').height()).animate({
+                      top: next.css('top'), // move the active box to the vertical position of its final destination
+                      height: options.collapsedHeight // make its height the height of a collapsed box
+                    }, 750 / speed, function() {
+                      $$this.animate({ // move the clicked box out untill it's the same dimensions as the previously active box
+                        left: 0,
+                        right: (options.collapsedWidth + options.collapsedMPB[1] + options.collapsedMPB[3])
+                      }, 500 / speed, function() {
+                        next.animate({ // move the box next to the previously active box (to the right) to the place where the clicked box used to be
+                          top: $$this.css('top')
+                        }, 750 / speed, function() {
+                          $this.children('.active').animate({ // move the previously active box to where the last animated box just was
+                            left: next.position().left,
+                            right: 0
+                          }, 750 / speed, function() {
+                            $$this.children('h3').animate({ // animate the line height of the clicked box to the height of an active box
+                              lineHeight: options.activeLineHeight
+                            }, 750 / speed);
+                            $$this.children('.content').animate({ // and make its content opaque
+                              opacity: 1
+                            }, 750 / speed);
+                            $$this.animate({ // and give it the dimensions of an active box
+                              top: 0,
+                              bottom: 0
+                            }, 750 / speed, function() {
+                              if (!prev) {
+                                $this.children('.active').insertAfter(next); // if the "next" box was the box underneath the now active box, mave its position in the DOM to where it now is visually on the page
+                              }
+                              else if (prev) {
+                                $this.children('.active').insertBefore(next); // same thing but if it was above the now active box
+                              }
+                              $this.children('.active').removeClass('active'); // remove the active class from the box that is no longer active
+                              $$this.addClass('active'); // and add it to the now active box
+                              $$this.prependTo($$this.parent()); // move the now active box to the top of the switcher DOM tree
+                              $this.removeClass('inprogress'); // and set the switcher to not animating
+                            });
+                          });
+                        });
+                      });
+                    });
+                  }
+                });
+              }
+              else if (options.animationSequence === 'first/last'){
+                $this.children('div').click(function() {
+                  var $$this = $(this), active = $this.children('.active'), last = !$$this.next().get(0), alreadyCalled = false,
+                      callback = function() {
+                        console.log($this.width() - (options.collapsedWidth + options.collapsedMPB[1] + options.collapsedMPB[3]));
+                        active.css('bottom', 'auto').animate({
+                          right: 0,
+                          left: $this.width() - (options.collapsedWidth + options.collapsedMPB[1] + options.collapsedMPB[3])
+                        }, 750 / speed, function() {
+                          $$this.animate({
+                            top: 0,
+                            bottom: 0
+                          }, 750 / speed).children('h3').animate({
+                            lineHeight: options.activeLineHeight
+                          }, 750 / speed);
+                          $$this.children('.content').animate({
+                            opacity: 1
+                          }, 750 / speed, function() {
+                            if (!last) {
+                              active.appendTo($this).removeClass('active');
+                            }
+                            else {
+                              active.prependTo($this).removeClass('active');
+                            }
+                            $$this.prependTo($this).addClass('active');
+                            $this.removeClass('inprogress');
+                          });
+                        });
+                      };
+                  if (!$$this.hasClass('active') && !$this.hasClass('inprogress')) {
+                    $this.addClass('inprogress');
+                    active.children('h3').animate({
+                      lineHeight: options.collapsedLineHeight
+                    }, 750 / speed);
+                    active.children('.content').animate({
+                      opacity: 0
+                    }, 750 / speed);
+                    active.animate({
+                      top: (!last) ? $this.height() - options.collapsedHeight - options.collapsedMPB[0] - options.collapsedMPB[2] : 0,
+                      bottom: (!last) ? 0 : $this.height() - options.collapsedHeight - options.collapsedMPB[0] - options.collapsedMPB[2]
+                    }, 750 / speed, function() {
+                      active.css({
+                        top: (!last) ? $this.height() - active.height() - options.collapsedMPB[0] - options.collapsedMPB[2] : 0,
+                        height: active.height()
+                      });
+                      $$this.css({
+                        bottom: $this.height() - $$this.position().top - (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2]),
+                        height: 'auto'
+                      });
+                      $$this.animate({
+                        left: 0,
+                        right: (options.collapsedWidth + options.collapsedMPB[1] + options.collapsedMPB[3])
+                      }, 500 / speed, function() {
+                        if (!last) {
+                          $$this.nextAll('div').each(function() {
+                            var $$$this = $(this);
+                            $$$this.animate({
+                              top: $$$this.position().top - (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2])
+                            }, 750 / speed, function() {
+                              if (!alreadyCalled) { callback(); }
+                              alreadyCalled = true;
+                            });
+                          });
+                        }
+                        else {
+                          $$this.prevAll('div:not(.active)').each(function() {
+                            var $$$this = $(this);
+                            $$$this.animate({
+                              top: $$$this.position().top + (options.collapsedHeight + options.collapsedMPB[0] + options.collapsedMPB[2])
+                            }, 750 / speed, function() {
+                              if (!alreadyCalled) { callback(); }
+                              alreadyCalled = true;
+                            });
+                          });
+                        }
+                      });
+                    });
+                  }
+                });
+              }
+            });
+          }
+        });
+      }(jQuery));
+      
+      $(function() {
+        $('.switcher').danceSwitcher({
+          speed: 2.5, // the speed multiplier, use trial and error to get the best speed :D (hint: bigger is faster)
+          collapsedWidth: 230, // the width of boxes when collapsed (not including margin, padding and border)
+          collapsedHeight: 80, // the height of boxes when collapsed (not including margin, padding and border)
+          collapsedMPB: [10, 10, 10, 10], // the sum of margin, padding and border for each side (top, right, bottom, left)
+          collapsedLineHeight: '80px', // the line-height of the box headings when collapsed
+          activeLineHeight: '48px', // the line-height of the box headings when active
+          animationSequence: 'prev/next'
+        });
+      });
+  });
+  //]]> 
+  </script>
+  
+</head>
+<body>
+	<div class="switcher">
+		<div>
+			<h3>
+				A Title Here</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+		<div>
+			<h3>
+				Heading!</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+		<div>
+			<h3>
+				This is a Box</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+		<div>
+			<h3>
+				Box #4</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+		<div>
+			<h3>
+				Another Heading!</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+		<div>
+			<h3>
+				And some Text</h3>
+			<div class="content">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+	</div>
+</body>
+
+
+</html>
+

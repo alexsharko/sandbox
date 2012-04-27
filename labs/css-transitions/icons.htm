@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title> - jsFiddle demo by addyosmani</title>
+  <script type='text/javascript' src='http://code.jquery.com/jquery-1.5.2.js'></script>
+  
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+  
+  
+      <script type='text/javascript' src="http://darcyclarke.me/dev/sortgrid/jquery.sortGrid.js"></script>
+    
+    
+      <script type='text/javascript' src="jquery.transition.js"></script>
+    
+  
+  <style type='text/css'>
+    .clearfix:after     { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.clearfix             { display: inline-block; }
+    * html .clearfix     { height: 1%; }
+.clearfix             { display: block; }
+body { font-family: Arial, Helvetica, sans-serif; font-size: 12px; margin:0 auto; text-align:center; color:#000; background-color:#666;  background-image:url('http://addyosmani.com/blog/wp-content/uploads/2011/04/bg23.png');}
+h1 { font-size:2em; padding:5px;text-shadow:0px 2px 0px #fff;}
+p { padding:6px;}
+    
+.boxes {    
+    display: block;
+    padding: 10px 0 0 0;
+    position: relative; 
+    width:640px;
+    margin:0 auto;
+    clear:both;
+}
+
+
+.boxes .box{   
+    display: block;
+    float: left;
+    height:150px;  
+    width:156px;
+    
+}
+
+.boxes .box img{
+    box-shadow:0px 7px 14px #666666;
+}
+
+.nav {
+    clear:both;
+    width:640px;
+    margin:0 auto;
+    
+}
+.nav li{
+     float:left;
+    padding:10px;
+}
+
+.btn {
+    -moz-border-radius:4px;
+    background-image: -moz-linear-gradient(top, #fefefe, #cdcdcd);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fefefe), to(#d0d0d0), color-stop(1,#a8a8a8));     color:#232323;
+    text-shadow: rgba(255, 255, 255, 0.75) 0 1px 1px;
+    border: 1px solid #afafaf;
+    border-radius: 4px;
+    text-align: center;
+    margin-bottom: 3px;
+    font-weight: bold;
+ font-family: Lucida Grande, sans-serif;
+    margin-right: 7px;
+    padding:6px 12px;
+    font-size:10px;
+    text-decoration:none;
+
+    }
+
+a.btn:hover {   
+    background-image: -moz-linear-gradient(top, #e3e3e3, #afafaf);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e3e3e3), to(#d7d7d7), color-stop(1,#afafaf));  border:1px #969696 solid; 
+}
+
+h4{
+ border:1px solid #FCEFA1;
+ padding:8px; 
+ margin:5px auto;
+ background-color:#ffffcc;
+ -moz-border-radius: 6px; 
+ -webkit-border-radius: 6px; 
+ border-radius: 6px;
+ width:640px;
+}
+
+  </style>
+  
+  <script type='text/javascript'>
+  //<![CDATA[ 
+  $(window).load(function(){
+  $(function() {
+    $(".nav li a").live("click", function(e){
+        e.preventDefault();
+        var el = $(this);
+        if(!el.parent().hasClass("active")){
+            el.parent().addClass("active").siblings().removeClass("active");
+            /*ehynds sortgrid*/
+            $(".boxes").sortGrid(el.attr("rel"), 1000);
+            
+        }
+
+    });
+});
+
+
+
+
+
+  });
+  //]]> 
+  </script>
+  
+</head>
+<body>
+  <div class="wrapper">
+
+<p>
+    <h1>.animate() Sort/Filter demo using CSS3 transitions if supported</h1>
+    <h4>To use the below demo, simply select a filter to begin the animation. Here were's using jquery.transitions.js to power the fallback.</h4>
+    <p>&nbsp;</p>
+        <ul class="nav"> 
+            <li>Filter By:</li>
+                <li class="active"><a class="btn" href="#" rel="box">All</a></li> 
+                <li><a class="btn" href="#" rel="figure">Action Figures</a></li> 
+                <li><a class="btn" href="#" rel="other">Other Items</a></li> 
+            </ul> 
+
+    <ul id="list" class="boxes clearfix">
+        
+        <li data-id="id-1" class="box other">
+<img width="125" height="125" src="http://farm3.static.flickr.com/2616/3773324169_2145459190_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+    
+        <li data-id="id-2" class="box other">
+<img width="125" height="125" src="http://farm4.static.flickr.com/3592/3377473093_78fcf86baa_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+    
+        
+                <li data-id="id-3" class="box other">
+<img width="125" height="125" src="http://farm1.static.flickr.com/188/414879942_e749de41df_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+        
+          <li data-id="id-4" class="box figure">
+<img width="125" height="125" src="http://farm5.static.flickr.com/4026/4288963074_322f2213a5_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+          <li data-id="id-5" class="box figure">
+<img width="125" height="125" src="http://farm3.static.flickr.com/2398/2036784818_80353a54df_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+          <li data-id="id-6" class="box figure">
+<img width="125" height="125" src="http://farm3.static.flickr.com/2540/4183724173_b499591020_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+          <li data-id="id-8" class="box figure">
+<img width="125" height="125" src="http://farm4.static.flickr.com/3032/3104321488_630d736d49_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+                <li data-id="id-9" class="box figure">
+<img width="125" height="125" src="http://farm1.static.flickr.com/110/297505001_e55e8f38ca_m.jpg" />
+       <strong>Sample</strong>
+            </li>
+
+                   <li data-id="id-10" class="box figure">
+<img width="125" height="125" src="http://farm6.static.flickr.com/5091/5512819621_ab2b5ce1a1_m.jpg" />
+       <strong>Sample</strong>
+            </li>     
+        
+
+        <li data-id="id-11" class="box figure">
+<img width="125" height="125" src="http://farm3.static.flickr.com/2016/2099213693_92f6e6af16_m.jpg" />
+       <strong>Sample</strong>
+            </li>    
+       
+
+</ul>
+    
+</p>
+</div>
+
+  
+</body>
+
+
+</html>
+

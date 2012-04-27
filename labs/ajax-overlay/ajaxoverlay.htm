@@ -1,0 +1,151 @@
+<html>
+  <head>
+    <style type="text/css">
+    html { background:#666; font-family:Sans-Serif; }
+    body { padding:20px; margin:20px; background:white; min-height:400px; }
+	.my-hidden-content { display:none;}
+	.hide { display:none;}
+	.results { background:#ccc; padding:10px; margin:10px;}
+	.buttons { border-top:1px solid #ccc;padding-top:5px; text-align:right;}
+	.buttons button { margin:4px;  }
+
+	  
+    </style>
+    
+    <link rel="stylesheet" href="ajaxoverlay.css" type="text/css" />
+  </head>
+
+  <body>
+    
+	<h1>Ajax Overlay</h1>
+	<p>This overlay demo is based on code produced at the <a class='ajax-link' href="http://www.guardian.co.uk/info/developer-blog/2011/jul/15/jquery-overlay-plugin">guardian</a>.</p>
+
+	<p>Demo of 
+	
+	<a class='ajax_demo' href="content.htm">simple ajax</a> |
+
+	<a id='list_demo' href="add_to_list.htm">Guardian add to list demo</a> | 
+
+	<a id='embedded_demo1' href="#">simple embedded popup</a> | 
+	
+	<a id='embedded_form1' href="#">embedded form</a> | 
+
+	<a id='embedded_form2' href="#">embedded form with buttons</a>
+	
+	</p>
+		
+	<div id=embedded_demo class=hide><p>This is some hidden content</p></div>
+
+
+	<div id=embedded_demo_ok_cancel class=hide>
+		<h1>Sample Content</h1>
+		<p>This is some embedded content</p>
+		<div class=buttons>
+		<button value="ok" id=okBtn class=closeBtn>OK</button><button value="cancel" id=cancelBtn class=closeBtn>Cancel</button>
+		</div>
+	</div>
+
+	<form id="form_php" method=post action=form.php > 
+		<input type="button" value="Preview" name="preview-comment" id="form_php_show">
+	</form>
+
+	<div id=results></div>
+
+	<div id="embedded_form" class=hide>
+		<p>This content is a simple form</p>
+		<form id="frm1" action=form.php method=post >
+			<input type="hidden" name="page_url" value="some value"> 
+			<input type=text name='my_val' value='my val'>
+			<input type="submit" value="Submit" name="submit-comment" id="submit_comment">
+			<input type="button" value="Preview" name="preview-comment" id="preview_comment">
+		</form>
+	</div>
+
+	
+	<script src="../jquery-1.6.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="jquery.ajaxoverlay.min.js"></script>
+
+    <script type="text/javascript">
+
+    	$(document).ready(function () {
+
+			// Basic usage - pulls href for ajax display
+    		$('.ajax_demo').ajaxoverlay();
+
+
+			$('#list_demo').ajaxoverlay({
+				'closebuttonselector': '.form-buttons input',
+				'dobeforeclose': function () {$("#results").append("Before close");}
+    		});
+			
+
+    		$('#embedded_demo1').ajaxoverlay({
+    			'source': '#embedded_demo'
+    		});
+
+			// Show a ok, cancel button
+			$('#embedded_form2').ajaxoverlay({
+				'source': '#embedded_demo_ok_cancel',
+				'closebuttonselector': '.closeBtn',
+				'dobeforeclose': function () {$("#results").append("Before close");}
+    		});
+
+			
+    		$('#embedded_form1').ajaxoverlay({
+    			'source': '#embedded_form',
+
+				'form': {
+    				'selector': 'form#embedded_form',
+    				'trigger': '#form_php_show',
+    				'url': 'form.php',
+    				'customField': 'is_ajax'
+					
+    			},
+
+				'closebuttonselector' : '#preview_comment',
+    			'dobeforeopen': function (item) {
+    				$("#results").html("Before open");
+					$('#preview_comment').live('click', function () { $("#results").append("Click "); return true; });
+    			},
+
+    			'dobeforeclose': function () {
+    				$("#results").html("Before close");
+    			}
+
+    		});
+
+    		// show and hide the ajax overlay and update it when the user changes their text
+    		$('#form_php_show').ajaxoverlay({
+    			'form': {
+    				'selector': 'form#form_php',
+    				'trigger': '#form_php_show',
+    				'url': 'form.php',
+    				'customField': 'is_ajax'
+					
+    			},
+				'closebuttonselector' : '#previewBtn',
+    			'columnwidth': 'eight-col',
+    			'dobeforeopen': function (item) {
+					$('#previewBtn').live('click', function () { $("#results").append("Click "); return true; });
+					$("#results").append("Before open");
+
+    			},
+    			'dobeforeclose': function () {$("#results").append("Before close");}
+    		});
+
+
+
+
+
+
+
+
+
+
+
+    	});
+	   
+
+    </script>
+  </body>
+</html>

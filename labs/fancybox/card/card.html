@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>FancyBox 1.3.4 | Demonstration</title>
+	<link rel="stylesheet" type="text/css" href="jquery.fancybox-1.3.4.lite.css" media="screen" />
+	<!--<link href="../fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />-->
+
+	<style type="text/css">
+
+/* reset.css -  Yahoo Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html version: 3.1.1 build: 47   */
+html{color:#000;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+
+
+	body { color: #262626;	background: #f4f4f4;font: normal 12px/18px Verdana, sans-serif;}
+	h1 { font-size:220%; font-weight:bold;padding:10px 0px 10px 0px; }
+	#content {	width: 400px;	margin: 40px auto 0 auto;	padding: 0 60px 30px 60px;	border: solid 1px #cbcbcb;
+		background: #fafafa;	-moz-box-shadow: 0px 0px 10px #cbcbcb;	-webkit-box-shadow: 0px 0px 10px #cbcbcb;}
+	hr {	border: none;	height: 1px; line-height: 1px;	background: #E5E5E5;	margin-bottom: 20px;}
+
+	a img {	border: 1px solid #BBB;	margin: 10px 20px 10px 0;	vertical-align: top;}
+
+	/* Example of formating a title block */
+	#tip7-title { padding:10px; z-index: 1104; background:white; }
+	#tip7-title { text-align: left;font-size:120%; }
+	#tip7-title b { display: block; margin-right: 80px; }
+	#tip7-title span { float: right; }
+
+/*
+#fancybox-loading {
+	position: fixed;top: 50%;left: 50%;width: 40px;height: 40px;
+	margin-top: -20px;margin-left: -20px;cursor: pointer;overflow: hidden;
+	z-index: 1104;display: none;
+}
+
+#fancybox-loading div {position: absolute;	width: 40px;height: 480px;background-image: url('fancybox.png');}
+
+#fancybox-overlay {position: absolute;width: 100%;z-index: 1100;display: none;}
+
+#fancybox-tmp {overflow: auto;display: none;}
+
+#fancybox-wrap {position: absolute;padding: 20px;z-index: 1101;outline: none;display: none;}
+
+#fancybox-outer {position: relative;width: 100%;height: 100%;background: #fff;}
+
+#fancybox-content {outline: none;position: relative;overflow: hidden;z-index: 1102;
+	border: 0px solid #fff;
+	-box-shadow: 10px 10px 10px 10px #666;-moz-box-shadow: 10px 10px 10px 10px #666;-moz-box-shadow: 10px 10px 10px 10px #666
+}
+
+#fancybox-close {position: absolute;top: -15px;right: -15px;width: 30px;height: 30px;
+	background: transparent url('fancybox.png') -40px 0px;cursor: pointer;z-index: 1103;display: none;}
+
+#fancybox-img {width: 100%;height: 100%;border: none;outline: none;line-height: 0;vertical-align: top;}
+
+#fancybox-frame {width: 100%;height: 100%;border: none;display: block;}
+
+.fancybox-bg {position: absolute;width: 20px;height: 20px;z-index: 1001;}
+*/
+
+
+
+	</style>
+
+
+
+
+</head>
+<body>
+<div id="content">
+	<h1>fancybox <span>v1.3.4</span></h1>
+
+	<p>This is a demonstration. <a href="http://fancybox.net">Home page</a></p>
+
+	<hr />
+
+	<p>
+		<a id="example1" href="../example/big.jpg"  ><img alt="example1" src="../example/2_s.jpg" /></a>
+		
+
+		<a id="example2" href="../example/big.jpg"><img alt="example2" src="../example/2_s.jpg" /></a>
+
+		<a id="example3" href="../example/big.jpg" title="Etiam quis mi eu elit tempor facilisis id et neque" ><img alt="example3" src="../example/2_s.jpg" /></a>
+
+
+		<a href=# onclick="showPopup();" id=example1View >view</a> | <a id="login_demo" title="Login" href="#login_form">Login form</a>|
+		<a id="google" href="http://google.co.uk">Iframe</a>
+	</p>
+	
+
+	<div>
+		Image gallery (ps, try using mouse scroll wheel)<br />
+
+		<div class=slideshow>
+		<a rel="example_group" href="../example/9_b.jpg" title="Lorem ipsum dolor sit amet"><img alt="" src="../example/9_s.jpg" /></a>
+
+		<a rel="example_group" href="../example/10_b.jpg" title=""><img alt="" src="../example/10_s.jpg" /></a>
+
+		<a rel="example_group" href="../example/11_b.jpg" title=""><img alt="" src="../example/11_s.jpg" /></a>
+		
+		<a rel="example_group" href="../example/12_b.jpg" title=""><img class="last" alt="" src="../example/12_s.jpg" /></a>
+		</div>
+
+	</div>
+
+
+
+
+	<div style="display:none">
+	<form id="login_form" method="post" action="">
+	    	<p id="login_error">Please, enter data</p>
+		<p>
+			<label for="login_name">Login: </label>
+			<input type="text" id="login_name" name="login_name" size="30" />
+		</p>
+		<p>
+			<label for="login_pass">Password: </label>
+			<input type="password" id="login_pass" name="login_pass" size="30" />
+		</p>
+		<p>
+			<input type="submit" value="Login" />
+		</p>
+		<p>
+		    <em>Leave empty so see resizing</em>
+		</p>
+	</form>
+</div>
+
+
+</div>
+</body>
+	<script type="text/javascript" src="../../jquery-1.6.1.min.js" ></script>
+<script src="../fancybox/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+	<script type="text/javascript" src="jquery.fancybox-1.3.4.min.js"></script>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			$("a#example1").fancybox();
+
+			$("a[rel=example_group]").fancybox();
+			//$(".slideshow a").fancybox();
+
+
+			$("a#example2").fancybox({
+			
+				'overlayShow'	: true,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'elastic',
+			
+			});
+
+			$("a#example3").fancybox({
+				'showCloseButton'	: false,
+				'titlePosition' 		: 'inside',
+				'titleFormat'		: formatTitle
+			});
+
+			$("#google").fancybox({
+				'width'				: '75%',
+				'height'			: '75%',
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+			});
+
+
+			initLogin();
+		});
+
+
+		function formatTitle(title, currentArray, currentIndex, currentOpts) {
+			return '<div id="xtip7-title"><span><a href="javascript:;" onclick="$.fancybox.close();">close</a></span>' + (title && title.length ? '<b>' + title + '</b>' : '' ) + 'Image ' + (currentIndex + 1) + ' of ' + currentArray.length + '</div>';
+		}
+
+
+		function show(){
+		// Invoke image popup 
+		$("#example1").trigger('click');
+		}
+
+		function showPopup(){
+			$.fancybox('<h1>Hi!</h1><p>This is an example of a simple popup dialog box</p>',
+						{
+        					'autoDimensions'	: false,
+							'width'        		: 350,
+							'height'       		: 'auto',
+							'transitionIn'		: 'none',
+							'transitionOut'		: 'none'
+						});
+		}
+
+		function showLogin(){
+			$.fancybox('<h1>Hi!</h1><p>This is an example of a simple popup dialog box</p>',
+						{
+        					'autoDimensions'	: false,
+							'width'        		: 350,
+							'height'       		: 'auto',
+							'transitionIn'		: 'none',
+							'transitionOut'		: 'none'
+						});
+		}
+
+		function initLogin() {
+
+			$("#login_demo").fancybox({
+					'scrolling'		: 'no',
+					'titleShow'		: false,
+					'onClosed'		: function() {
+						$("#login_error").hide();
+					}
+				});
+
+
+			$("#login_form").bind("submit", function() {
+
+				if ($("#login_name").val().length < 1 || $("#login_pass").val().length < 1) {
+					$("#login_error").show();
+					$.fancybox.resize();
+					return false;
+				}
+
+				$.fancybox.showActivity();
+
+				$.ajax({
+					type		: "POST",
+					cache	: false,
+					url		: "/data/login.php",
+					data		: $(this).serializeArray(),
+					success: function(data) {
+						$.fancybox(data);
+					}
+				});
+
+			return false;
+			});
+
+
+		}
+
+	</script>
+
+</html>

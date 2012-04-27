@@ -1,0 +1,59 @@
+
+<div class="user-list-component">
+	<div class="component eight-col">
+		<div class="hd">
+			<h2>
+				Add to your lists</h2>
+		</div>
+		<div class="bd">
+			<p>
+				Your lists wil appear on your profile page and other places at guardian.co.uk. Maximum number of books is 100. <a href='http://gu.com/p/2z99y#whatsalist' target="_new">Learn More</a>.</p>
+			<div class="b3 list-item-info">
+				<div class="one-col">
+					<img src="http://static.guim.co.uk/books/data/covers/97818/57/23/7207.thumbnail.jpg" title="Ender&#039;s Game" alt="Ender&#039;s Game" width="60" />
+				</div>
+				<div class="seven-col edge">
+					<h3>
+						Ender&#039;s Game</h3>
+				</div>
+			</div>
+
+			<form id="addToYourListsForm" action="form.php" method="post">
+			<input type="hidden" name="_listNames" value="on" />
+							<input type="hidden" name="_listNames" value="on" />
+							<input type="hidden" name="_listNames" value="on" />
+			<!-- TODO: Change action to point to R2 -->
+			<input id="userName" name="userName" type="hidden" value="martimedia" />
+			<div class="eight-col list-selection-area b3">
+				<h3>
+					Add to the folowing lists</h3>
+				<div class="two-col">
+					<ul class="list-type-selection">
+						<li>
+							<input id="list-to-read" name="listNames" type="checkbox" value="books/to-read" /><input type="hidden" name="_listNames" value="on" />
+							<label for="list-to-read">
+								To read</label>
+						</li>
+						<li>
+							<input id="list-my-summer-reading" name="listNames" type="checkbox" value="books/my-summer-reading" /><input type="hidden" name="_listNames" value="on" />
+							<label for="list-my-summer-reading">
+								My summer reading</label>
+						</li>
+					
+						<li>
+							<input id="list-favourite-non-fiction-books" name="listNames" type="checkbox" value="books/favourite-non-fiction-books" /><input type="hidden" name="_listNames" value="on" />
+							<label for="list-favourite-non-fiction-books">
+								Favourite non-fiction books</label> </li>
+					</ul>
+				</div>
+			</div>
+			<div class="eight-col b3">
+				<div class="form-buttons">
+					<input type="reset" class="cancel-add-to-list fancy-button fancy-button-inline fancy-button-fancier muted" value="Cancel" />
+					<input type="submit" class="fancy-button fancy-button-inline fancy-button-fancier" value="Add" />
+				</div>
+			</div>
+			</form>
+		</div>
+	</div>
+</div>

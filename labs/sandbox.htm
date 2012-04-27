@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Ribbons in clean HTML and progressive CSS</title>
+
+	<style type="text/css">
+/*	RESET */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{	margin:0;	padding:0;}
+fieldset,img{ 	border:0;}
+h1,h2,h3,h4,h5,h6{	font-size:100%;	font-weight:normal;}
+q:before,q:after{	content:'';}
+abbr,acronym{	border:0;}
+
+/*MAIN------------------------------*/
+
+html{font-family:Sans-Serif;background:#e4e3d5;color:#666;height:101%;}
+body{width:800px;padding:5px 10px;margin:40px;background:#fff;min-height:600px;}
+h1 { font-weight:bold; font-size:120%; }
+
+button{
+   border: 1px solid #8ec1da;
+   background-color: #ddeef6;
+   border-radius: 4px;
+   box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;-o-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -webkit-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;-moz-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   color: #3985a8;
+   text-shadow: 0 1px #fff;
+   padding: 5px 30px;
+}
+
+button:hover { opacity:0.6; }
+button:active { opacity:1.0; }
+
+input, textarea {
+	padding: 9px;
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	font: normal 13px/100% Verdana, Tahoma, sans-serif;
+	width: 200px;
+	background: #FFFFFF url('bg_form.png') left top repeat-x;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));
+	background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+	box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	}
+
+input:hover, textarea:hover, input:focus, textarea:focus {	border-color: #C9C9C9;	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;	}
+
+.form label {	margin-left: 10px;	color: #999999; }
+
+.submit input {
+	width: auto;padding: 9px 15px;background: #617798;
+	border: 0;font-size: 14px;color: #FFFFFF;
+	-moz-border-radius: 5px;-webkit-border-radius: 5px;}
+
+/* PURE CSS SPEECH BUBBLES by Nicolas Gallagher - http://nicolasgallagher.com/pure-css-speech-bubbles/ */
+
+#notifications { width:200px; height:40px; display:inline-block;	 font-size:80%; vertical-align:top; }
+#game_status { width:200px; height:40px; display:inline-block; font-size:80%;	 }
+
+/*  BUBBLE WITH AN ISOCELES TRIANGLE */
+.triangle-isosceles {
+	position:relative;	padding:15px;	margin:1em 0 3em;	color:#000;
+	background:#f3961c; /* default background for browsers without gradient support */
+	background:-webkit-gradient(linear, 0 0, 0 100%, from(#f9d835), to(#f3961c));background:-moz-linear-gradient(#f9d835, #f3961c);background:-o-linear-gradient(#f9d835, #f3961c);background:linear-gradient(#f9d835, #f3961c);
+	-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;
+}
+
+.triangle-isosceles:after {
+	content:"";	position:absolute;
+	bottom:-14px; /* value = - border-top-width - border-bottom-width */
+	left:100px; /* controls horizontal position */
+	border-width:15px 15px 0; /* vary these values to change the angle of the vertex */
+	border-style:solid;	border-color:#f3961c transparent;
+    /* reduce the damage in FF3.0 */
+    display:block; width:0;
+}
+
+	</style>
+	
+</head>
+
+<body>
+	<h1 class="">UI Widgets</h1>
+
+	<p>Demo test</p>
+
+	<p>
+		<a href="#" >start</a><a href="#" >middle</a><a href="#" >end</a>
+	</p>
+
+	<div id="toolbar">
+		<button >Open Sets</button>
+		<button >Lastest Sets</button>
+		<button >Completed</button>
+		<button >Start New</button>
+	</div>
+
+	<form class="form">
+		<input type="text" name="web" id="web" />
+	</form>
+
+
+	<p id="notifications" class="triangle-isosceles">Notification Text</p>
+
+	<p id="game_status" class="triangle-isosceles">Hello<br />world</p>
+
+
+	<br />
+
+
+</body>
+
+</html>
