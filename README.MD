@@ -1,7 +1,20 @@
+
 Martimedia Sandbox for Web Tech
+===============================
+
+Examples of jQuery plugins
+* defer
+* tool tip guides
+* fancybox
+* tube maps
+* sprites
+
+Examples of CSS
+* [Superman] (/labs/css-transitions/superman.htm)
+* Less CSS
 
 
-For blog see martimedia.blogspot.co.uk
+
 
 Blog
 ----
