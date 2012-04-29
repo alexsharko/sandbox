@@ -1,0 +1,2053 @@
+﻿1	U2	22:00	23:45	Pyramid	Friday
+2	Morrissey	20:00	21:15	Pyramid	Friday
+3	Biffy Clyro	18:15	19:15	Pyramid	Friday
+4	B.B. King	16:30	17:45	Pyramid	Friday
+5	Wu-Tang Clan	15:00	16:00	Pyramid	Friday
+6	Two Door Cinema Club	13:30	14:30	Pyramid	Friday
+7	Metronomy	12:05	13:00	Pyramid	Friday
+8	The Master Musicians of Joujouka	11:00	11:40	Pyramid	Friday
+28	Primal Scream	22:30	23:45	Other Stage	Friday
+29	Mumford & Sons	20:45	22:00	Other Stage	Friday
+30	Fleet Foxes	19:10	20:15	Other Stage	Friday
+31	Bright Eyes	17:35	18:40	Other Stage	Friday
+32	The Wombats	16:10	17:05	Other Stage	Friday
+33	The Vaccines	14:50	15:40	Other Stage	Friday
+34	The Naked & Famous	13:30	14:20	Other Stage	Friday
+35	Brother	12:15	13:05	Other Stage	Friday
+36	Chipmunk	11:00	11:50	Other Stage	Friday
+58	Cee Lo Green	22:45	23:45	West Holts	Friday
+59	Chase and Status	21:15	22:15	West Holts	Friday
+60	Dr Jimmy Cliff	19:45	20:45	West Holts	Friday
+61	Heliocentrics with Mulatu	18:15	19:15	West Holts	Friday
+62	Little Dragon	16:45	17:45	West Holts	Friday
+63	Ghostpoet	15:15	16:15	West Holts	Friday
+64	Dengue Fever	13:45	14:45	West Holts	Friday
+65	Ziriguidum	12:15	13:15	West Holts	Friday
+86	DJ Shadow	22:30	23:45	John Peel	Friday
+87	Example	21:00	22:00	John Peel	Friday
+88	The Coral	19:30	20:30	John Peel	Friday
+89	I Am Kloot	18:10	19:00	John Peel	Friday
+90	Darwin Deez	16:50	17:40	John Peel	Friday
+91	Cage the Elephant	15:30	16:20	John Peel	Friday
+92	Miles Kane	14:15	15:00	John Peel	Friday
+93	Mona	13:05	13:50	John Peel	Friday
+94	Stonefield	12:00	12:40	John Peel	Friday
+95	Cocoon	11:00	11:40	John Peel	Friday
+119	Crystal Castles	23:15	0:15	The Park	Friday
+120	Caribou	21:45	22:45	The Park	Friday
+121	Special Guests	20:00	21:15	The Park	Friday
+122	Big Audio Dynamite	18:15	19:15	The Park	Friday
+123	Warpaint	16:45	17:45	The Park	Friday
+124	Jenny & Johnny	15:30	16:25	The Park	Friday
+125	Caitlin Rose	14:15	15:00	The Park	Friday
+126	Dylan Le Blanc	13:00	13:45	The Park	Friday
+127	Group Love	12:00	12:30	The Park	Friday
+128	Narasirato	11:00	11:30	The Park	Friday
+151	Brit Floyd	22:30	23:45	Acoustic	Friday
+152	Raul Malo from The Mavericks	21:00	22:00	Acoustic	Friday
+153	Eric Bibb	19:30	20:30	Acoustic	Friday
+154	Hothouse Flowers	18:00	19:00	Acoustic	Friday
+155	Newton Faulkner	16:40	17:40	Acoustic	Friday
+156	The Otway Band	15:30	16:20	Acoustic	Friday
+157	Sean Rowe	14:30	15:10	Acoustic	Friday
+158	Gabrielle Aplin	13:35	14:15	Acoustic	Friday
+159	Rainy Boy Sleep	12:40	13:20	Acoustic	Friday
+160	The Secret Sisters	12:00	12:30	Acoustic	Friday
+184	Barenaked Ladies	23:10	0:25	Avalon Stage	Friday
+185	The Beat	21:30	22:40	Avalon Stage	Friday
+186	KT Tunstall	20:00	21:00	Avalon Stage	Friday
+187	Chumbawamba	18:30	19:30	Avalon Stage	Friday
+188	Katzenjammer	17:00	18:00	Avalon Stage	Friday
+189	Mama Rosin	15:40	16:30	Avalon Stage	Friday
+190	3 Daft Monkeys	14:15	15:10	Avalon Stage	Friday
+191	Hobo Jones & The Junkyard Dogs	13:00	13:55	Avalon Stage	Friday
+213	Asian Dub Foundation	23:15	0:30	G Stage	Friday
+214	Nihal	22:15	23:15	G Stage	Friday
+215	Younger Brother	21:00	22:15	G Stage	Friday
+216	Robert Babicz	19:55	21:00	G Stage	Friday
+217	Engine Earz	18:55	19:55	G Stage	Friday
+218	Pathaan	18:30	18:55	G Stage	Friday
+219	Dub FX	17:10	18:30	G Stage	Friday
+220	Pathaan	16:10	17:10	G Stage	Friday
+221	Nathan Flutebox Lee	15:10	16:10	G Stage	Friday
+222	Shpongle DJ Set	14:00	15:10	G Stage	Friday
+223	Sashi & The Wild Beans	13:00	14:00	G Stage	Friday
+250	Fatboy Slim	23:15	0:30	EAST DANCE	Friday
+251	Fatboy v Carl Cox	22:15	23:15	EAST DANCE	Friday
+252	Carl Cox	21:00	22:15	EAST DANCE	Friday
+253	Ke$ha	20:00	21:00	EAST DANCE	Friday
+254	The Midnight Beast	18:30	19:30	EAST DANCE	Friday
+255	Katy B	17:00	18:00	EAST DANCE	Friday
+256	Fenech-Soler	15:50	16:35	EAST DANCE	Friday
+257	Mike Posner	14:50	15:30	EAST DANCE	Friday
+258	Beardyman (Live)	13:30	14:30	EAST DANCE	Friday
+259	Terror Danjah presents Hard Drive	12:30	13:30	EAST DANCE	Friday
+260	DJ Baby Malc - DJ & Compare	11:30	12:30	EAST DANCE	Friday
+289	Annie Mac	23:00	0:30	Oxlyers In West	Friday
+290	Erol Alkan	21:30	23:00	Oxlyers In West	Friday
+291	James Holden	20:00	21:30	Oxlyers In West	Friday
+292	Jamie xx	19:00	20:00	Oxlyers In West	Friday
+293	Sbtrkt Live  (Live)	18:15	19:00	Oxlyers In West	Friday
+294	Jim Jones Revue (Live)	17:00	17:40	Oxlyers In West	Friday
+295	King Blues (Live)	16:00	16:40	Oxlyers In West	Friday
+296	Guillemots (Live)	15:00	15:40	Oxlyers In West	Friday
+297	Emmy The Great (Live)	14:00	14:40	Oxlyers In West	Friday
+298	Summer Camp  (Live)	13:00	13:40	Oxlyers In West	Friday
+299	Dry the River (Live)	12:00	12:40	Oxlyers In West	Friday
+300	Danny And The Champions Of The World (Live)	11:00	11:40	Oxlyers In West	Friday
+338	Subb-an ft Beckfod  (Live)	2:00	3:00	Wow!	Friday
+339	Futureboogie	1:00	2:00	Wow!	Friday
+340	Soul Clap	23:00	1:00	Wow!	Friday
+341	Tensnake (Live)	22:00	23:00	Wow!	Friday
+342	Greg Wilson	20:00	22:00	Wow!	Friday
+343	Eglo Records Ft. Floating Points	17:00	20:00	Wow!	Friday
+344	Endian	16:00	17:00	Wow!	Friday
+345	Maxxi Soundsystem	15:00	16:00	Wow!	Friday
+346	Dead Rose Music Company	14:00	15:00	Wow!	Friday
+347	Starsmith DJ Set	13:00	14:00	Wow!	Friday
+348	Feel The Real Soundsystem	12:00	13:00	Wow!	Friday
+379	BILLY BRAGG	21:00	23:00	Leftfield	Friday
+380	BADLY DRAWN BOY	19:30	21:00	Leftfield	Friday
+381	THE SOUND OF RUM	18:00	19:30	Leftfield	Friday
+382	Comedy with ANDY ZALTZMAN	17:00	18:00	Leftfield	Friday
+383	BILL'S BIG ROUND-UP feat. Billy Bragg and Sam Duckworth	15:00	17:00	Leftfield	Friday
+384	Debate: POWER IN A UNION	13:30	15:00	Leftfield	Friday
+385	Debate: GLOBAL SOLIDARITY	12:00	13:30	Leftfield	Friday
+408	Charles Hazlewood All Stars play Mike Oldfield's Tubular Bells	0:25	1:00	Spirit of 71	Friday
+409	Funktion One Experimental Soundfield	23:00	0:25	Spirit of 71	Friday
+410	Melanie	22:00	23:00	Spirit of 71	Friday
+411	Yorke Dance Project	21:35	21:50	Spirit of 71	Friday
+412	The Crazy World of Arthur Brown	20:15	21:30	Spirit of 71	Friday
+413	Yorke Dance Project	19:50	20:05	Spirit of 71	Friday
+414	Edgar Broughton	18.45	19:45	Spirit of 71	Friday
+415	Murray Lachlan Young	18.15	18:45	Spirit of 71	Friday
+416	Marsupilami	17:15	18:15	Spirit of 71	Friday
+417	Bex Marshall	16:15	17:00	Spirit of 71	Friday
+418	Spirit of 71 House Band Jam with Raja Ram	15.15	16:15	Spirit of 71	Friday
+419	Tom E Lewis and Friends	14:30	15:15	Spirit of 71	Friday
+420	Abraham Sanyang and Moussa Kouyate	13.45	14:30	Spirit of 71	Friday
+421	Noel Harrison Trio and friends	12:45	13:45	Spirit of 71	Friday
+422	Solstice String Quartet	12:00	12:45	Spirit of 71	Friday
+423	Yorke Dance Project	11:40	11:55	Spirit of 71	Friday
+450	Pirates of the Carabina present FLOWN	0:14	0:59	Circus Big Top	Friday
+451	Zoe L'Amore	0:02	0:09	Circus Big Top	Friday
+452	Goltrix	23:47	23:57	Circus Big Top	Friday
+453	Feeding the Fish	23:32	23:42	Circus Big Top	Friday
+454	Miss Radida	23:20	23:27	Circus Big Top	Friday
+455	Empress Stah as Stah-Lite	23:00	23:15	Circus Big Top	Friday
+456	Judith Lanigan	22:45	22:55	Circus Big Top	Friday
+457	strings on Strings	22:29	22:40	Circus Big Top	Friday
+458	The Space Cowboy	22:04	22:24	Circus Big Top	Friday
+459	Starfiz	21:51	21:59	Circus Big Top	Friday
+460	Yvette Du Sol	21:38	21:46	Circus Big Top	Friday
+461	Miss Trixie	21:27	21:33	Circus Big Top	Friday
+462	Silvia Pavone	21:16	21:22	Circus Big Top	Friday
+463	Circolombia present URBAN	19:56	21:11	Circus Big Top	Friday
+464	Donald Grant	19:41	19:51	Circus Big Top	Friday
+465	Jamie Swan	19:30	19:36	Circus Big Top	Friday
+466	Patrik & Wes	19:15	19:25	Circus Big Top	Friday
+467	Tumble Circus	19:00	19:10	Circus Big Top	Friday
+468	Comedy Sword Swallower Thom Sellectomy	18:35	18:55	Circus Big Top	Friday
+469	"""Starfiz, winners of the Emma Insley Award """	18:20	18:30	Circus Big Top	Friday
+470	Laura Tikka	18:09	18:15	Circus Big Top	Friday
+471	Bruce Airhead	17:44	18:04	Circus Big Top	Friday
+472	nofit Howie	17:32	17:39	Circus Big Top	Friday
+473	Cirk Extempore present El Tango Pole	17:19	17:27	Circus Big Top	Friday
+474	Black Eagles	16:49	17:14	Circus Big Top	Friday
+475	Frank Olivier	16:34	16:44	Circus Big Top	Friday
+476	Miss Trixie	16:23	16:29	Circus Big Top	Friday
+477	Mimbre	15:43	16:18	Circus Big Top	Friday
+478	Yvette Du Sol	15:30	15:38	Circus Big Top	Friday
+479	Wookey Hole Circus	15:10	15:25	Circus Big Top	Friday
+480	The Great Davido amd Friends with The Thom Pod Little Big Band	14:30	15:05	Circus Big Top	Friday
+481	Laura Tikka	14:19	14:25	Circus Big Top	Friday
+482	Coreo Hazzard	13:54	14:14	Circus Big Top	Friday
+483	Cirk Extempore present White	13:42	13:49	Circus Big Top	Friday
+484	The Others	13:17	13:37	Circus Big Top	Friday
+485	Silvia Pavone	13:06	13:12	Circus Big Top	Friday
+486	Starfiz	12:53	13:01	Circus Big Top	Friday
+487	Yvette Du Sol	12:40	12:48	Circus Big Top	Friday
+488	Wookey Hole Circus	12:10	12:35	Circus Big Top	Friday
+489	Circomedia	11:40	12:05	Circus Big Top	Friday
+490	Rhythm Doctors	10:45	11:35	Circus Big Top	Friday
+578	Rebel Sonix	5:00	6:00	The Hub	Friday
+579	Rob Da Bank	4:00	5:00	The Hub	Friday
+580	10Sui	3:00	4:00	The Hub	Friday
+581	Special Guest	2:00	3:00	The Hub	Friday
+582	Rack n Ruin and P Money	12:30	2:00	The Hub	Friday
+583	DJ Jim Bitch	23:00	12:30	The Hub	Friday
+584	The Boxettes	22:00	23:00	The Hub	Friday
+585	Mark Nunnery	20:00	22:00	The Hub	Friday
+586	DJ Malaka	18:00	20:00	The Hub	Friday
+587	Doedils	17:00	18:00	The Hub	Friday
+588	Molotov JukeBox	16:00	17:00	The Hub	Friday
+589	Solution Soundsystem	15:00	16:00	The Hub	Friday
+630	DIRTYPHONICS	2:00	3:00	Arcadia	Friday
+631	STANTON WARRIORS	0:45	2:00	Arcadia	Friday
+632	"""""""SPIDER"""""""	0:00	0:45	Arcadia	Friday
+633	DEEKLINE & ED SOLO	23:00	0:00	Arcadia	Friday
+634	DR MEAKER	22:00	23:00	Arcadia	Friday
+635	GYPSY UNIT	21:15	22:00	Arcadia	Friday
+636	ORKESTRA DE SOL	20:30	21:15	Arcadia	Friday
+637	DJ SMERINOFF	19:30	20:30	Arcadia	Friday
+638	BOXETTES	18:45	19:30	Arcadia	Friday
+639	DUB FX	18:00	18:45	Arcadia	Friday
+665	Ed Sheeran	19:30	19:55	BBC Introducing	Friday
+666	F-Block (DJ)	18:45	19:10	BBC Introducing	Friday
+667	Spotlight Kid	18:00	18:25	BBC Introducing	Friday
+668	Guest	17:15	17:40	BBC Introducing	Friday
+669	Fever Fever	16:30	16:55	BBC Introducing	Friday
+670	Owl in The Sun	15:45	16:10	BBC Introducing	Friday
+671	Dionne Reid	15:00	15:25	BBC Introducing	Friday
+672	The Patrick James Pearson Band	14:15	14:40	BBC Introducing	Friday
+673	Sparrow	13:30	13:55	BBC Introducing	Friday
+674	Deep Cut	12:45	13:10	BBC Introducing	Friday
+675	Twin Brother	12:00	12:25	BBC Introducing	Friday
+710	Beginners: Houses And Simple Aspects	16:00	17:00	ASTRO DOME WORKSHOPS	Friday
+711	Astro Games With The Sun And The Moon	14:00	16:00	ASTRO DOME WORKSHOPS	Friday
+712	"""Change, Revolution And How Not To Panic!"""	11:00	14:00	ASTRO DOME WORKSHOPS	Friday
+713	Venus Meditation	9:30	11:00	ASTRO DOME WORKSHOPS	Friday
+725	Twisted Cabaret	2:00	3:00	Astrolabe	Friday
+726	Siyaya	1:10	1:55	Astrolabe	Friday
+727	"blackSKYwhite ""Timehole"""	0:00	1:00	Astrolabe	Friday
+728	Jaipur Kawa Brass Band	23:15	0:00	Astrolabe	Friday
+729	Frost Impro Allstars	18:00	19:00	Astrolabe	Friday
+730	Bowfins with Stringtease	17:30	18:00	Astrolabe	Friday
+731	Antique Dances	17:05	17:25	Astrolabe	Friday
+732	Jonathan Kay	15:30	17:00	Astrolabe	Friday
+733	Insect Circus	14:30	15:30	Astrolabe	Friday
+734	Andi Neate	13:50	14:20	Astrolabe	Friday
+735	Mimbre	13:10	13:45	Astrolabe	Friday
+736	Black Eagles	12:40	13:05	Astrolabe	Friday
+737	Eletricat	12:20	12:35	Astrolabe	Friday
+738	"Dr. Ken Farquhar ""How to save the Planet"""	11:30	12:15	Astrolabe	Friday
+739	Taiko Meantime	11:00	11:30	Astrolabe	Friday
+740	"""Charmian Hughes, Dave Thompson, Liam Jones & Dan Evans"""	Comperes:		Astrolabe	Friday
+791	Banco De Gaia with Dr Trippy	0:00:00	1:30:00	Avalon Café	Friday
+792	Flipron	22:30:00	0:00:00	Avalon Café	Friday
+793	Kidnap Alice	21:00:00	22:30:00	Avalon Café	Friday
+794	Mojohooker	19:30:00	21:00:00	Avalon Café	Friday
+795	The New Joe Public	18:30:00	19:30:00	Avalon Café	Friday
+796	Julie Daske	17:30:00	18:30:00	Avalon Café	Friday
+797	Mik Artistik	16:00:00	17:30:00	Avalon Café	Friday
+798	Sashi and The Wild Beans	15:30:00	16:00:00	Avalon Café	Friday
+799	The New Forbidden	14:30:00	15:30:00	Avalon Café	Friday
+800	Nick Langston & The Cool Nachos	13:30:00	14:30:00	Avalon Café	Friday
+801	Dumb Instrument	12:30:00	13:30:00	Avalon Café	Friday
+802	Honk and Tonk	11:30:00	12:30:00	Avalon Café	Friday
+803	The Rowan Hudson Trio	10:30:00	11:30:00	Avalon Café	Friday
+844	The Vagaband	21:30:00	22:30:00	Bandstand	Friday
+845	Loonaloop	22:00:00	23:00:00	Bandstand	Friday
+846	ARCC	20:30:00	21:30:00	Bandstand	Friday
+847	Raghu Dixit	19:15:00	20:10:00	Bandstand	Friday
+848	Bethia Beadman Band	18:00:00	18:55:00	Bandstand	Friday
+849	Dogan Mehmet	17:00:00	17:40:00	Bandstand	Friday
+850	George Mabusa Group	16:00:00	16:40:00	Bandstand	Friday
+851	TopShelf Jazz	15:00:00	15:40:00	Bandstand	Friday
+852	The Inbredz	14:15:00	14:45:00	Bandstand	Friday
+853	Port Erin	13:30:00	14:00:00	Bandstand	Friday
+854	SPECIAL GUEST	12:45:00	13:15:00	Bandstand	Friday
+855	Mike Harper	12:00:00	12:30:00	Bandstand	Friday
+887	SPECIAL GUEST DJ	5:30	6:00	BASSLINE CIRCUS	Friday
+888	ENGINE EARZ EXPERIMENT	5:00	5:30	BASSLINE CIRCUS	Friday
+889	TRUE TIGER	4:15	5:00	BASSLINE CIRCUS	Friday
+890	GENTLEMANS DUB CLUB & P MONEY	3:45	4:15	BASSLINE CIRCUS	Friday
+891	TODDLA T	3:00	3:45	BASSLINE CIRCUS	Friday
+892	EXAMPLE	2:20	3:00	BASSLINE CIRCUS	Friday
+893	SHLOMO'S GLASTO CIRCUS (ft surprise guests)	1:15	2:15	BASSLINE CIRCUS	Friday
+894	Guest DJ	1:00	1:15	BASSLINE CIRCUS	Friday
+895	ED SHEERAN	0:30	1:00	BASSLINE CIRCUS	Friday
+896	SPECIAL GUEST	0:15	0:30	BASSLINE CIRCUS	Friday
+897	THE BOXETTES	23:45	0:15	BASSLINE CIRCUS	Friday
+898	(DJ) CAL JADER	23:30	23:45	BASSLINE CIRCUS	Friday
+899	LATIN DUB SOUNDSYSTEM	23:00	23:30	BASSLINE CIRCUS	Friday
+900	(DJ) CAL JADER	22:30	23:00	BASSLINE CIRCUS	Friday
+901	KAYA	22:00	22:30	BASSLINE CIRCUS	Friday
+902	"""""""CIRCO GRINGO""""(BASSLINE CIRCUS SHOW)"""	21:00	22:00	BASSLINE CIRCUS	Friday
+903	SPECIAL GUESTS	18:00	21:00	BASSLINE CIRCUS	Friday
+904	FANTAZIO FOR KIDZ WORKSHOP	17:00	18:00	BASSLINE CIRCUS	Friday
+939	Erol Alkan	1:30	3:00	Beat Hotel	Friday
+940	Hannah Holland & Dan Beaumont	0:00	1:30	Beat Hotel	Friday
+941	Rory Phillips	22:30	0:00	Beat Hotel	Friday
+942	Romy XX (DJ Set)	21:30	22:30	Beat Hotel	Friday
+943	Fenech-Soler DJs	20:00	21:30	Beat Hotel	Friday
+944	Olugbenga (Metronomy DJ Set)	18:30	20:00	Beat Hotel	Friday
+945	Slugrave	17:00	18:30	Beat Hotel	Friday
+946	Heavenly Jukebox	15:00	18:00	Beat Hotel	Friday
+947	Pathaan	13:00	15:00	Beat Hotel	Friday
+948	Room Service	11:00	13:00	Beat Hotel	Friday
+980	808 state	5:00:00	6:00:00	Bez's Acid House	Friday
+981	Jagz Kooner	4:00:00	5:00:00	Bez's Acid House	Friday
+982	Arlo	3:00:00	4:00:00	Bez's Acid House	Friday
+983	Justin Robertson	2:00:00	3:00:00	Bez's Acid House	Friday
+984	Lazio Legeezar	1:00:00	2:00:00	Bez's Acid House	Friday
+985	Jack B	0:00:00	1:00:00	Bez's Acid House	Friday
+986	Vince Vega	23:00:00	0:00:00	Bez's Acid House	Friday
+1017	Rabbit Foot Spasm Band	1:00:00	2:45:00	Bourbon Street	Friday
+1018	Orbitsuns	23:30:00	0:45:00	Bourbon Street	Friday
+1019	TBC	22:15:00	23:15:00	Bourbon Street	Friday
+1020	Simon McBride	20:30:00	22:00:00	Bourbon Street	Friday
+1021	Ben Poole	19:15:00	20:15:00	Bourbon Street	Friday
+1022	Will Scott	18:00:00	19:00:00	Bourbon Street	Friday
+1023	"""Benoit Viellefon & His Orchestra (featuring Eddie """"Tan Tan"""" Thornton on trumpet...)"""	16:45:00	17:45:00	Bourbon Street	Friday
+1024	Alpha Manouvre	15:30:00	16:30:00	Bourbon Street	Friday
+1025	Nova Scotia Jazz band	14:15:00	15:15:00	Bourbon Street	Friday
+1026	Havana Swing	13:00:00	14:00:00	Bourbon Street	Friday
+1027	Grey Dogs Jazz Band	12:00:00	12:45:00	Bourbon Street	Friday
+1067	Matt Kirshen	1:30	2:00	Cabaret Tent	Friday
+1068	Special Guest TBC	1:15	1:25	Cabaret Tent	Friday
+1069	Phil Kay	0:40	1:10	Cabaret Tent	Friday
+1070	Feeding the Fish	0:25	0:35	Cabaret Tent	Friday
+1071	Abandoman	23:50	0:20	Cabaret Tent	Friday
+1072	Nick Doody	23:15	23:45	Cabaret Tent	Friday
+1073	Shazia Mirza	22:40	23:10	Cabaret Tent	Friday
+1074	Phil Nichol	22:05	22:35	Cabaret Tent	Friday
+1075	Holly Walsh	21:30	22:00	Cabaret Tent	Friday
+1076	Les Ooh La Las	21:20	21:25	Cabaret Tent	Friday
+1077	Simon Munnery	20:45	21:15	Cabaret Tent	Friday
+1078	Paul Nathan	23:30	20:40	Cabaret Tent	Friday
+1079	Josh Widdicombe	19:55	20:25	Cabaret Tent	Friday
+1080	Josie Long	19:20	19:50	Cabaret Tent	Friday
+1081	Frank Olivier	19:05	19:15	Cabaret Tent	Friday
+1082	4 Poofs and a Piano	18:30	19:00	Cabaret Tent	Friday
+1083	Luke Wright	17:55	18:25	Cabaret Tent	Friday
+1084	"""""""Alice and Alice"""" by Cocoloco"""	17:40	17:50	Cabaret Tent	Friday
+1085	Tom Deacon	17:05	17:35	Cabaret Tent	Friday
+1086	The Birdmann	16:50	17:00	Cabaret Tent	Friday
+1087	Rhythm Wave	16:15	16:45	Cabaret Tent	Friday
+1088	Frank Olivier	16:00	16:10	Cabaret Tent	Friday
+1089	Steve Gribbin	15:25	15:55	Cabaret Tent	Friday
+1090	Paul Nathan	15:10	15:20	Cabaret Tent	Friday
+1091	Andi Neate	14:45	15:05	Cabaret Tent	Friday
+1092	Donald Grant	14:30	14:40	Cabaret Tent	Friday
+1093	Attila the Stockbroker	13:50	14:25	Cabaret Tent	Friday
+1094	Carrivick Sisters	13:15	13:45	Cabaret Tent	Friday
+1095	Aisle16	12:35	13:10	Cabaret Tent	Friday
+1096	Big Beats	12:00	12:30	Cabaret Tent	Friday
+1097	Stuart Goldsmith		Comperes	Cabaret Tent	Friday
+1098	Arthur Smith			Cabaret Tent	Friday
+1099	Craig Campbell			Cabaret Tent	Friday
+1100	Barry Castagnola			Cabaret Tent	Friday
+1168	Rob Mello	5:00	6:00	CAMPO PEQUENO	Friday
+1169	2 Bears	4:00	5:00	CAMPO PEQUENO	Friday
+1170	Justin Robertson	3:00	4:00	CAMPO PEQUENO	Friday
+1171	Zero 7 dj set	2:00	3:00	CAMPO PEQUENO	Friday
+1172	"""""""Fiesta de la Noche"""" Late Night Bearded Kitten Games"""	1:30	2:00	CAMPO PEQUENO	Friday
+1173	"""""""Toro Libre"""" The Bearded Kitten Show"""	1:00	1:30	CAMPO PEQUENO	Friday
+1174	Unabombers	23:30	1:00	CAMPO PEQUENO	Friday
+1175	Sugarhouse sessions	22:30	23:30	CAMPO PEQUENO	Friday
+1176	"""Los Interactivos Bearded Kitten"""	13:00	17:00	CAMPO PEQUENO	Friday
+1207	DJ Kormac	4:30:00	6:00:00	Chai Wallahs	Friday
+1208	Smerins Anti Social	3:30:00	4:30:00	Chai Wallahs	Friday
+1209	Sheelanagig	2:00:00	3:00:00	Chai Wallahs	Friday
+1210	DJ Parker	23:45:00	1:45:00	Chai Wallahs	Friday
+1211	Joe Driscoll	22:45:00	23:45:00	Chai Wallahs	Friday
+1212	Benjo Boko	21:15:00	22:30:00	Chai Wallahs	Friday
+1213	DJ Moneyshot	19:30:00	21:15:00	Chai Wallahs	Friday
+1214	The Resonators	18:30:00	19:30:00	Chai Wallahs	Friday
+1215	Scubaroots	17:00:00	18:00:00	Chai Wallahs	Friday
+1216	Medicine Creek	15:30:00	16:30:00	Chai Wallahs	Friday
+1217	Phillip Henry & Hannah Martin	14:00:00	15:00:00	Chai Wallahs	Friday
+1218	John Fairhurst	13:00:00	13:45:00	Chai Wallahs	Friday
+1219	Lamp Liter	12:00:00	12:45:00	Chai Wallahs	Friday
+1257	Kormac VJ Set	4:20	5:00	Club Dada	Friday
+1258	DJ Switch	3:20	4:20	Club Dada	Friday
+1259	Le KKc Orchestra	2:20	3:20	Club Dada	Friday
+1260	Movin Melvin Brown	1:35	2:20	Club Dada	Friday
+1261	The Correspondents featuring the Twilight Players	1:30	1:35	Club Dada	Friday
+1262	Algorhythmik	0:10	1:30	Club Dada	Friday
+1263	Fat 45	23:00	0:10	Club Dada	Friday
+1264	Latin Dub Soundsystem	17:00	18:00	Club Dada	Friday
+1265	Wara	16:00	17:00	Club Dada	Friday
+1266	Ruby And The Vines	15:00	16:00	Club Dada	Friday
+1267	Fur -	14:00	15:00	Club Dada	Friday
+1268	DJ Cal Jader & Arias	13:00	14:00	Club Dada	Friday
+1307	Scubaroots	1:00	2:00	Croissant Neuf	Friday
+1308	Lancashire Hotpots	23:30	1:00	Croissant Neuf	Friday
+1309	Chris Rees Band	19:00	23:30	Croissant Neuf	Friday
+1310	Easy & The Cali Five	17:30	19:00	Croissant Neuf	Friday
+1311	Rory McCleod Band	16:00	17:30	Croissant Neuf	Friday
+1312	Ed Sheeran	14:30	16:00	Croissant Neuf	Friday
+1313	Beaubowbelles	13:00	14:30	Croissant Neuf	Friday
+1335	DJ Felix El Gato	2:00	3:00	Cubana Salsa Tent	Friday
+1336	Sur Caribe	0:30	2:00	Cubana Salsa Tent	Friday
+1337	DJ Felix El Gato	0:00	0:30	Cubana Salsa Tent	Friday
+1338	Bandera Cubana	18:30	19:30	Cubana Salsa Tent	Friday
+1339	DJ Jose Luis	18:00	18:30	Cubana Salsa Tent	Friday
+1340	Nicolai & Helena - Salsa Class	17:00	18:00	Cubana Salsa Tent	Friday
+1341	DJ Jose Luis	16:30	17:00	Cubana Salsa Tent	Friday
+1342	Wara	15:30	16:30	Cubana Salsa Tent	Friday
+1343	DJ Jose Luis	15:00	15:30	Cubana Salsa Tent	Friday
+1344	Nigel May - Salsa Class	14:00	15:00	Cubana Salsa Tent	Friday
+1345	Bandera Cubana	13:00	14:00	Cubana Salsa Tent	Friday
+1346	Nigel May - Salsa Class	12:00	13:00	Cubana Salsa Tent	Friday
+1374	Bobby Friction	23:00	0:30	CUBEHENGE	Friday
+1375	Craig Charles DJ set	21:30	23:00	CUBEHENGE	Friday
+1376	Crazy P Soundsystem	19:15	20:30	CUBEHENGE	Friday
+1377	Lethal Bizzle (Live)	18:00	19:00	CUBEHENGE	Friday
+1378	Oh Land (Live)	16:30	17:30	CUBEHENGE	Friday
+1379	Kraak & Smaak DJ set	15:00	16:30	CUBEHENGE	Friday
+1380	DUFFSTEP (Live)	14:00	15:00	CUBEHENGE	Friday
+1381	Stinkahbell	13:00	14:00	CUBEHENGE	Friday
+1382	Little Miss DJ	12:00	13:00	CUBEHENGE	Friday
+1419	John & Monkey	5:00	7:00	CUBEHENGE (Heds Party)	Friday
+1420	Paul Gillies	3:00	5:00	CUBEHENGE (Heds Party)	Friday
+1421	Ali Rez	1:30	3:00	CUBEHENGE (Heds Party)	Friday
+1422	Sparky	5:00	7:00	CUBEHENGE (Heds Party)	Friday
+1423	Ed Carny	3:00	5:00	CUBEHENGE (Heds Party)	Friday
+1424	Nice Up! Soundsystem	1:30	3:00	CUBEHENGE (Heds Party)	Friday
+1440	Propaganda DJ's	1:30	7:00	EAST DANCE (Heds Party)	Friday
+1441	Swaparama	1:30	4:30	EAST DANCE (Heds Party)	Friday
+1442	Smoke Eaters	4:30	7:00	EAST DANCE (Heds Party)	Friday
+1443	Eclectic Ballroom	4:30	7:00	EAST DANCE (Heds Party)	Friday
+1444	Danger Ferro	2:30	4:00	EAST DANCE (Heds Party)	Friday
+1445	Novak 3D Disco	1:30	2:30	EAST DANCE (Heds Party)	Friday
+1449	JJ GEORGE	3:00	5:00	EL PENOL CANTINA	Friday
+1450	JULIAN MR M	1:00	3:00	EL PENOL CANTINA	Friday
+1451	KEVIN GATO	23:00	1:00	EL PENOL CANTINA	Friday
+1452	OSCAR ARROYO	21:00	23:00	EL PENOL CANTINA	Friday
+1453	ITZA	19:00	21:00	EL PENOL CANTINA	Friday
+1454	GROOVE COLLECTORS	17:00	19:00	EL PENOL CANTINA	Friday
+1472	Mark Thomas	14:00		Free University Of Glastonbury	Friday
+1473	Jon Ronson	13:00		Free University Of Glastonbury	Friday
+1474	Tony White	12:15		Free University Of Glastonbury	Friday
+1475	Johnny Trunk	11:30		Free University Of Glastonbury	Friday
+1495	Gaudi	2:00	3:00	Glade Lounge	Friday
+1496	Laughing Buddha	1:00	2:00	Glade Lounge	Friday
+1497	James Monro	23:45	1:00	Glade Lounge	Friday
+1498	Liquid Ross	22:30	23:45	Glade Lounge	Friday
+1499	Aliji	21:15	22:30	Glade Lounge	Friday
+1500	Mirror System	20:00	21:15	Glade Lounge	Friday
+1521	Special Guest	2:15	3:00	Greenpeace Stage	Friday
+1522	Junkyard Scientists	1:30	2:30	Greenpeace Stage	Friday
+1523	Six Nation State	0:45	1:15	Greenpeace Stage	Friday
+1524	Molotov Jukebox	23:45	0:30	Greenpeace Stage	Friday
+1525	Tankus	23:00	23:30	Greenpeace Stage	Friday
+1526	Beans on Toast	22:15	22:45	Greenpeace Stage	Friday
+1527	Giovanna	21:30	22:00	Greenpeace Stage	Friday
+1545	Electric Wire Hustle (Live)	2:00	3:00	Magic Bubbles	Friday
+1546	Dub FX ft Flower Fairy and Snareophobe (Live)	0:30	2:00	Magic Bubbles	Friday
+1547	High Rankin	23:00	0:30	Magic Bubbles	Friday
+1548	Mista Savona (Live)	21:30	23:00	Magic Bubbles	Friday
+1549	J-Treole (Live)	20:45	21:30	Magic Bubbles	Friday
+1550	Infinite Scale	19:30	20:45	Magic Bubbles	Friday
+1551	The Beekeepers	18:30	19:30	Magic Bubbles	Friday
+1552	Jalapeno Soundsystem	17:00	18:30	Magic Bubbles	Friday
+1553	Basements Freaks	16:00	17:00	Magic Bubbles	Friday
+1554	Jalapeno Soundsystem	15:00	16:00	Magic Bubbles	Friday
+1555	Visions of Trees (Live)	14:00	15:00	Magic Bubbles	Friday
+1556	Lovelle	13:00	14:00	Magic Bubbles	Friday
+1557	Kangaroo Moon (Live)	12:00	13:00	Magic Bubbles	Friday
+1596	Brian Boothby	2:00	3:00	Mandala Stage	Friday
+1597	Tribal Voices	1:00	2:00	Mandala Stage	Friday
+1598	Akahum	0:00	1:00	Mandala Stage	Friday
+1599	The Kays	23:00	0:00	Mandala Stage	Friday
+1600	Bubbledubble	22:00	23:00	Mandala Stage	Friday
+1601	Mal Webb	21:00	22:00	Mandala Stage	Friday
+1602	Janie Dare	20:00	21:00	Mandala Stage	Friday
+1603	Tess	19:00	20:00	Mandala Stage	Friday
+1604	Jaki Windmill	18:00	19:00	Mandala Stage	Friday
+1605	The Pyramids Of SNAFU	17:00	18:00	Mandala Stage	Friday
+1606	Andrew Morris	15:00	17:00	Mandala Stage	Friday
+1607	Sixpenny Wayke	14:00	15:00	Mandala Stage	Friday
+1608	The Portraits	13:00	14:00	Mandala Stage	Friday
+1609	Mandala Poets	12:00	13:00	Mandala Stage	Friday
+1648	David'Squeaky'George (Paris' Acid Ball)	4:30	6:00	NYC DOWNLOW	Friday
+1649	Dan Beaumont (Jam Factory/Disco Bloodbath)	3:00	4:30	NYC DOWNLOW	Friday
+1650	VERY SPECIAL GUEST	1:30	3:00	NYC DOWNLOW	Friday
+1651	James Hillard (Horse Meat Disco)	0:00	1:30	NYC DOWNLOW	Friday
+1652	"""Luke Solomon (Classic, Music for Freaks)"""	23:00	0:00	NYC DOWNLOW	Friday
+1653	Tristan da Cunha( Redux / backtobasics)	22:00	23:00	NYC DOWNLOW	Friday
+1675	Life in a day	1:00	2:35	Pilton Palais Cinema Tent	Friday
+1676	Social Network	22:30	0:30	Pilton Palais Cinema Tent	Friday
+1677	Killing bono 	20:30	22:15	Pilton Palais Cinema Tent	Friday
+1678	King Speech	18:00	19:58	Pilton Palais Cinema Tent	Friday
+1679	Made in Dagenham	15:30	17:23	Pilton Palais Cinema Tent	Friday
+1680	Rango	13:00	14:47	Pilton Palais Cinema Tent	Friday
+1681	Rio 3D	11:00	12:35	Pilton Palais Cinema Tent	Friday
+1700	Sound of Rum	18:05	19:00	Poetry and Words	Friday
+1701	Spliff Richard	17:40	18:05	Poetry and Words	Friday
+1702	Dizraeli	17:05	17:40	Poetry and Words	Friday
+1703	Vanessa Kisuule	16:40	17:05	Poetry and Words	Friday
+1704	Sin One	16:10	16:40	Poetry and Words	Friday
+1705	Murray Lachlan Young	15:20	16:10	Poetry and Words	Friday
+1706	Pete the Temp	14:55	15:20	Poetry and Words	Friday
+1707	Jodi Ann Bickley	14:30	14:55	Poetry and Words	Friday
+1708	Tim Clare	14:05	14:30	Poetry and Words	Friday
+1709	Ralph Swift	13:40	14:05	Poetry and Words	Friday
+1710	John Osborne	13:15	13:40	Poetry and Words	Friday
+1711	Adam Kammerling	12:50	13:15	Poetry and Words	Friday
+1712	Scott Tyrrell	12:25	12:50	Poetry and Words	Friday
+1713	Poeticat	12:00	12:25	Poetry and Words	Friday
+1714	Pre-show with Benita Johnson	11:45	12:00	Poetry and Words	Friday
+1747	Helen Noir- (www.thedownlowradio.com)	16:00	18:00	PORN KIOSK DAYTIME	Friday
+1748	NACHO-Dubbed out disco and the psychedelic soul	18:00	20:00	PORN KIOSK DAYTIME	Friday
+1749	NACHO/ATLAY	20:00	21:00	PORN KIOSK DAYTIME	Friday
+1770	The Underground Rebel Bingo Club	1:30	3:00	PUSSY PARLURE	Friday
+1771	Nick Warren Cosmic Disco Set	0:00	1:30	PUSSY PARLURE	Friday
+1772	The Nextmen ft. MC Wrec (Live)	22:30	0:00	PUSSY PARLURE	Friday
+1773	DJ Task	21:30	22:30	PUSSY PARLURE	Friday
+1774	King Kapisi (Live)	20:45	21:30	PUSSY PARLURE	Friday
+1775	Kormac DJ	19:30	20:45	PUSSY PARLURE	Friday
+1776	Baby Sol (Live)	18:30	19:30	PUSSY PARLURE	Friday
+1777	Dominque Young Unique (Live)	17:20	18:05	PUSSY PARLURE	Friday
+1778	DJ Delay	15:50	17:20	PUSSY PARLURE	Friday
+1779	Black Jesus Experience (Live)	14:50	15:50	PUSSY PARLURE	Friday
+1780	Malachai Sound System	13:30	14:30	PUSSY PARLURE	Friday
+1781	Tropics (Live)	12:15	13:10	PUSSY PARLURE	Friday
+1782	Icona Pop	11:00	12:15	PUSSY PARLURE	Friday
+1814	Evil Nine	4:00:00	6:00:00	Sharkeys / Unfairground	Friday
+1815	Jamie XX	2:30:00	4:00:00	Sharkeys / Unfairground	Friday
+1816	Rennie Pilgrem	1:00:00	2:30:00	Sharkeys / Unfairground	Friday
+1817	Fenech Soler DJ set	23:30:00	1:00:00	Sharkeys / Unfairground	Friday
+1818	Sombrero Sound System	22:00:00	23:30:00	Sharkeys / Unfairground	Friday
+1819	Stereo 8 (Blowpop)	20:00:00	22:00:00	Sharkeys / Unfairground	Friday
+1820	Will Streetwise	18:00:00	20:00:00	Sharkeys / Unfairground	Friday
+1821	9000 Ears Soundsystem	16:00:00	18:00:00	Sharkeys / Unfairground	Friday
+1822	TBC	14:00:00	16:00:00	Sharkeys / Unfairground	Friday
+1854	Resonators	2:00	3:00	Small World Stage	Friday
+1855	The Destroyers	0:15	2:00	Small World Stage	Friday
+1856	Mabel Myrtle Turtle	22:30	0:15	Small World Stage	Friday
+1857	The Old Dance School	21:00	22:30	Small World Stage	Friday
+1858	Jessica Goyder	20:00	21:00	Small World Stage	Friday
+1859	John Fairhurst	18:45	20:00	Small World Stage	Friday
+1860	Nathan Ball	17:30	18:45	Small World Stage	Friday
+1861	Tess	16:00	17:30	Small World Stage	Friday
+1862	Two Man Ting	14:30	16:00	Small World Stage	Friday
+1863	I-Fly	13:15	14:30	Small World Stage	Friday
+1864	Philip Henry And Hannah Martin	12:00	13:15	Small World Stage	Friday
+1900	Howard Marks - Spoken Word	18:00:00	19:00;00	So71 Café	Friday
+1901	Special guests TBC			So71 Café	Friday
+1902	Arthur Brown - Interview and Q&A with Dom	16:00:00	17:00:00	So71 Café	Friday
+1903	Howard Marks - Spoken Word	13:00:00	14:00:00	So71 Café	Friday
+1904	Andrew Kerr -' Intolerably Hip' Book signing	12:00:00	13:00:00	So71 Café	Friday
+1938	Question Time	20:30	21:30	Speakers Forum	Friday
+1939	Chris Philpott	19:25	20:30	Speakers Forum	Friday
+1940	Dr Iain Hossack	18:00	19:25	Speakers Forum	Friday
+1941	Bee Rowlatt	16:45	18:00	Speakers Forum	Friday
+1942	Brigit Strawbridge	15:30	16:45	Speakers Forum	Friday
+1943	Poetry	14:25	15:30	Speakers Forum	Friday
+1944	Aubrey Meyer	13:00	14:25	Speakers Forum	Friday
+1945	Caroline Lucas MP	11:45	13:00	Speakers Forum	Friday
+1946	Martin Abrams RSPB	10:30	11:45	Speakers Forum	Friday
+1947	Yoga	8:30	10:30	Speakers Forum	Friday
+1978	"""R+S presents James Blake (DJ set), Space Dimension Controller and Wild Geese"""	0:00	5:00	Stonebridge Bar (The Park)	Friday
+1979	Stonebridge Residents	20:00	0:00	Stonebridge Bar (The Park)	Friday
+1980	Mister Sushi And Roxanne Roll	18:15	20:00	Stonebridge Bar (The Park)	Friday
+1981	DELS (live)	17:45	18:15	Stonebridge Bar (The Park)	Friday
+1982	Kwes	16:45	17:45	Stonebridge Bar (The Park)	Friday
+1983	Sampha (live)	16:15	16:45	Stonebridge Bar (The Park)	Friday
+1984	HVN JBX	15:30	16:15	Stonebridge Bar (The Park)	Friday
+1985	Conquering Animal Sound (live)	15:00	15:30	Stonebridge Bar (The Park)	Friday
+1986	HVN JBX	13:00	15:00	Stonebridge Bar (The Park)	Friday
+2017	Rodney Branigan	2:00	3:00	Tadpole Stage	Friday
+2018	Celt Islam	1:00	2:00	Tadpole Stage	Friday
+2019	Ten Ton Tongue	0:00	1:00	Tadpole Stage	Friday
+2020	Radio Break	23:00	0:00	Tadpole Stage	Friday
+2021	Paradise 9	22:00	23:00	Tadpole Stage	Friday
+2022	Janie Dare	20:40	22:00	Tadpole Stage	Friday
+2023	Dirty Ray	19:40	20:40	Tadpole Stage	Friday
+2024	John Fairhurst	18:50	19:40	Tadpole Stage	Friday
+2025	Latin workshop	17:30	18:50	Tadpole Stage	Friday
+2026	Tattie Jam	16:40	17:30	Tadpole Stage	Friday
+2027	Carnival Collective	15:50	16:40	Tadpole Stage	Friday
+2028	Little Unsaid	14:50	15:50	Tadpole Stage	Friday
+2029	Via Trio	13:45	14:50	Tadpole Stage	Friday
+2030	Drum and Eastern Dance Workshop	12:00	13:45	Tadpole Stage	Friday
+2031	Didge workshop	11:00	12:00	Tadpole Stage	Friday
+2072	ATLAY (Tom Wick)House/World	5:00	6:00	THE DOWNLOW RADIO	Friday
+2073	Andy Blake & Joe Hart (World Unknown)	4:00	5:00	THE DOWNLOW RADIO	Friday
+2074	Andy Blake & Joe Hart (World Unknown)	3:00	4:00	THE DOWNLOW RADIO	Friday
+2075	Damo - (www.thedownlowradio.com)	2:00	3:00	THE DOWNLOW RADIO	Friday
+2076	Luke Howard (Horse Meat Disco)	1:00	2:00	THE DOWNLOW RADIO	Friday
+2077	The Duchess of Pork (Dirtbox)	0:00	1:00	THE DOWNLOW RADIO	Friday
+2078	MaK (Deep Inside Athens)	23:00	0:00	THE DOWNLOW RADIO	Friday
+2101	Macpherson (Fabric Live)	22:00	23:15	THE LONDON UNDERGROUND	Friday
+2102	"""DJ Flight (Metalheadz, Rinse FM, BM Soho)"""	23:15	0:30	THE LONDON UNDERGROUND	Friday
+2103	"""Youngsta (Tempa, Rinse FM ,BM Soho)"""	0:30	1:45	THE LONDON UNDERGROUND	Friday
+2104	SP:MC (Shogun Audio)	1:00	2:00	THE LONDON UNDERGROUND	Friday
+2105	"""D-Bridge (Exit Records, Rinse FM )"""	1:45	3:00	THE LONDON UNDERGROUND	Friday
+2106	SP:MC (Shogun Audio)	2:00	3:00	THE LONDON UNDERGROUND	Friday
+2107	"""N-Type (Wheal +Deal, Rinse FM )"""	3:00	4:00	THE LONDON UNDERGROUND	Friday
+2108	"""Ray Keith (Dread, BM Soho)"""	4:00	5:00	THE LONDON UNDERGROUND	Friday
+2109	Miss Pink (BM Soho)	5:00	6:00	THE LONDON UNDERGROUND	Friday
+2131	SCI PHI & TRONIK	1:00	3:00	THE MEETING POINT BAR	Friday
+2132	DJ NICKNAMECHRIS READ	21:00	1:00	THE MEETING POINT BAR	Friday
+2133	SHEPDOG (NICEUP)	19:00	21:00	THE MEETING POINT BAR	Friday
+2134	TOM ENO (OVEREASY)	17:00	19:00	THE MEETING POINT BAR	Friday
+2135	JAMES CURRY (OVEREASY)	15:00	17:00	THE MEETING POINT BAR	Friday
+2136	BONEBOOKBANG (OVEREASY)	13:00	15:00	THE MEETING POINT BAR	Friday
+2161	0 Junkyard Scientists	3:00	4:00	The Rabbit Hole	Friday
+2162	Oui Ja Yes	2:30	3:00	The Rabbit Hole	Friday
+2163	Mad Cows	0:00	2:30	The Rabbit Hole	Friday
+2164	Oh Land	22:30	0:00	The Rabbit Hole	Friday
+2165	Beth Rowley	21:00	22:30	The Rabbit Hole	Friday
+2166	Age Of Glass	19:00	21:00	The Rabbit Hole	Friday
+2167	Will And The People	17:00	19:00	The Rabbit Hole	Friday
+2168	Skinny Lister	15:30	17:00	The Rabbit Hole	Friday
+2169	Rabbit Hole Grand Procession	14:00	15:30	The Rabbit Hole	Friday
+2170	Naseby Crossing	13:00	14:00	The Rabbit Hole	Friday
+2203	THE CANNONBALL CLUB + JAMES CURRY (OVEREASY)	23:45	3:00	THE WEST HOLTS BAR	Friday
+2204	ME 1 RESIDENCY	20:45	21:15	THE WEST HOLTS BAR	Friday
+2205	OPENMIC WITH JOE CHIARI (email westholtsopenmic@gmail:com for a slot)	19:15	19:45	THE WEST HOLTS BAR	Friday
+2206	SMOKE FEATHERS	16:15	16:45	THE WEST HOLTS BAR	Friday
+2207	MONKEY ON A STICK	14:45	15:15	THE WEST HOLTS BAR	Friday
+2232	Very Special Guests	20:30	21:30	Tripod Stage	Friday
+2233	Special Guest (TBC)	19:00	20:00	Tripod Stage	Friday
+2234	Grace Petrie	18:00	19:00	Tripod Stage	Friday
+2235	Film: Just Do It	16:00	18:00	Tripod Stage	Friday
+2236	Jealous Of Girls vs Chubbywordsmith	15:00	16:00	Tripod Stage	Friday
+2237	Open Mic Soap Box	14:00	15:00	Tripod Stage	Friday
+2238	Pete The Temp	13:00	14:00	Tripod Stage	Friday
+2239	Wind up the Banker : Morning Maypole Wakeup	12:00	13:00	Tripod Stage	Friday
+2264	Porn Kiosk DJ Playing	16:00	20:00	VOGUE FABRICS	Friday
+2265	Caberet - Ophelia blitz and Bourgeois and Maurice .	22:00	0:00	VOGUE FABRICS	Friday
+2266	"""DirtBox DJ's / Treatment rooms / Danni Daniels, Ashley Ryder, Michelle Webb"""	0:00	6:00	VOGUE FABRICS	Friday
+10	Coldplay	22:15	23:45	Pyramid	Saturday
+11	Elbow	20:15	21:30	Pyramid	Saturday
+12	Paolo Nutini	18:30	19:30	Pyramid	Saturday
+13	Tinie Tempah	17:00	18:00	Pyramid	Saturday
+14	Rumer	15:30	16:20	Pyramid	Saturday
+15	The Gaslight Anthem	13:45	14:45	Pyramid	Saturday
+16	Tame Impala	12:15	13:15	Pyramid	Saturday
+17	Stornoway	11:00	11:45	Pyramid	Saturday
+38	The Chemical Brothers	22:30	23:45	Other Stage	Saturday
+39	White Lies	21:00	22:00	Other Stage	Saturday
+40	Friendly Fires	19:30	20:30	Other Stage	Saturday
+41	Jimmy Eat World	18:00	19:00	Other Stage	Saturday
+42	The Kills	16:30	17:30	Other Stage	Saturday
+43	Jessie J	15:00	16:00	Other Stage	Saturday
+44	Twilight Singers	13:30	14:30	Other Stage	Saturday
+45	Treetop Flyers	12:20	13:00	Other Stage	Saturday
+46	 Alice Gold	11:00	11:50	Other Stage	Saturday
+67	Big Boi	22:45	23:45	West Holts	Saturday
+68	Janelle Monáe	21:15	22:15	West Holts	Saturday
+69	Aloe Blacc	19:45	20:45	West Holts	Saturday
+70	Fool's Gold	18:15	19:15	West Holts	Saturday
+71	Omar Souleyman	16:45	17:45	West Holts	Saturday
+72	The Brandt Brauer Frick Ensemble	15:15	16:15	West Holts	Saturday
+73	Nicolas Jaar LIVE	13:45	14:45	West Holts	Saturday
+74	Narasirato	12:15	13:15	West Holts	Saturday
+75	London Afrobeat Collective	11:00	11:45	West Holts	Saturday
+97	Glasvegas	22:30	23:45	John Peel	Saturday
+98	Battles	21:00	22:00	John Peel	Saturday
+99	Noah and the Whale	19:30	20:30	John Peel	Saturday
+100	The Horrors	18:10	19:00	John Peel	Saturday
+101	Warpaint	16:50	17:40	John Peel	Saturday
+102	Anna Calvi	15:30	16:20	John Peel	Saturday
+103	Dry the River	14:15	15:00	John Peel	Saturday
+104	Yuck	13:05	13:50	John Peel	Saturday
+105	Fight Like Apes	12:00	12:40	John Peel	Saturday
+106	Brave Yesterday	11:00	11:40	John Peel	Saturday
+130	Wild Beasts	23:00	0:15	The Park	Saturday
+131	James Blake	21:30	22:30	The Park	Saturday
+132	Special Guests	19:45	21:00	The Park	Saturday
+133	Tame Impala	18:15	19:15	The Park	Saturday
+134	The Walkmen	16:45	17:45	The Park	Saturday
+135	Graham Coxon	15:30	16:15	The Park	Saturday
+136	Those Dancing Days	14:15	15:00	The Park	Saturday
+137	About Group	13:00	13:45	The Park	Saturday
+138	Balearic Folk Orchestra	12:00	12:30	The Park	Saturday
+139	Ellen & The Escapades	11:00	11:30	The Park	Saturday
+162	Deacon Blue	22:30	23:30	Acoustic	Saturday
+163	Nick Lowe	21:00	22:00	Acoustic	Saturday
+164	Pentangle	19:30	20:30	Acoustic	Saturday
+165	Thea Gilmore sings Dylan's John Wesley Harding	18:00	19:00	Acoustic	Saturday
+166	The Webb Sisters	17:00	17:40	Acoustic	Saturday
+167	Emily and The Woods	16:00	16:45	Acoustic	Saturday
+168	Isobel Anderson	15:00	15:45	Acoustic	Saturday
+169	Kassidy	14:00	14:45	Acoustic	Saturday
+170	Simon Lynge	13:00	13:40	Acoustic	Saturday
+171	Benjamin Francis Leftwich	12:00	12:40	Acoustic	Saturday
+193	Flogging Molly	23:10	0:25	Avalon Stage	Saturday
+194	Guillemots acoustic set	21:40	22:40	Avalon Stage	Saturday
+195	Newton Faulkner	20:10	21:10	Avalon Stage	Saturday
+196	C.W. Stoneking	18:40	19:40	Avalon Stage	Saturday
+197	DeVotchKa	17:10	18:10	Avalon Stage	Saturday
+198	Lau	15:40	16:40	Avalon Stage	Saturday
+199	Danny & The Champions of the World	14:15	15:10	Avalon Stage	Saturday
+200	Admiral Fallow	12:50	13:45	Avalon Stage	Saturday
+201	Flipron	11:30	12:20	Avalon Stage	Saturday
+225	Lee Scratch Perry	23:15	0:30	G Stage	Saturday
+226	Don Letts	22:00	23:15	G Stage	Saturday
+227	Gaudi Live	21:00	22:00	G Stage	Saturday
+228	James Monro	20:00	21:00	G Stage	Saturday
+229	Prem Joshua	19:00	20:00	G Stage	Saturday
+230	DJ Yoda	18:00	19:00	G Stage	Saturday
+231	Black Jesus Experience	17:00	18:00	G Stage	Saturday
+232	Tom E Lewis	15:30	16:30	G Stage	Saturday
+233	Baku Dan and Moussa Kouyate	14:30	15:30	G Stage	Saturday
+234	RSVP	13:00	14:00	G Stage	Saturday
+235	3 Daft Monkeys	12:00	13:00	G Stage	Saturday
+262	 Professor Green (Live)	23:30	0:30	EAST DANCE	Saturday
+263	Devlin (Live)	22:10	23:00	EAST DANCE	Saturday
+264	Labrinth (Live)	21:10	21:50	EAST DANCE	Saturday
+265	Wretch 32 (Live)	20:20	20:50	EAST DANCE	Saturday
+266	Skepta (Live)	19:20	20:00	EAST DANCE	Saturday
+267	MistaJam	18:20	19:20	EAST DANCE	Saturday
+268	Giggs	17:30	18:00	EAST DANCE	Saturday
+269	Jodie Connor	16:40	17:10	EAST DANCE	Saturday
+270	Yasmin (Live)	15:50	16:20	EAST DANCE	Saturday
+271	MZ Bratt (Live)	15:00	15:30	EAST DANCE	Saturday
+272	 P Money (Live)	14:10	14:40	EAST DANCE	Saturday
+273	Griminal	13:20	13:50	EAST DANCE	Saturday
+274	RoxXXan	12:30	13:00	EAST DANCE	Saturday
+275	Comperes Mista Jam and DJ Cameo	11:30	12:30	EAST DANCE	Saturday
+302	John Digweed	23:00	0:30	Oxlyers In West	Saturday
+303	Sander Kleinenberg - 5K Live featuring Dev (Live)	22:00	23:00	Oxlyers In West	Saturday
+304	Yousef	21:00	22:00	Oxlyers In West	Saturday
+305	Zinc	20:00	21:00	Oxlyers In West	Saturday
+306	Krafty Kuts	19:00	20:00	Oxlyers In West	Saturday
+307	Dreadzone (Live)	18:00	19:00	Oxlyers In West	Saturday
+308	Cherry Ghost (Live)	17:00	17:40	Oxlyers In West	Saturday
+309	Patrick Wolf (Live)	16:00	16:40	Oxlyers In West	Saturday
+310	Pulled Apart By Horses (Live)	15:00	15:40	Oxlyers In West	Saturday
+311	Brother (Live)	14:00	14:40	Oxlyers In West	Saturday
+312	Fujiya and Miyagi (Live)	13:00	13:40	Oxlyers In West	Saturday
+313	The Phoenix Foundation (Live)	12:00	12:40	Oxlyers In West	Saturday
+314	Exlovers (Live)	11:00	11:40	Oxlyers In West	Saturday
+350	Nero (Live)	2:00	3:00	Wow!	Saturday
+351	Redlight & Dread MC	1:00	2:00	Wow!	Saturday
+352	Digital Soundboy Soundsystem	23:30	1:00	Wow!	Saturday
+353	Toddla T & Serocee	22:30	23:30	Wow!	Saturday
+354	Neneh Cherry (Live)	21:45	22:30	Wow!	Saturday
+355	Danny Byrd	20:45	21:45	Wow!	Saturday
+356	Maverick Sabre (Live)	20:15	20:45	Wow!	Saturday
+357	Flux Pavilion	19:15	20:15	Wow!	Saturday
+358	Diafrix (Live)	18:30	19:15	Wow!	Saturday
+359	True Tiger	17:00	18:30	Wow!	Saturday
+360	Loadstar	16:00	17:00	Wow!	Saturday
+361	Interface	15:00	16:00	Wow!	Saturday
+362	Mensah	14:00	15:00	Wow!	Saturday
+363	Eddie K	13:00	14:00	Wow!	Saturday
+364	Lewah	12:00	13:00	Wow!	Saturday
+365	Koast - Compare			Wow!	Saturday
+387	HARD FI	21:00	23:00	Leftfield	Saturday
+388	KID BRITISH	19:30	21:00	Leftfield	Saturday
+389	WOLF GANG	18:00	19:30	Leftfield	Saturday
+390	Comedy with ROBIN INCE	17:00	18:00	Leftfield	Saturday
+391	BILL'S BIG ROUND UP feat. Billy Bragg and Viv Albertine	15:00	17:00	Leftfield	Saturday
+392	Debate: GREEN JOBS & SUSTAINABLE FUTURES	13:30	15:00	Leftfield	Saturday
+393	Debate: TECHNOLOGY AGAINST THE CUTS	12:00	13:30	Leftfield	Saturday
+425	Funktion One Experimental Soundfield Old Skool House	0:00	1:00	Spirit of 71	Saturday
+426	A Guy Called Gerald (LIVE) with Funktion One Experimental Soundfield	23:00	0:00	Spirit of 71	Saturday
+427	Terry Reid	22:00	23:00	Spirit of 71	Saturday
+428	Linda Lewis	20:30	21:30	Spirit of 71	Saturday
+429	Nick Lowe	19:30	20:00	Spirit of 71	Saturday
+430	Murray Lachlan Young	18:50	19:20	Spirit of 71	Saturday
+431	Mick Farren & The Last Men Standing	17:40	18:40	Spirit of 71	Saturday
+432	BJ Cole and Emily Burridge	16:10	17:10	Spirit of 71	Saturday
+433	Charlie Dore & the Hula Valley Orchestra	14:40	15:40	Spirit of 71	Saturday
+434	Spirit of 71 House Band Jam with Steve Hillage	13:15	14:15	Spirit of 71	Saturday
+435	Noel Harrison Trio and friends	12:30	13:15	Spirit of 71	Saturday
+436	Solstice String Quartet	11:45	12:30	Spirit of 71	Saturday
+437	Yorke Dance Project	11:15	11:30	Spirit of 71	Saturday
+492	Pirates of the Carabina present FLOWN	0:09	0:54	Circus Big Top	Saturday
+493	Feeding the Fish	23:54	0:04	Circus Big Top	Saturday
+494	Zoe L'Amore	23:42	23:49	Circus Big Top	Saturday
+495	Goltrix	23:27	23:37	Circus Big Top	Saturday
+496	Miss Radida	23:15	23:22	Circus Big Top	Saturday
+497	Judith Lanigan	23:00	23:10	Circus Big Top	Saturday
+498	Empress Stah as Stah-Lite	22:40	22:55	Circus Big Top	Saturday
+499	Cirk Extempore present White	22:28	22:35	Circus Big Top	Saturday
+500	The Space Cowboy	22:03	22:23	Circus Big Top	Saturday
+501	Miss Trixie	21:52	21:58	Circus Big Top	Saturday
+502	Silvia Pavone	21:41	21:47	Circus Big Top	Saturday
+503	Circolombia present URBAN	20:21	21:36	Circus Big Top	Saturday
+504	Donald Grant	20:06	20:16	Circus Big Top	Saturday
+505	Jamie Swan	19:55	20:01	Circus Big Top	Saturday
+506	Patrik & Wes	19:40	19:50	Circus Big Top	Saturday
+507	Tumble Circus	19:25	19:35	Circus Big Top	Saturday
+508	Comedy Sword Swallower Thom Sellectomy	19:00	19:20	Circus Big Top	Saturday
+509	Starfiz winners of the Emma Insley Award	18:45	18:55	Circus Big Top	Saturday
+510	Laura Tikka	18:34	18:40	Circus Big Top	Saturday
+511	Coreo Hazzard	18:09	18:29	Circus Big Top	Saturday
+512	NoFit Howie	17:57	18:04	Circus Big Top	Saturday
+513	Silvia Pavone	17:46	17:52	Circus Big Top	Saturday
+514	Cirk Extempore present El Tango Pole	17:33	17:41	Circus Big Top	Saturday
+515	Black Eagles	17:03	17:28	Circus Big Top	Saturday
+516	Frank Olivier	16:48	16:58	Circus Big Top	Saturday
+517	Rod Laver	16:33	16:43	Circus Big Top	Saturday
+518	Mimbre	15:53	16:28	Circus Big Top	Saturday
+519	Wookey Hole Circus	15:33	15:48	Circus Big Top	Saturday
+520	The Great Davido amd Friends with The Thom Pod Little Big Band	14:53	15:28	Circus Big Top	Saturday
+521	Laura Tikka	14:42	14:48	Circus Big Top	Saturday
+522	Bruce Airhead	14:17	14:37	Circus Big Top	Saturday
+523	Cirk Extempore present White	14:05	14:12	Circus Big Top	Saturday
+524	Yvette Du Sol	13:52	14:00	Circus Big Top	Saturday
+525	strings on Strings	13:36	13:47	Circus Big Top	Saturday
+526	The Others	13:11	13:31	Circus Big Top	Saturday
+527	Starfiz	12:58	13:06	Circus Big Top	Saturday
+528	Wookey Hole Circus	12:28	12:53	Circus Big Top	Saturday
+529	Yvette Du Sol	12:15	12:23	Circus Big Top	Saturday
+530	Circomedia	11:45	12:10	Circus Big Top	Saturday
+531	Rhythm Doctors	10:45	11:40	Circus Big Top	Saturday
+591	True Tiger + P Money	4:30	5:30	The Hub	Saturday
+592	Shy FX and The Ragga twins	3:30	4:30	The Hub	Saturday
+593	Breakage (Dj set) feat Jess Mills and Youngman	2:30	3:30	The Hub	Saturday
+594	Special Guest	1:00	2:30	The Hub	Saturday
+595	Bad Press	0:00	1:00	The Hub	Saturday
+596	Astroid Boys	23:30	0:00	The Hub	Saturday
+597	Warrior One	22:00	23:30	The Hub	Saturday
+598	Doorly	21:00	22:00	The Hub	Saturday
+599	2 Bears	20:00	21:00	The Hub	Saturday
+600	Rack n ruin w/ Special Guests	19:00	20:00	The Hub	Saturday
+601	Yoyo Yoyo Soundsystem w/ Special Guests	17:00	19:00	The Hub	Saturday
+602	Fonti & MC Bushkin	16:00	17:00	The Hub	Saturday
+603	Klose One	15:00	16:00	The Hub	Saturday
+604	Warrior One w/ MC Serocee	14:00	15:00	The Hub	Saturday
+605	Man Like Me	13:30	14:00	The Hub	Saturday
+606	Cherry V	13:00	13:30	The Hub	Saturday
+607	Verde	12:30	13:00	The Hub	Saturday
+608	"""Southern Fried Mobile Disco FT (Kashii, Django and Nathan Detroit)"""	11:00	12:30	The Hub	Saturday
+641	ORBITAL DJ SET	1:45	3:00	Arcadia	Saturday
+642	ATOMIC DROP	0:45	1:45	Arcadia	Saturday
+643	"""""""SPIDER"""""""	0:00	0:45	Arcadia	Saturday
+644	TOM REAL	23:00	0:00	Arcadia	Saturday
+645	BONZE	22:00	23:00	Arcadia	Saturday
+646	MONK3Y LOGIC	21:15	22:00	Arcadia	Saturday
+647	WOBBLY SQUADRON	20:30	21:15	Arcadia	Saturday
+648	KORMAC (DJ SET)	19:30	20:30	Arcadia	Saturday
+649	DUB MAFIA	18:45	19:30	Arcadia	Saturday
+650	DEPARTURE LOUNGE DJS	17:45	18:45	Arcadia	Saturday
+651	HIDDEN ORCHESTRA	17:00	17:45	Arcadia	Saturday
+677	The Good Natured	19:30	19:55	BBC Introducing	Saturday
+678	Sharks Took The Rest	18:45	19:10	BBC Introducing	Saturday
+679	The Truth	18:00	18:25	BBC Introducing	Saturday
+680	Guest	17:15	17:40	BBC Introducing	Saturday
+681	Vinyl Jacket	16:30	16:55	BBC Introducing	Saturday
+682	Rams Pocket Radio	15:45	16:10	BBC Introducing	Saturday
+683	D/R/U/G/S	15:00	15:25	BBC Introducing	Saturday
+684	DJ Vimto and Jah Digga	14:15	14:40	BBC Introducing	Saturday
+685	Future History	13:30	13:55	BBC Introducing	Saturday
+686	Pirate Video Company	12:45	13:10	BBC Introducing	Saturday
+687	High Wire	12:00	12:25	BBC Introducing	Saturday
+715	Beginners: How To read A Natal Chart	16:00	17:00	ASTRO DOME WORKSHOPS	Saturday
+716	Ask The Astrologer: Q&A Session	14:00	16:00	ASTRO DOME WORKSHOPS	Saturday
+717	Neptune And The Piscean Dream	11:00	14:00	ASTRO DOME WORKSHOPS	Saturday
+718	Saturn Meditations	9:30	11:00	ASTRO DOME WORKSHOPS	Saturday
+742	Twisted Cabaret	2:00	3:00	Astrolabe	Saturday
+743	Siyaya	1:10	1:55	Astrolabe	Saturday
+744	"blackSKYwhite ""Timehole"""	0:00	1:00	Astrolabe	Saturday
+745	Jaipur Kawa Brass Band	23:15	0:00	Astrolabe	Saturday
+746	Frost Impro Allstars	18:00	19:00	Astrolabe	Saturday
+747	Bowfins with Stringtease	17:30	18:00	Astrolabe	Saturday
+748	Antique Dances	17:05	17:25	Astrolabe	Saturday
+749	Jonathan Kay	15:30	17:00	Astrolabe	Saturday
+750	Insect Circus	14:30	15:30	Astrolabe	Saturday
+751	Andi Neate	13:50	14:20	Astrolabe	Saturday
+752	Mimbre	13:10	13:45	Astrolabe	Saturday
+753	Black Eagles	12:40	13:05	Astrolabe	Saturday
+754	Rod Laver	12:20	12:35	Astrolabe	Saturday
+755	"Dr. Ken Farquhar ""How to save the Planet"""	11:30	12:15	Astrolabe	Saturday
+756	Taiko Meantime	11:00	11:30	Astrolabe	Saturday
+757	"""Charmian Hughes, Dave Thompson, Liam Jones & Dan Evans"""	Comperes:		Astrolabe	Saturday
+805	Maybe Myrtle Tyrtle	1:30:00	2:30:00	Avalon Café	Saturday
+806	Gringo Ska	0:00:00	1:30:00	Avalon Café	Saturday
+807	Sashi and The Wild Beans	22:30:00	0:00:00	Avalon Café	Saturday
+808	The Johnsons	21:00:00	22:30:00	Avalon Café	Saturday
+809	Malarchy	19:30:00	21:00:00	Avalon Café	Saturday
+810	Folkface	18:30:00	19:30:00	Avalon Café	Saturday
+811	Back Before Breakfast	17:30:00	18:30:00	Avalon Café	Saturday
+812	Morning Orchestra	16:00:00	17:30:00	Avalon Café	Saturday
+813	Katey Brooks	15:30:00	16:00:00	Avalon Café	Saturday
+814	Kevin Brown Trio	14:30:00	15:30:00	Avalon Café	Saturday
+815	Two Man Ting	13:30:00	14:30:00	Avalon Café	Saturday
+816	Dumb Instrument	12:30:00	13:30:00	Avalon Café	Saturday
+817	Nick Langston & The Cool Nachos	11:30:00	12:30:00	Avalon Café	Saturday
+818	Hidden Tapestry	10:30:00	11:30:00	Avalon Café	Saturday
+857	RSVP	23:30:00	0:30:00	Bandstand	Saturday
+858	Tragic Roundabout	22:00:00	23:00:00	Bandstand	Saturday
+859	Boxcar Aldous Huxley	20:30:00	21:30:00	Bandstand	Saturday
+860	Violentango	19:15:00	20:10:00	Bandstand	Saturday
+861	The Old Dance School	18:00:00	18:55:00	Bandstand	Saturday
+862	Johnny Lizard & The Vistic Experience	17:00:00	17:40:00	Bandstand	Saturday
+863	The Fiasco Bros.	16:00:00	16:40:00	Bandstand	Saturday
+864	Biggles Wartime Band	15:00:00	15:40:00	Bandstand	Saturday
+865	The Daturas	14:15:00	14:45:00	Bandstand	Saturday
+866	Medicine Creek	13:30:00	14:00:00	Bandstand	Saturday
+867	Bashema	12:45:00	13:15:00	Bandstand	Saturday
+868	Beans On Toast	12:00:00	12:30:00	Bandstand	Saturday
+869	Swing Zazou	23:30:00	0:30:00	Bandstand	Saturday
+906	BSTORM	5:10	6:00	BASSLINE CIRCUS	Saturday
+907	RATTY	4:20	5:10	BASSLINE CIRCUS	Saturday
+908	REDLIGHT	3:30	4:20	BASSLINE CIRCUS	Saturday
+909	WARLOCK	2:40	3:30	BASSLINE CIRCUS	Saturday
+910	HIGH RANKIN	1:50	2:40	BASSLINE CIRCUS	Saturday
+911	VISOR	1:00	1:50	BASSLINE CIRCUS	Saturday
+912	"""""""CIRCO GRINGO""""(BASSLINE CIRCUS SHOW)"""	0:00	1:00	BASSLINE CIRCUS	Saturday
+913	RANDALL	23:00	0:00	BASSLINE CIRCUS	Saturday
+914	DJ DIE	22:00	23:00	BASSLINE CIRCUS	Saturday
+915	RUN TINGS CRU	21:00	22:00	BASSLINE CIRCUS	Saturday
+916	DEAD SILENCE	20:00	21:00	BASSLINE CIRCUS	Saturday
+917	SPECIAL GUEST	18:00	20:00	BASSLINE CIRCUS	Saturday
+918	FANTAZIO TRIO POWA	17:00	18:00	BASSLINE CIRCUS	Saturday
+950	The 2 Bears	1:00	3:00	Beat Hotel	Saturday
+951	Living in a Disco	23:45	1:00	Beat Hotel	Saturday
+952	Man Like Me (live)	23:00	23:45	Beat Hotel	Saturday
+953	Ross Allen	21:00	23:00	Beat Hotel	Saturday
+954	Justin Robertson	19:30	21:00	Beat Hotel	Saturday
+955	Kraak & Smaak	18:00	19:30	Beat Hotel	Saturday
+956	Crystal Fighters (Spanish Summer vibes set)	16:30	18:00	Beat Hotel	Saturday
+957	Cassette Boy & DJ Rubbish (Informal Set)	15:00	16:30	Beat Hotel	Saturday
+958	DJ Shepdog	13:00	15:00	Beat Hotel	Saturday
+959	Room Service	11:00	13:00	Beat Hotel	Saturday
+988	Jagz Kooner	4:30:00	6:00:00	Bez's Acid House	Saturday
+989	Rob (Alabama 3)	3:00:00	4:30:00	Bez's Acid House	Saturday
+990	808 State	2:00:00	3:00:00	Bez's Acid House	Saturday
+991	Arlo + jack	0:30:00	2:00:00	Bez's Acid House	Saturday
+992	vince vega	0:00:00	0:30:00	Bez's Acid House	Saturday
+993	Mattamatik	23:30:00	0:00:00	Bez's Acid House	Saturday
+994	Fish	23:00:00	23:30:00	Bez's Acid House	Saturday
+1029	Paddy Milner	1:00:00	2:45:00	Bourbon Street	Saturday
+1030	Marcus Bonfanti	23:30:00	0:45:00	Bourbon Street	Saturday
+1031	Connie Lush	22:15:00	23:15:00	Bourbon Street	Saturday
+1032	Ledfoot	21:00:00	22:00:00	Bourbon Street	Saturday
+1033	Claude Bourbon	19:45:00	20:45:00	Bourbon Street	Saturday
+1034	Clara Sanabras	18:30:00	19:30:00	Bourbon Street	Saturday
+1035	Clare Teal	16:45:00	18:15:00	Bourbon Street	Saturday
+1036	Nicki Allan	15:30:00	16:30:00	Bourbon Street	Saturday
+1037	Carmen Ghia & The Hotrods	14:15:00	15:15:00	Bourbon Street	Saturday
+1038	Trudy Kerr	13:00:00	14:00:00	Bourbon Street	Saturday
+1039	Brooks Williams	12:00:00	12:45:00	Bourbon Street	Saturday
+1102	ANDREW MAXWELL	1:30	2:00	Cabaret Tent	Saturday
+1103	FEEDING THE FISH	1:15	1:25	Cabaret Tent	Saturday
+1104	STEVE GRIBBIN	0:45	1:15	Cabaret Tent	Saturday
+1105	PHIL KAY	0:10	0:40	Cabaret Tent	Saturday
+1106	"""ALICE & ALICE"" BY COCOLOCO"	23:55	0:05	Cabaret Tent	Saturday
+1107	ANGELOS EPITHEMIOU	23:20	23:50	Cabaret Tent	Saturday
+1108	PAUL NATHAN	23:05	23:15	Cabaret Tent	Saturday
+1109	ARTHUR SMITH	22:30	23:00	Cabaret Tent	Saturday
+1110	MITCH BENN	21:55	22:25	Cabaret Tent	Saturday
+1111	JARRED CHRISTMAS	21:20	21:50	Cabaret Tent	Saturday
+1112	FRANK OLIVIER	21:05	21:25	Cabaret Tent	Saturday
+1113	RHYTHM WAVE	20:30	21:00	Cabaret Tent	Saturday
+1114	AISLE16	19:55	20:25	Cabaret Tent	Saturday
+1115	PAUL NATHAN	19:40	19:50	Cabaret Tent	Saturday
+1116	RORY MOTION	19:05	19:35	Cabaret Tent	Saturday
+1117	FOUR POOFS AND A PIANO	18:30	19:00	Cabaret Tent	Saturday
+1118	KEVIN ELDON	18:05	18:25	Cabaret Tent	Saturday
+1119	JEREMY HARDY	17:30	18:00	Cabaret Tent	Saturday
+1120	FRANK OLIVIER	17:15	17:25	Cabaret Tent	Saturday
+1121	MARK THOMAS	16:15	17:10	Cabaret Tent	Saturday
+1122	KLEZMER	16:00	16:15	Cabaret Tent	Saturday
+1123	MARK THOMAS	15:05	16:00	Cabaret Tent	Saturday
+1124	KLEZMER	15:00	15:05	Cabaret Tent	Saturday
+1125	EARLY EDITION	13:55	14:55	Cabaret Tent	Saturday
+1126	JOHN HEGLEY	13:20	13:50	Cabaret Tent	Saturday
+1127	DONALD GRANT	13:05	13:15	Cabaret Tent	Saturday
+1128	"""INFINITE MONKEY CAGE"""	12:00	13:00	Cabaret Tent	Saturday
+1129	PADDY BRAMWELLS		COMPERES	Cabaret Tent	Saturday
+1130	TIFFANY STEVENSON			Cabaret Tent	Saturday
+1131	CARL DONNELLY			Cabaret Tent	Saturday
+1132	CRAIG CAMPBELL			Cabaret Tent	Saturday
+1178	Jim Stanton and James Hillard (Horse Meat Disco)	5:00	6:00	CAMPO PEQUENO	Saturday
+1179	Friendly Fires DJ Set	4:00	5:00	CAMPO PEQUENO	Saturday
+1180	Totally Enormous Extinct Dinosaurs	3:00	4:00	CAMPO PEQUENO	Saturday
+1181	Dj Yoda	2:00	3:00	CAMPO PEQUENO	Saturday
+1182	"""""""Fiesta de la Noche"""" Late Night Bearded Kitten Games"""	1:30	2:00	CAMPO PEQUENO	Saturday
+1183	"""""""Toro Libre"""" The Bearded Kitten Show"""	1:00	1:30	CAMPO PEQUENO	Saturday
+1184	SPECIAL GUESTS	23:30	1:00	CAMPO PEQUENO	Saturday
+1185	10 Sui	22:30	23:30	CAMPO PEQUENO	Saturday
+1186	"""Los Interactivos Bearded Kitten"""	14:00	17:00	CAMPO PEQUENO	Saturday
+1187	Tropical Taste	13:00	14:00	CAMPO PEQUENO	Saturday
+1221	Bobby Friction	5:15:00	6:00:00	Chai Wallahs	Saturday
+1222	Engine Earz	4:15:00	5:15:00	Chai Wallahs	Saturday
+1223	Bobby Friction	3:00:00	4:00:00	Chai Wallahs	Saturday
+1224	Skuff & Inja	2:00:00	3:00:00	Chai Wallahs	Saturday
+1225	DJ Featurecast	0:30:00	2:00:00	Chai Wallahs	Saturday
+1226	The Boxettes	23:30:00	0:30:00	Chai Wallahs	Saturday
+1227	JFB	21:15:00	23:45:00	Chai Wallahs	Saturday
+1228	J Star	20:00:00	21:15:00	Chai Wallahs	Saturday
+1229	Backbeat Sound System	18:30:00	19:30:00	Chai Wallahs	Saturday
+1230	Tinroots	17:00:00	18:00:00	Chai Wallahs	Saturday
+1231	Guillemots	16:00:00	16:45:00	Chai Wallahs	Saturday
+1232	Ed Sheeran	14:45:00	15:30:00	Chai Wallahs	Saturday
+1233	Rodney Branigan	13:45:00	14:30:00	Chai Wallahs	Saturday
+1234	Zen Elephant	13:00:00	13:45:00	Chai Wallahs	Saturday
+1235	Siddy Bennet	12:00:00	12:45:00	Chai Wallahs	Saturday
+1270	System Seven	5:00	5:30	Club Dada	Saturday
+1271	Debruit	4:30	4:30	Club Dada	Saturday
+1272	Gringo	3:35	4:30	Club Dada	Saturday
+1273	"""Superstar guests....""""we are not worthy (farm)"""""""	1:50	2:15	Club Dada	Saturday
+1274	Naive New Beaters	0:00	1:00	Club Dada	Saturday
+1275	Gringo Da Parada	23:15	0:00	Club Dada	Saturday
+1276	Pony Pony Run Run.	21:00	23:15	Club Dada	Saturday
+1277	Black Gold Buffalo	20:00	21:00	Club Dada	Saturday
+1278	DJ Void and Stella OBE	18:00	20:00	Club Dada	Saturday
+1279	Deaf Rave	17:00	18:00	Club Dada	Saturday
+1280	Heavy Load	16:00	17:00	Club Dada	Saturday
+1281	The Band OF Holy Joy	15:00	16:00	Club Dada	Saturday
+1282	Captain Angelo	14:00	15:00	Club Dada	Saturday
+1315	The Beat	1:00	2:00	Croissant Neuf	Saturday
+1316	Mad Dog McCrea	23:30	1:00	Croissant Neuf	Saturday
+1317	Goodnight Lenin	19:00	23:30	Croissant Neuf	Saturday
+1318	Raghu Dixit	17:30	19:00	Croissant Neuf	Saturday
+1319	Moya Brennan	16:00	17:30	Croissant Neuf	Saturday
+1320	The Boat Band	14:30	16:00	Croissant Neuf	Saturday
+1321	Steve Knightley	13:00	14:30	Croissant Neuf	Saturday
+1348	DJ Felix El Gato	2:00	3:00	Cubana Salsa Tent	Saturday
+1349	Rumba Caliente	0:30	2:00	Cubana Salsa Tent	Saturday
+1350	DJ Felix El Gato	0:00	0:30	Cubana Salsa Tent	Saturday
+1351	To'Mezclao	18:30	20:00	Cubana Salsa Tent	Saturday
+1352	DJ G. Die	18:00	18:30	Cubana Salsa Tent	Saturday
+1353	Nigel May - Salsa Class	17:00	18:00	Cubana Salsa Tent	Saturday
+1354	DJ G. Die	16:30	17:00	Cubana Salsa Tent	Saturday
+1355	Wara	15:30	16:30	Cubana Salsa Tent	Saturday
+1356	DJ G. Die	15:00	15:30	Cubana Salsa Tent	Saturday
+1357	Nicolai & Helena - Salsa Class	14:00	15:00	Cubana Salsa Tent	Saturday
+1358	Bandera Cubana	13:00	14:00	Cubana Salsa Tent	Saturday
+1359	Nicolai & Helena - Salsa Class	12:00	13:00	Cubana Salsa Tent	Saturday
+1384	Example & DJ Wire (Live)	23:30	0:30	CUBEHENGE	Saturday
+1385	DJ Vadim presents The Electric (Live)	22:00	23:00	CUBEHENGE	Saturday
+1386	Dub Pistols Sound System	20:30	21:45	CUBEHENGE	Saturday
+1387	Brandt Brauer Frick	19:30	20:15	CUBEHENGE	Saturday
+1388	Gold Panda (Live)	18:00	19:00	CUBEHENGE	Saturday
+1389	Alex Metric	17:00	18:00	CUBEHENGE	Saturday
+1390	Totally Enormous Extinct Dinosaurs (Live)	16:15	17:00	CUBEHENGE	Saturday
+1391	Dirtyphonics	15:00	16:15	CUBEHENGE	Saturday
+1392	Not Squares (Live)	14:15	15:00	CUBEHENGE	Saturday
+1393	Kleptones	13:00	14:15	CUBEHENGE	Saturday
+1394	Orphan 101 & Bloodman	12:00	13:00	CUBEHENGE	Saturday
+1405	DJ Andromeda	5:00	7:00	CUBEHENGE (Heds Party)	Saturday
+1406	Sparky	3:00	5:00	CUBEHENGE (Heds Party)	Saturday
+1407	Western Soul	1:30	3:00	CUBEHENGE (Heds Party)	Saturday
+1408	DJ Amo	5:00	7:00	CUBEHENGE (Heds Party)	Saturday
+1409	Just a Couple of Mums	3:00	5:00	CUBEHENGE (Heds Party)	Saturday
+1410	Nice Up! Soundsystem	1:30	3:00	CUBEHENGE (Heds Party)	Saturday
+1432	Propaganda DJ's	1:30	7:00	EAST DANCE (Heds Party)	Saturday
+1433	Swaparama	1:30	7:00	EAST DANCE (Heds Party)	Saturday
+1456	DIRTY MENEZ	3:00	5:00	EL PENOL CANTINA	Saturday
+1457	JOSE LUIS	1:00	3:00	EL PENOL CANTINA	Saturday
+1458	KEVIN GATO	23:00	1:00	EL PENOL CANTINA	Saturday
+1459	JULIAN MR M	21:00	23:00	EL PENOL CANTINA	Saturday
+1460	JJGEORGE	19:00	21:00	EL PENOL CANTINA	Saturday
+1461	ITZA	17:00	19:00	EL PENOL CANTINA	Saturday
+1462	DJ AMADO	15:00	17:00	EL PENOL CANTINA	Saturday
+1477	Ben Goldacre	13:45		Free University Of Glastonbury	Saturday
+1478	Emma Kennedy	13:00		Free University Of Glastonbury	Saturday
+1479	Suggs	12:15		Free University Of Glastonbury	Saturday
+1480	Dorian Lynskey	11:30		Free University Of Glastonbury	Saturday
+1502	Dave Seaman	1:30	3:00	Glade Lounge	Saturday
+1503	Metroboy	0:00	1:30	Glade Lounge	Saturday
+1504	Jalapeno All Stars	21:00	0:00	Glade Lounge	Saturday
+1505	Ben & Lex	20:00	21::00	Glade Lounge	Saturday
+1529	Special Guest	2:15	3:00	Greenpeace Stage	Saturday
+1530	Neon Lights	1:30	2:00	Greenpeace Stage	Saturday
+1531	Eyes on Film	0:45	1:15	Greenpeace Stage	Saturday
+1532	My First Tooth	23:45	0:30	Greenpeace Stage	Saturday
+1533	Special Guest	23:00	23:30	Greenpeace Stage	Saturday
+1534	Handshake	22:15	22:45	Greenpeace Stage	Saturday
+1535	Special Guest	21:30	22:00	Greenpeace Stage	Saturday
+1559	King Kapisi (Live)	1:30	3:00	Magic Bubbles	Saturday
+1560	We Don't Play	0:00	1:30	Magic Bubbles	Saturday
+1561	DJ Storm	22:30	0:00	Magic Bubbles	Saturday
+1562	Loonaloop (Live)	21:00	22:30	Magic Bubbles	Saturday
+1563	Cheeky Crew	19:00	21:00	Magic Bubbles	Saturday
+1564	Not Squares (Live)	18:20	19:00	Magic Bubbles	Saturday
+1565	DJ Andromeda	17:00	18:20	Magic Bubbles	Saturday
+1566	Alpines (Live)	16:00	17:00	Magic Bubbles	Saturday
+1567	Magic Bubble Resident	15:00	16:00	Magic Bubbles	Saturday
+1568	DeLooze (Live)	14:00	15:00	Magic Bubbles	Saturday
+1569	Magic Bubble Resident	13:00	14:00	Magic Bubbles	Saturday
+1570	Paper Crows (Live)	12:00	13:00	Magic Bubbles	Saturday
+1611	Bubbledubble	2:00	3:00	Mandala Stage	Saturday
+1612	The Portraits	1:00	2:00	Mandala Stage	Saturday
+1613	Sixpenny Wayke	0:00	1:00	Mandala Stage	Saturday
+1614	Gaea Knight	23:00	0:00	Mandala Stage	Saturday
+1615	The Pyramids Of SNAFU	22:00	23:00	Mandala Stage	Saturday
+1616	John Fairhurst	20:00	22:00	Mandala Stage	Saturday
+1617	Si Cousins	19:00	20:00	Mandala Stage	Saturday
+1618	Janie Dare	18:00	19:00	Mandala Stage	Saturday
+1619	The Hand & Ichi	17:00	18:00	Mandala Stage	Saturday
+1620	Mandala Poets	16:00	17:00	Mandala Stage	Saturday
+1621	Andrew Morris	15:00	16:00	Mandala Stage	Saturday
+1622	Sean Taylor	14:00	15:00	Mandala Stage	Saturday
+1623	The Original Smirkins	13:00	14:00	Mandala Stage	Saturday
+1624	Whimwise	12:00	13:00	Mandala Stage	Saturday
+1655	Robert Owens - DJ set and live PA	4:30	6:00	NYC DOWNLOW	Saturday
+1656	"""Rob Mello (Classic Records, CrosstownRebels)"""	3:00	4:30	NYC DOWNLOW	Saturday
+1657	Brawther (Balance / My Love Is Underground)	1:30	3:00	NYC DOWNLOW	Saturday
+1658	Luke Howard (Horse Meat Disco)	0:00	1:30	NYC DOWNLOW	Saturday
+1659	Digs & Woosh (DiY)	23:00	0:00	NYC DOWNLOW	Saturday
+1660	Pardon My French (Club Cosmique)	22:00	23:00	NYC DOWNLOW	Saturday
+1683	Upside Down: The Creation Records	2:00	3:41	Pilton Palais Cinema Tent	Saturday
+1684	Adjustment Bureau	0:00	1:46	Pilton Palais Cinema Tent	Saturday
+1685	127 Hours	22:00	23:34	Pilton Palais Cinema Tent	Saturday
+1686	Pirates 4	19:30	21:21	Pilton Palais Cinema Tent	Saturday
+1687	Sucker Punch	17:00	18:50	Pilton Palais Cinema Tent	Saturday
+1688	Submarine	15:00	16:37	Pilton Palais Cinema Tent	Saturday
+1689	tangled 3D	13:00	14:40	Pilton Palais Cinema Tent	Saturday
+1690	Meggamind 3D	11:00	12:35	Pilton Palais Cinema Tent	Saturday
+1716	John Hegley	18:05	19:00	Poetry and Words	Saturday
+1717	Anna Freeman	17:40	18:05	Poetry and Words	Saturday
+1718	Scott Tyrrell	17:15	17:40	Poetry and Words	Saturday
+1719	Attila the Stockbroker	16:30	17:15	Poetry and Words	Saturday
+1720	Joelle Taylor	15:55	16:30	Poetry and Words	Saturday
+1721	Tim Clare	15:30	15:55	Poetry and Words	Saturday
+1722	Alfred Lord Telecom	15:05	15:30	Poetry and Words	Saturday
+1723	John Osborne	14:40	15:05	Poetry and Words	Saturday
+1724	Spliff Richard	14:15	14:40	Poetry and Words	Saturday
+1725	Vanessa Kisuule	13:50	14:15	Poetry and Words	Saturday
+1726	Open mic (hosted by Pete Hunter)	12:50	13:50	Poetry and Words	Saturday
+1727	Ralph Swift	12:25	12:50	Poetry and Words	Saturday
+1728	Jodi Ann Bickley	12:00	12:25	Poetry and Words	Saturday
+1729	Pre-show with Benita Johnson	11:45	12:00	Poetry and Words	Saturday
+1751	drop the bomb vs legendary children	16:00	17:00	PORN KIOSK DAYTIME	Saturday
+1752	Sugarbear (Bootylicious)	17:00	18:00	PORN KIOSK DAYTIME	Saturday
+1753	drop the bomb vs legendary children	18:00	21:00	PORN KIOSK DAYTIME	Saturday
+1784	Iration Steppas	1:30	3:00	PUSSY PARLURE	Saturday
+1785	The Heatwave and Sticky	0:00	1:30	PUSSY PARLURE	Saturday
+1786	Dub from Atlantis Live PA	23:00	0:00	PUSSY PARLURE	Saturday
+1787	Prince Fatty Soundsystem	21:45	23:00	PUSSY PARLURE	Saturday
+1788	Mista Savona	20:30	21:45	PUSSY PARLURE	Saturday
+1789	DJ Derek	18:30	20:30	PUSSY PARLURE	Saturday
+1790	Gentlemens Dub Club (Live)	17:30	18:30	PUSSY PARLURE	Saturday
+1791	RSD feat. Joe Peng	16:15	17:30	PUSSY PARLURE	Saturday
+1792	Submotion Orchestra (Live)	15:15	16:15	PUSSY PARLURE	Saturday
+1793	SledgeHeadBristol	14:15	15:15	PUSSY PARLURE	Saturday
+1794	DJ Giuliano	12:45	14:15	PUSSY PARLURE	Saturday
+1795	DJ Badly	11:00	12:45	PUSSY PARLURE	Saturday
+1824	Freestylers	4:00:00	6:00:00	Sharkeys / Unfairground	Saturday
+1825	VERY SPECIAL GUEST	2:30:00	4:00:00	Sharkeys / Unfairground	Saturday
+1826	VERY SPECIAL GUEST	1:00:00	2:30:00	Sharkeys / Unfairground	Saturday
+1827	Plump DJ's	23:30:00	1:00:00	Sharkeys / Unfairground	Saturday
+1828	Mini Da Minx	22:00:00	23:30:00	Sharkeys / Unfairground	Saturday
+1829	Vlad	20:00:00	22:00:00	Sharkeys / Unfairground	Saturday
+1830	Feel the Real Soundsystem	18:00:00	20:00:00	Sharkeys / Unfairground	Saturday
+1831	Sway 2	16:00:00	18:00:00	Sharkeys / Unfairground	Saturday
+1832	Mr. Sushi	14:00:00	16:00:00	Sharkeys / Unfairground	Saturday
+1866	Kidnap Alice	4:00	5:00	Small World Stage	Saturday
+1867	Sam And The Womp	2:15	4:00	Small World Stage	Saturday
+1868	Fat 45s	0:30	2:15	Small World Stage	Saturday
+1869	Kangaroo Moon	22:30	0:30	Small World Stage	Saturday
+1870	Whimwise	20:45	22:30	Small World Stage	Saturday
+1871	Poeticat	19:15	20:45	Small World Stage	Saturday
+1872	Tobias Jacob	18:00	19:15	Small World Stage	Saturday
+1873	Cocos Lovers	16:45	18:00	Small World Stage	Saturday
+1874	Zen Elephant	15:30	16:45	Small World Stage	Saturday
+1875	Siddy Bennett	13:45	15:30	Small World Stage	Saturday
+1876	Mal Webb	12:00	13:45	Small World Stage	Saturday
+1906	Glastonbury the Movie - Film	2:30:00	3:30:00	So71 Café	Saturday
+1907	Avalon a field in Glastonbury - Film	1:30:00	2:30:00	So71 Café	Saturday
+1908	Malcolm Boyle - Montage from The Madcap	0:30:00	1:30:00	So71 Café	Saturday
+1909	Howard Marks - spoken word	23:30:00	0:30:00	So71 Café	Saturday
+1910	Paul Goman - Barney Bubbles Sound and Vision Show	22:00:00	23:30:00	So71 Café	Saturday
+1911	Atilla the Stockbroker - The Coldplay alternative	21:00:00	22:00:00	So71 Café	Saturday
+1912	Mick Farren - Stage Discussion with Dom	19:30:00	20:15:00	So71 Café	Saturday
+1913	Gregory Sams - Wonderful Global Change	13:00:00	14:00:00	So71 Café	Saturday
+1914	Andrew Kerr -' Intolerably Hip' Book signing	12:00:00	13:00:00	So71 Café	Saturday
+1949	Question Time	20:30	21:30	Speakers Forum	Saturday
+1950	Neil Oram	19:15	20:30	Speakers Forum	Saturday
+1951	Andy Unger	18:00	19:15	Speakers Forum	Saturday
+1952	Ravi Gurumurthy	16:45	18:00	Speakers Forum	Saturday
+1953	Luke Treget and Carol Naughton	15:30	16:45	Speakers Forum	Saturday
+1954	Hugo Charlton	14:15	15:30	Speakers Forum	Saturday
+1955	The Justin Rowlatt Debate	13:00	14:15	Speakers Forum	Saturday
+1956	Nandi Simpson	11:45	13:00	Speakers Forum	Saturday
+1957	Akesh Aggawal	10:30	11:45	Speakers Forum	Saturday
+1958	Yoga	8:30	10:30	Speakers Forum	Saturday
+1988	"""Ross Allen presents the Meltdown with Toddla T, Players Ball, The Heatwave and Brian Morrison"""	0:00	5:00	Stonebridge Bar (The Park)	Saturday
+1989	Stonebridge Residents	20:00	0:00	Stonebridge Bar (The Park)	Saturday
+1990	Riddim and Soul	18:00	20:00	Stonebridge Bar (The Park)	Saturday
+1991	Hip Hop Karaoke	16:00	18:00	Stonebridge Bar (The Park)	Saturday
+1992	Musical Bingo	14:00	16:00	Stonebridge Bar (The Park)	Saturday
+1993	The Barrett Family	13:00	14:00	Stonebridge Bar (The Park)	Saturday
+2033	Baka Beyond	2:00	3:00	Tadpole Stage	Saturday
+2034	Lux Collective	1:10	2:00	Tadpole Stage	Saturday
+2035	Akahum	0:00	1:10	Tadpole Stage	Saturday
+2036	Radio Break/I Fly	22:50	0:00	Tadpole Stage	Saturday
+2037	The Portraits	22:00	22:50	Tadpole Stage	Saturday
+2038	Penny Black Remedy	20:30	22:00	Tadpole Stage	Saturday
+2039	Mal Webb	19:20	20:30	Tadpole Stage	Saturday
+2040	Ukulele workshop	18:10	19:20	Tadpole Stage	Saturday
+2041	Kate Lissauer & The Kays	17:20	18:10	Tadpole Stage	Saturday
+2042	People's String Quartet	16:00	17:20	Tadpole Stage	Saturday
+2043	Toast Masta And the Oduduwa Talking Drummers	14:30	16:00	Tadpole Stage	Saturday
+2044	De Fuego	13:45	14:30	Tadpole Stage	Saturday
+2045	Drum and Eastern Dance Workshop	12:00	13:45	Tadpole Stage	Saturday
+2046	Didge workshop	11:00	12:00	Tadpole Stage	Saturday
+2080	Tee Cardaci (Deep & Dusted/Botafogo Social Club)	5:00	6:00	THE DOWNLOW RADIO	Saturday
+2081	David'Squeaky'George (Paris' Acid Ball)	4:00	5:00	THE DOWNLOW RADIO	Saturday
+2082	Ben Lewis (African Dope Records)	3:00	4:00	THE DOWNLOW RADIO	Saturday
+2083	Ben Souled - (BM Soho)	2:00	3:00	THE DOWNLOW RADIO	Saturday
+2084	James Hillard -(Horse Meat Disco)	1:00	2:00	THE DOWNLOW RADIO	Saturday
+2085	"""K.atou (Einmaleins, Lick my Deck - Athens)"""	0:00	1:00	THE DOWNLOW RADIO	Saturday
+2086	Sugarbear (Bootylicious)	23:00	0:00	THE DOWNLOW RADIO	Saturday
+2111	Qualifide	22:00	23:15	THE LONDON UNDERGROUND	Saturday
+2112	CRST (Deep Thrills / TTY)	23:15	0:30	THE LONDON UNDERGROUND	Saturday
+2113	Gideon (www.thedownlowradio.com)	1:00	2:00	THE LONDON UNDERGROUND	Saturday
+2114	DJ EZ	2:00	3:00	THE LONDON UNDERGROUND	Saturday
+2115	Zed Bias	4:00	5:00	THE LONDON UNDERGROUND	Saturday
+2116	Qualifide	5:00	6:00	THE LONDON UNDERGROUND	Saturday
+2138	JAMES CURRY (OVEREASY)	1:30	3:00	THE MEETING POINT BAR	Saturday
+2139	DJ/MC ERIC (OF TECHNOTRONIC) RETRO SET	0:30	1:30	THE MEETING POINT BAR	Saturday
+2140	JAMES CURRY(OVEREASY	0:00	0:30	THE MEETING POINT BAR	Saturday
+2141	RIDDIM & SOUL	21:00	0:00	THE MEETING POINT BAR	Saturday
+2142	BONEBOOKBANG (OVEREASY)	19:30	21:00	THE MEETING POINT BAR	Saturday
+2143	SCOTT HENDY (MALACHAI/BOCA 45)	18:00	19:30	THE MEETING POINT BAR	Saturday
+2144	TOM ENO (OVEREASY)	15:00	18:00	THE MEETING POINT BAR	Saturday
+2145	DJ NICKNAME/CHRIS READ	13:00	15:00	THE MEETING POINT BAR	Saturday
+2172	Tribazik	3:30	4:30	The Rabbit Hole	Saturday
+2173	The Egg	1:30	3:30	The Rabbit Hole	Saturday
+2174	Craig Charles	0:00	1:30	The Rabbit Hole	Saturday
+2175	GoldRay	22:30	0:00	The Rabbit Hole	Saturday
+2176	Julie Daske	20:45	22:30	The Rabbit Hole	Saturday
+2177	Grovesnor	19:30	20:45	The Rabbit Hole	Saturday
+2178	Transpersonals	17:00	19:30	The Rabbit Hole	Saturday
+2179	Stringer Bessant (ex Reef)	15:00	17:00	The Rabbit Hole	Saturday
+2180	Movin' Melvin Brown	14:00	15:00	The Rabbit Hole	Saturday
+2181	Beans On Toast	13:00	14:00	The Rabbit Hole	Saturday
+2209	DJ VADIM PRESENTS THE ELECTRIC	1:00	2:00	THE WEST HOLTS BAR	Saturday
+2210	THE FILTHY SIX	23:45	1:00	THE WEST HOLTS BAR	Saturday
+2211	ME 1 RESIDENCY	20:45	21:15	THE WEST HOLTS BAR	Saturday
+2212	THE CANNONBALL CLUB-LIVE!	19:15	19:45	THE WEST HOLTS BAR	Saturday
+2213	THE CANNONBALL CLUB-LIVE!	17:45	18:15	THE WEST HOLTS BAR	Saturday
+2214	OPENMIC WITH JOE CHIARI (email westholtsopenmic@gmail:com for a slot)	16:15	16:45	THE WEST HOLTS BAR	Saturday
+2241	The Drop	19:00	20:00	Tripod Stage	Saturday
+2242	Attila the Stockbroker	18:00	19:00	Tripod Stage	Saturday
+2243	The Turbans	17:00	18:00	Tripod Stage	Saturday
+2244	Duncan Disorderly and the Swallywags	16:00	17:00	Tripod Stage	Saturday
+2245	Daniel & Murugan	15:00	16:00	Tripod Stage	Saturday
+2246	Open Mic Soap Box	14:00	15:00	Tripod Stage	Saturday
+2247	Chubbywordsmith	13:00	14:00	Tripod Stage	Saturday
+2248	Wind up the Banker : Morning Maypole Wakeup	12:00	13:00	Tripod Stage	Saturday
+2268	Porn Kiosk DJ Playing	16:00	20:00	VOGUE FABRICS	Saturday
+2269	Caberet - Lazlo Pearlman and Holestar	22:00	0:00	VOGUE FABRICS	Saturday
+2270	"""POP DJ's with Holestar and Princess Julia / Treatment rooms / Danni Daniels, Ashley Ryder, Michelle Webb"""	0:00	6:00	VOGUE FABRICS	Saturday
+19	Beyoncé	21:45	23:15	Pyramid	Sunday
+20	Pendulum	19:45	21:00	Pyramid	Sunday
+21	Plan B	18:15	19:15	Pyramid	Sunday
+22	Paul Simon	16:30	17:45	Pyramid	Sunday
+23	Laura Marling	15:00	16:00	Pyramid	Sunday
+24	Don McLean	13:30	14:30	Pyramid	Sunday
+25	The Low Anthem	12:10	13:00	Pyramid	Sunday
+26	Fisherman's Friends	11:00	11:45	Pyramid	Sunday
+48	Queens of the Stone Age	22:00	23:15	Other Stage	Sunday
+49	Kaiser Chiefs	20:30	21:30	Other Stage	Sunday
+50	Eels	19:00	20:00	Other Stage	Sunday
+51	TV on the Radio	17:30	18:30	Other Stage	Sunday
+52	Bombay Bicycle Club	16:00	17:00	Other Stage	Sunday
+53	Noisettes	14:30	15:30	Other Stage	Sunday
+54	Cold War Kids	13:05	14:00	Other Stage	Sunday
+55	Clare Maguire	12:00	12:40	Other Stage	Sunday
+56	Dan Mangan	11:00	11:35	Other Stage	Sunday
+77	Kool & The Gang	21:45	23:15	West Holts	Sunday
+78	Hercules and Love Affair	20:00	21:00	West Holts	Sunday
+79	The Go! Team	18:30	19:30	West Holts	Sunday
+80	Duane Eddy	17:00	18:00	West Holts	Sunday
+81	Bellowhead	15:30	16:30	West Holts	Sunday
+82	Jah Wobble & the Nippon Dub Ensemble	14:00	15:00	West Holts	Sunday
+83	Jamie Woon	12:45	13:30	West Holts	Sunday
+84	Hidden Orchestra	11:15	12:15	West Holts	Sunday
+108	The Streets	22:05	23:15	John Peel	Sunday
+109	Robyn	20:35	21:35	John Peel	Sunday
+110	Hurts	19:05	20:05	John Peel	Sunday
+111	The Vaccines	17:45	18:35	John Peel	Sunday
+112	Everything Everything	16:30	17:15	John Peel	Sunday
+113	OK Go	15:10	16:00	John Peel	Sunday
+114	The Joy Formidable	14:00	14:45	John Peel	Sunday
+115	Foster the People	13:00	13:40	John Peel	Sunday
+116	Raghu Dixit	12:00	12:40	John Peel	Sunday
+117	My Tiger My Timing	11:00	11:40	John Peel	Sunday
+141	Gruff Rhys	21:30	22:45	The Park	Sunday
+142	Lykke Li	20:00	21:00	The Park	Sunday
+143	John Grant	18:30	19:30	The Park	Sunday
+144	The Bees	17:00	18:00	The Park	Sunday
+145	James Vincent McMorrow	15:45	16:30	The Park	Sunday
+146	Jonny	14:30	15:15	The Park	Sunday
+147	Sea of Bees	13:30	14:00	The Park	Sunday
+148	The Pierces	12:30	13:00	The Park	Sunday
+149	Troy Ellis & Hail Jamaica	11:30	12:00	The Park	Sunday
+173	Suzanne Vega	22:30	23:30	Acoustic	Sunday
+174	Imelda May	21:00	22:00	Acoustic	Sunday
+175	John Cooper Clarke	20:00	20:40	Acoustic	Sunday
+176	"Wine Women & Song featuring Matraca Berg, Suzy Bogguss, Gretchen Peters"	18:30	19:30	Acoustic	Sunday
+177	London Community Gospel Choir	17:15	18:15	Acoustic	Sunday
+178	The Magnets	16:00	17:00	Acoustic	Sunday
+179	Iona Marshall	15:00	15:45	Acoustic	Sunday
+180	Caitlin Rose	14:00	14:45	Acoustic	Sunday
+181	Ellyn Maybe & Her Band	13:00	13:40	Acoustic	Sunday
+182	My FIrst Tooth	12:00	12:40	Acoustic	Sunday
+203	Shooglenifty	22:55	23:55	Avalon Stage	Sunday
+204	City and Colour	21:15	22:25	Avalon Stage	Sunday
+205	The Low Anthem	19:45	20:45	Avalon Stage	Sunday
+206	Show of Hands	18:15	19:15	Avalon Stage	Sunday
+207	Ron Sexsmith	16:50	17:50	Avalon Stage	Sunday
+208	The Popes	15:30	16:20	Avalon Stage	Sunday
+209	The Wombles	14:00	15:00	Avalon Stage	Sunday
+210	"""Kitty, Daisy & Lewis"""	12:45	13:35	Avalon Stage	Sunday
+211	Louise & The Pins	11:30	12:20	Avalon Stage	Sunday
+237	Stereo MC's	22:45	0:00	G Stage	Sunday
+238	Plump DJs	21:45	22:45	G Stage	Sunday
+239	Pretty Lights	20:45	21:45	G Stage	Sunday
+240	Freestylers	19:45	20:45	G Stage	Sunday
+241	Herve	18:45	19:45	G Stage	Sunday
+242	Modestep	17:45	18:45	G Stage	Sunday
+243	London Elektricty	16:45	17:45	G Stage	Sunday
+244	Camo & Krooked	15:45	16:45	G Stage	Sunday
+245	Mr Nice	14:45	15:45	G Stage	Sunday
+246	Correspondents	13:45	14:45	G Stage	Sunday
+247	Chris Tofu	13:00	13:45	G Stage	Sunday
+248	Cassetteboy + Dj Rubbish	12:00	13:00	G Stage	Sunday
+277	Pete Tong	22:30	0:00	EAST DANCE	Sunday
+278	The Japanese Popstars (Live)	21:15	22:30	EAST DANCE	Sunday
+279	Steve Lawler	20:00	21:15	EAST DANCE	Sunday
+280	Claude VonStroke	18:45	20:00	EAST DANCE	Sunday
+281	Azari & III (Live)	17:45	18:45	EAST DANCE	Sunday
+282	DJ Shepdog	17:15	17:45	EAST DANCE	Sunday
+283	NZ ShapeShifter (Live)	16:00	17:15	EAST DANCE	Sunday
+284	DJ Shepdog	15:30	16:00	EAST DANCE	Sunday
+285	Funkagenda & Chris Lake B2B	14:00	15:30	EAST DANCE	Sunday
+286	Mark Knight	13:00	14:00	EAST DANCE	Sunday
+287	Matt Hardwick	11:45	13:00	EAST DANCE	Sunday
+316	Subfocus & ID	23:00	0:00	Oxlyers In West	Sunday
+317	Photek (Live)	22:00	23:00	Oxlyers In West	Sunday
+318	DJ Fresh	21:00	22:00	Oxlyers In West	Sunday
+319	Caspa feat MC Rod Azlan	20:00	21:00	Oxlyers In West	Sunday
+320	Skream and Benga	19:00	20:00	Oxlyers In West	Sunday
+321	Joker (Live)	18:00	19:00	Oxlyers In West	Sunday
+322	Metronomy (Live)	17:00	17:40	Oxlyers In West	Sunday
+323	dan le sac Vs Scroobius Pip (Live) (Live)	16:00	16:40	Oxlyers In West	Sunday
+324	Egyptian Hip Hop (Live)	15:00	15:40	Oxlyers In West	Sunday
+325	Crystal Fighters (Live)	14:00	14:40	Oxlyers In West	Sunday
+326	The Cocknbullkid (Live)	13:00	13:40	Oxlyers In West	Sunday
+327	Esben And The Witch (Live)	12:00	12:40	Oxlyers In West	Sunday
+328	Mirrors (Live)	11:00	11:40	Oxlyers In West	Sunday
+367	Rebel Rave ft Seth Troxler	23:30	2:30	Wow!	Sunday
+368	Mount Kimbie	22:30	23:30	Wow!	Sunday
+369	Bonobo	21:00	22:30	Wow!	Sunday
+370	Dels	20:00	21:00	Wow!	Sunday
+371	Ghostpoet	19:00	19:45	Wow!	Sunday
+372	Hyetal	18:00	19:00	Wow!	Sunday
+373	Electric Wire Hustle	17:00	18:00	Wow!	Sunday
+374	Space Dimension Controller	16:00	17:00	Wow!	Sunday
+375	Lone	15:00	16:00	Wow!	Sunday
+376	Applepips ft Appleblim & Al Tourettes	13:00	15:00	Wow!	Sunday
+377	Benny Blanco	12:00	13:00	Wow!	Sunday
+395	BELLOWHEAD	21:00	23:00	Leftfield	Sunday
+396	RAGHU DIXIT	19:30	21:00	Leftfield	Sunday
+397	GRACE PETRIE	18:00	19:30	Leftfield	Sunday
+398	Comedy with JOSIE LONG	17:00	18:00	Leftfield	Sunday
+399	BILL'S BIG ROUND UP feat. Billy Bragg and Badly Drawn Boy	15:00	17:00	Leftfield	Sunday
+400	Debate: ANOTHER WORLD IS POSSIBLE	13:30	15:00	Leftfield	Sunday
+401	Debate: EQUALITIES IN THE CUTS FRONTLINE	12:00	13:30	Leftfield	Sunday
+439	Experimental Soundfield Old Skool House	0:00	1:00	Spirit of 71	Sunday
+440	System 7	22:00	23:00	Spirit of 71	Sunday
+441	Nik Turner's Space Ritual	20:30	21:30	Spirit of 71	Sunday
+442	Robyn Hitchcock and the Imaginary Band	18:45	20:00	Spirit of 71	Sunday
+443	Chris Jagger Atcha Band	17:15	18:15	Spirit of 71	Sunday
+444	Murray Lachlan Young	16:45	17:15	Spirit of 71	Sunday
+445	Gringo Ska	15:15	16:15	Spirit of 71	Sunday
+446	Last Star Pilot	14:00	14:45	Spirit of 71	Sunday
+447	Nigel Mazyln Jones	12:45	13:30	Spirit of 71	Sunday
+448	Avalon Free State Choir	12:00	12:45	Spirit of 71	Sunday
+533	Pirates of the Carabina present FLOWN	23:08	23:53	Circus Big Top	Sunday
+534	Judith Lanigan	22:53	23:03	Circus Big Top	Sunday
+535	Feeding the Fish	22:38	22:48	Circus Big Top	Sunday
+536	Miss Radida	22:26	22:33	Circus Big Top	Sunday
+537	Goltrix	22:11	22:21	Circus Big Top	Sunday
+538	Empress Stah as Stah-Lite	21:51	22:06	Circus Big Top	Sunday
+539	Yvette Du Sol	21:38	21:46	Circus Big Top	Sunday
+540	Tumble Circus	21:23	21:33	Circus Big Top	Sunday
+541	Circolombia present URBAN	20:03	21:18	Circus Big Top	Sunday
+542	The Others	19:38	19:58	Circus Big Top	Sunday
+543	Jamie Swan	19:27	19:33	Circus Big Top	Sunday
+544	Patrik & Wes	19:12	19:22	Circus Big Top	Sunday
+545	Cirk Extempore present El Tango Pole	18:59	19:07	Circus Big Top	Sunday
+546	Comedy Sword Swallower Thom Sellectomy	18:34	18:54	Circus Big Top	Sunday
+547	"""Starfiz, winners of the Emma Insley Award """	18:19	18:29	Circus Big Top	Sunday
+548	Laura Tikka	18:08	18:14	Circus Big Top	Sunday
+549	Coreo Hazzard	17:43	18:03	Circus Big Top	Sunday
+550	nofit Howie	17:31	17:38	Circus Big Top	Sunday
+551	Silvia Pavone	17:20	17:26	Circus Big Top	Sunday
+552	Black Eagles	16:50	17:15	Circus Big Top	Sunday
+553	Frank Olivier	16:35	16:45	Circus Big Top	Sunday
+554	The Space Cowboy	16:10	16:30	Circus Big Top	Sunday
+555	Zoe L'Amore	15:58	16:05	Circus Big Top	Sunday
+556	Rod Laver	15:43	15:53	Circus Big Top	Sunday
+557	Mimbre	15:03	15:38	Circus Big Top	Sunday
+558	Wookey Hole Circus	14:43	14:58	Circus Big Top	Sunday
+559	The Great Davido amd Friends with The Thom Pod Little Big Band	14:03	14:38	Circus Big Top	Sunday
+560	Laura Tikka	13:52	13:58	Circus Big Top	Sunday
+561	Bruce Airhead	13:27	13:47	Circus Big Top	Sunday
+562	strings on Strings	13:11	13:22	Circus Big Top	Sunday
+563	Donald Grant	12:56	13:06	Circus Big Top	Sunday
+564	Wookey Hole Circus	12:26	12:51	Circus Big Top	Sunday
+565	Silvia Pavone	12:15	12:21	Circus Big Top	Sunday
+566	Circomedia	11:45	12:10	Circus Big Top	Sunday
+567	Rhythm Doctors	10:45	11:40	Circus Big Top	Sunday
+610	DJ Switch End of Festival Mix	4:00	4:30	The Hub	Sunday
+611	Doorly (Exclusive Glasto Set)	2:30	4:00	The Hub	Sunday
+612	Bobby Friction goes Prince	0:00	2:00	The Hub	Sunday
+613	Solution Soundsystem feat Lovegrocer	22:00	0:00	The Hub	Sunday
+614	DJ Cameo	9:30 PM	10:30 PM	The Hub	Sunday
+615	Sway	8:30 PM	9:00 PM	The Hub	Sunday
+616	Jammer	8:00 PM	8:25 PM	The Hub	Sunday
+617	Bushkin & Fonti	7:30 PM	8:00 PM	The Hub	Sunday
+618	Baby Blue (Live)	7:00 PM	7:25 PM	The Hub	Sunday
+619	YOYO SOUNDSYSTEM w/ Special Guests	5:00 PM	7:00 PM	The Hub	Sunday
+620	The Heatwave	4:30 PM	5:00 PM	The Hub	Sunday
+621	The Heatwave w/ Lady Chann	4:00 PM	4:30 PM	The Hub	Sunday
+622	The Heatwave	3:30 PM	4:00 PM	The Hub	Sunday
+623	IRATION STEPPAS	1:30 PM	3:30 PM	The Hub	Sunday
+624	Reggae Roast w/ Kenny Knots	12:00 PM	1:30 PM	The Hub	Sunday
+625	Machine Heaven Ranger	11:00 AM	12:00 PM	The Hub	Sunday
+653	CALYX & TEEBEE / MC CARASEL	1:45	3:00	Arcadia	Sunday
+654	SL2 / MC RIBBZ	0:45	1:45	Arcadia	Sunday
+655	"""""""SPIDER"""""""	0:00	0:45	Arcadia	Sunday
+656	JINX IN DUB	23:00	0:00	Arcadia	Sunday
+657	GENTLEMANS DUB CLUB	22:00	23:00	Arcadia	Sunday
+658	DUB BOY	21:15	22:00	Arcadia	Sunday
+659	NEVILLE STAPLE OF THE SPECIALS	20:30	21:15	Arcadia	Sunday
+660	MUNGO'S HIFI / SOOM T	19:30	20:30	Arcadia	Sunday
+661	MACKA B	18:30	19:30	Arcadia	Sunday
+662	STEVE BEDLAM	17:45	18:30	Arcadia	Sunday
+663	THE RESONATORS	17:00	17:45	Arcadia	Sunday
+689	Vessels	19:30	19:55	BBC Introducing	Sunday
+690	Shammi Pithia	18:45	19:10	BBC Introducing	Sunday
+691	Jake Bugg	18:00	18:25	BBC Introducing	Sunday
+692	Guest	17:15	17:40	BBC Introducing	Sunday
+693	The Foot Clan	16:30	16:55	BBC Introducing	Sunday
+694	Air Castles	15:45	16:10	BBC Introducing	Sunday
+695	Worship	15:00	15:25	BBC Introducing	Sunday
+696	Two Wounded Birds	14:15	14:40	BBC Introducing	Sunday
+697	Yes Cadets	13:30	13:55	BBC Introducing	Sunday
+698	Tristram	12:45	13:10	BBC Introducing	Sunday
+699	Crow Black Chicken	12:00	12:25	BBC Introducing	Sunday
+720	Beginners: Reading Charts And Interpretation	16:00	17:00	ASTRO DOME WORKSHOPS	Sunday
+721	The Story Of The Wheel Of The Zodiac	14:00	16:00	ASTRO DOME WORKSHOPS	Sunday
+722	2012 And All That'	11:00	14:00	ASTRO DOME WORKSHOPS	Sunday
+723	Sun Meditation	9:30	11:00	ASTRO DOME WORKSHOPS	Sunday
+759	Twisted Cabaret	2:00	3:00	Astrolabe	Sunday
+760	Siyaya	1:10	1:55	Astrolabe	Sunday
+761	"blackSKYwhite ""Timehole"""	0:00	1:00	Astrolabe	Sunday
+762	Jaipur Kawa Brass Band	23:15	0:00	Astrolabe	Sunday
+763	Norman Lovett	18:00	19:00	Astrolabe	Sunday
+764	Movin' Melvin Brown	17:30	18:00	Astrolabe	Sunday
+765	Antique Dances	17:05	17:25	Astrolabe	Sunday
+766	Jonathan Kay	15:30	17:00	Astrolabe	Sunday
+767	Insect Circus	14:30	15:30	Astrolabe	Sunday
+768	Andi Neate	13:50	14:20	Astrolabe	Sunday
+769	Bowfins and Stringtease	13:10	13:45	Astrolabe	Sunday
+770	Black Eagles	12:40	13:05	Astrolabe	Sunday
+771	Eletricat	12:20	12:35	Astrolabe	Sunday
+772	"Dr. Ken Farquhar ""How to save the Planet"""	11:30	12:15	Astrolabe	Sunday
+773	Taiko Meantime	11:00	11:30	Astrolabe	Sunday
+774	"""Charmian Hughes, Dave Thompson, Liam Jones & Dan Evans"""	Comperes:		Astrolabe	Sunday
+820	With Love From Humans!	0:00:00	1:30:00	Avalon Café	Sunday
+821	Horizonto	22:30:00	0:00:00	Avalon Café	Sunday
+822	Morning Orchestra	21:00:00	22:30:00	Avalon Café	Sunday
+823	FUR	19:30:00	21:00:00	Avalon Café	Sunday
+824	Usual Players	18:30:00	19:30:00	Avalon Café	Sunday
+825	Julie Daske	17:30:00	18:30:00	Avalon Café	Sunday
+826	Hodmaddodary	16:00:00	17:30:00	Avalon Café	Sunday
+827	Tom E Lewis	15:30:00	16:00:00	Avalon Café	Sunday
+828	Sam Brookes	14:30:00	15:30:00	Avalon Café	Sunday
+829	The Johnsons	13:30:00	14:30:00	Avalon Café	Sunday
+830	Beth Rowley	12:30:00	13:30:00	Avalon Café	Sunday
+831	Ebou	11:30:00	12:30:00	Avalon Café	Sunday
+832	The Rowan Hudson Trio	10:30:00	11:30:00	Avalon Café	Sunday
+871	World Government	23:00:00	0:00:00	Bandstand	Sunday
+872	Urusen	20:15:00	21:00:00	Bandstand	Sunday
+873	The Destroyers	19:00:00	19:45:00	Bandstand	Sunday
+874	This is the Kit	18:00:00	18:45:00	Bandstand	Sunday
+875	Souk-Bab-El-Louk	17:00:00	17:40:00	Bandstand	Sunday
+876	The Duckworths	16:00:00	16:40:00	Bandstand	Sunday
+877	Jump Mama	15:00:00	15:40:00	Bandstand	Sunday
+878	Howlin' Lord	14:15:00	14:45:00	Bandstand	Sunday
+879	Daisy Chapman	13:30:00	14:00:00	Bandstand	Sunday
+880	Stanton Delaplane	12:45:00	13:15:00	Bandstand	Sunday
+881	Light Garden	12:00:00	12:30:00	Bandstand	Sunday
+920	FAIRTUNES DJ'S	4:00	5:00	BASSLINE CIRCUS	Sunday
+921	DISRAELI & THE SMALL GODS	2:30	4:00	BASSLINE CIRCUS	Sunday
+922	UPROOT ANDY	2:00	2:30	BASSLINE CIRCUS	Sunday
+923	PAPAYA REPUBLIK	1:00	2:00	BASSLINE CIRCUS	Sunday
+924	UPROOT ANDY	23:45	1:00	BASSLINE CIRCUS	Sunday
+925	MANO DE DIOS	23:00	23:45	BASSLINE CIRCUS	Sunday
+926	FAIRTUNES & MOVIMIENTOS DJ'S	21:30	23:00	BASSLINE CIRCUS	Sunday
+927	"""Live dance off FairTunes from Glastonbury vs FairTunes from Boogaloop, Colombia feat. Systema Solar live from USA"""	19:00	21:30	BASSLINE CIRCUS	Sunday
+961	Very special guests	1:30	3:00	Beat Hotel	Sunday
+962	Skream (Disco set)	0:00	1:30	Beat Hotel	Sunday
+963	Crazy P (DJ set)	22:45	0:00	Beat Hotel	Sunday
+964	Space Dimension Controller	21:30	22:45	Beat Hotel	Sunday
+965	Ghostpoet (DJ Set)	20:30	21:30	Beat Hotel	Sunday
+966	D/R/U/G/S (live)	19:30	20:30	Beat Hotel	Sunday
+967	Toby Tobias	18:00	19:30	Beat Hotel	Sunday
+968	Soft Rocks	16:30	18:00	Beat Hotel	Sunday
+969	Foolish Felix	15:00	16:30	Beat Hotel	Sunday
+970	Johnno (Bugged Out Yacht Rock set)	13:00	15:00	Beat Hotel	Sunday
+971	Room Service	11:00	13:00	Beat Hotel	Sunday
+996	808 state	5:00:00	6:00:00	Bez's Acid House	Sunday
+997	Jack B +arlo	4:00:00	5:00:00	Bez's Acid House	Sunday
+998	808 state	3:00:00	4:00:00	Bez's Acid House	Sunday
+999	Alex Patterson	2:00:00	3:00:00	Bez's Acid House	Sunday
+1000	Jagz Kooner	1:00:00	2:00:00	Bez's Acid House	Sunday
+1001	Lazio Legeezer	0:00:00	1:00:00	Bez's Acid House	Sunday
+1002	Fish	23:30:00	0:00:00	Bez's Acid House	Sunday
+1003	Skillzee	23:00:00	23:30:00	Bez's Acid House	Sunday
+1041	Top Shelf Jazz	1:00:00	2:45:00	Bourbon Street	Sunday
+1042	Rabbit Foot Spasm Band	23:30:00	0:45:00	Bourbon Street	Sunday
+1043	Chrissi Poland	22:15:00	23:15:00	Bourbon Street	Sunday
+1044	Sean Taylor	21:00:00	22:00:00	Bourbon Street	Sunday
+1045	Simon McBride	19:45:00	20:45:00	Bourbon Street	Sunday
+1046	"""Benoit Viellefon & His Orchestra (featuring Eddie """"Tan Tan"""" Thornton on trumpet...)"""	18:15:00	19:30:00	Bourbon Street	Sunday
+1047	Jon Allen	17:00:00	18:00:00	Bourbon Street	Sunday
+1048	Maggie Bell & Dave Kelly	15:30:00	16:45:00	Bourbon Street	Sunday
+1049	Clara Sanabras	14:15:00	14:00:00	Bourbon Street	Sunday
+1050	Bourbon Street Jam	13:00:00	14:00:00	Bourbon Street	Sunday
+1051	Bourbon Street Jam	12:00:00	12:45:00	Bourbon Street	Sunday
+1134	PHIL NICHOL	23:30	0:00	Cabaret Tent	Sunday
+1135	FEEDING THE FISH	23:15	23:25	Cabaret Tent	Sunday
+1136	SIMON MUNNERY	22:40	23:10	Cabaret Tent	Sunday
+1137	"""ALICE & ALICE"" BY COCOLOCO"	22:25	22:35	Cabaret Tent	Sunday
+1138	SHAPPI KHORSANDI	21:05	22:20	Cabaret Tent	Sunday
+1139	MITCH BENN	21:15	21:45	Cabaret Tent	Sunday
+1140	MATTHEW HARDY	20:04	21:10	Cabaret Tent	Sunday
+1141	ROSIN CONATY	20:05	20:35	Cabaret Tent	Sunday
+1142	PAUL NATHAN	19:05	20:00	Cabaret Tent	Sunday
+1143	RORY MOTION	19:15	19:45	Cabaret Tent	Sunday
+1144	FRANK OLIVIER	19:00	19:10	Cabaret Tent	Sunday
+1145	NATHAN CATON	18:25	18:55	Cabaret Tent	Sunday
+1146	TIFFANY STEVENSON	17:50	18:20	Cabaret Tent	Sunday
+1147	DONALD GRANT	17:35	17:45	Cabaret Tent	Sunday
+1148	ABANDOMAN	17:00	17:30	Cabaret Tent	Sunday
+1149	ROD LAVER	16:45	16:55	Cabaret Tent	Sunday
+1150	MARY BOURKE	16:10	16:40	Cabaret Tent	Sunday
+1151	PAUL NATHAN	15:55	16:05	Cabaret Tent	Sunday
+1152	ATTILA THE STOCKBROKER	15:20	15:50	Cabaret Tent	Sunday
+1153	ROBIN INCE	14:45	15:15	Cabaret Tent	Sunday
+1154	FRANK OLIVIER	14:30	14:40	Cabaret Tent	Sunday
+1155	BIG BEATS	13:55	14:25	Cabaret Tent	Sunday
+1156	MURRAY LACHLAN YOUNG	13:20	13:50	Cabaret Tent	Sunday
+1157	EARLY EDITION	12:15	13:15	Cabaret Tent	Sunday
+1158	AISLE16	11:35	12:10	Cabaret Tent	Sunday
+1159	RHYTHM WAVE	11:00	11:30	Cabaret Tent	Sunday
+1160	BARRY CASTAGNOLA		COMPERES	Cabaret Tent	Sunday
+1161	IAN STONE		COMPERES	Cabaret Tent	Sunday
+1162	CARL DONNELLY		COMPERES	Cabaret Tent	Sunday
+1163	CRAIG CAMPBELL		COMPERES	Cabaret Tent	Sunday
+1189	Lationo Fiesta feat. Jose Luis	3:30	5:00	CAMPO PEQUENO	Sunday
+1190	SECRET HEADLINER	2:00	3:30	CAMPO PEQUENO	Sunday
+1191	"""""""Fiesta de la Noche"""" Late Night Bearded Kitten Games"""	1:30	2:00	CAMPO PEQUENO	Sunday
+1192	"""""""Toro Libre"""" The Bearded Kitten Show"""	1:00	1:30	CAMPO PEQUENO	Sunday
+1193	Latin Dub Soundsystem PA - with live instrumental	0:00	1:00	CAMPO PEQUENO	Sunday
+1194	DJs Camembert & Fun Times	23:30	0:00	CAMPO PEQUENO	Sunday
+1195	Lucha Britannia - Mexican Wrestling	21:30	23:30	CAMPO PEQUENO	Sunday
+1196	DJs Camembert & Fun Times	21:00	21:30	CAMPO PEQUENO	Sunday
+1197	La Tomatina - The Tomato Fight	19:00	19:30	CAMPO PEQUENO	Sunday
+1198	Reggae Roast - Exel & Moodie	17:00	19:00	CAMPO PEQUENO	Sunday
+1199	"""Los Interactivos Bearded Kitten"""	14:00	17:00	CAMPO PEQUENO	Sunday
+1200	Tropical Taste	13:00	14:00	CAMPO PEQUENO	Sunday
+1237	King Porter Stomp	2:00:00	3:00:00	Chai Wallahs	Sunday
+1238	Yes Sir Boss	0:30:00	1:30:00	Chai Wallahs	Sunday
+1239	Lazy Habits	23:00:00	0:00:00	Chai Wallahs	Sunday
+1240	Molotov Jukebox	21:30:00	22:30:00	Chai Wallahs	Sunday
+1241	Swing Zazou	20:15:00	21:00:00	Chai Wallahs	Sunday
+1242	Daisy & The Smokey Taps	19:00:00	19:45:00	Chai Wallahs	Sunday
+1243	London Afrobeat Collective	17:30:00	18:30:00	Chai Wallahs	Sunday
+1244	Mankala	16:00:00	17:00:00	Chai Wallahs	Sunday
+1245	Sub Motion Orchestra	14:30:00	15:30:00	Chai Wallahs	Sunday
+1246	The Peoples String Foundation	13:00:00	14:00:00	Chai Wallahs	Sunday
+1247	Jon Allen	12:00:00	12:45:00	Chai Wallahs	Sunday
+1285	Molotov Juke Box	4	4.3	Club Dada	Sunday
+1286	Sam and The Womp	3	4	Club Dada	Sunday
+1287	The Destroyers	2	3	Club Dada	Sunday
+1288	Tako Lako	1	2	Club Dada	Sunday
+1289	Analogik	0	1	Club Dada	Sunday
+1290	La Internacional Sonora Balkanera	23	0	Club Dada	Sunday
+1291	DJ Max Pashm	22	23	Club Dada	Sunday
+1292	Carnyvillains	21:00	22:00	Club Dada	Sunday
+1293	Cut A Shine	19:00	21:00	Club Dada	Sunday
+1294	Goodnight Lenin	18:00	19:00	Club Dada	Sunday
+1295	Dogan Mehmet	17:00	18:00	Club Dada	Sunday
+1296	Wagon Tales	16:00	17:00	Club Dada	Sunday
+1297	Sam Lee and Friends	15:00	16:00	Club Dada	Sunday
+1298	Cocos Lovers	14:00	15:00	Club Dada	Sunday
+1323	Neville Staples	0:30	1:30	Croissant Neuf	Sunday
+1324	Junior Marvin	23:00	0:30	Croissant Neuf	Sunday
+1325	One sixth of Tommy	19:00	23:30	Croissant Neuf	Sunday
+1326	Biggles Wartime Band	17:30	19:00	Croissant Neuf	Sunday
+1327	The Momeraths	16:00	17:30	Croissant Neuf	Sunday
+1328	The Phoenix Rose	14:30	16:00	Croissant Neuf	Sunday
+1329	Bowjangles	13:00	14:30	Croissant Neuf	Sunday
+1361	DJ Felix El Gato	1:30	2:30	Cubana Salsa Tent	Sunday
+1362	Robin Jones and King Salsa	0:00	1:30	Cubana Salsa Tent	Sunday
+1363	DJ Felix El Gato	23:30	0:00	Cubana Salsa Tent	Sunday
+1364	To'Mezclao	18:30	20:00	Cubana Salsa Tent	Sunday
+1365	DJ G. Die	18:00	18:30	Cubana Salsa Tent	Sunday
+1366	Nicolai & Helena - Salsa Class	17:00	18:00	Cubana Salsa Tent	Sunday
+1367	Djs Cal/Arias - Movimientos	16:30	17:00	Cubana Salsa Tent	Sunday
+1368	Latin Dub Soundsystem	15:30	16:30	Cubana Salsa Tent	Sunday
+1369	Djs Cal/Arias - Movimientos	15:00	15:30	Cubana Salsa Tent	Sunday
+1370	Nigel May - Salsa Class	14:00	15:00	Cubana Salsa Tent	Sunday
+1371	Bandera Cubana	13:00	14:00	Cubana Salsa Tent	Sunday
+1372	Nicolai & Helena - Salsa Class	12:00	13:00	Cubana Salsa Tent	Sunday
+1396	Jah Shaka Soundsystem (Live)	13:00	0:00	CUBEHENGE	Sunday
+1412	Dan Mills	5:00	7:00	CUBEHENGE (Heds Party)	Sunday
+1413	Paul Gillies	3:00	5:00	CUBEHENGE (Heds Party)	Sunday
+1414	Steve Earley	1:00	3:00	CUBEHENGE (Heds Party)	Sunday
+1415	Loll	5:00	7:00	CUBEHENGE (Heds Party)	Sunday
+1416	DJ Amo	3:00	5:00	CUBEHENGE (Heds Party)	Sunday
+1417	Sparky	1:00	3:00	CUBEHENGE (Heds Party)	Sunday
+1435	Propaganda DJ's	1:00	7:00	EAST DANCE (Heds Party)	Sunday
+1436	Neil Scott	4:30	7:00	EAST DANCE (Heds Party)	Sunday
+1437	Eric Kleptone	2:30	4:30	EAST DANCE (Heds Party)	Sunday
+1438	Novak 3D Disco	1:30	2:30	EAST DANCE (Heds Party)	Sunday
+1464	DIRTY MENEZ	3:00	5:00	EL PENOL CANTINA	Sunday
+1465	KEVIN GATO	1:00	3:00	EL PENOL CANTINA	Sunday
+1466	JULIAN MR M	23:00	1:00	EL PENOL CANTINA	Sunday
+1467	OSCAR ARROYO	21:00	23:00	EL PENOL CANTINA	Sunday
+1468	RUSS JONES	19:00	21:00	EL PENOL CANTINA	Sunday
+1469	MADERA VERDE	17:00	19:00	EL PENOL CANTINA	Sunday
+1470	DJ AMADO	15:00	17:00	EL PENOL CANTINA	Sunday
+1482	Edwyn Collins and Grace Maxwell	13:45		Free University Of Glastonbury	Sunday
+1483	Matthew De Abaitua	13:00		Free University Of Glastonbury	Sunday
+1484	Richard King	12:15		Free University Of Glastonbury	Sunday
+1485	Gavin Knight	11:30		Free University Of Glastonbury	Sunday
+1507	Le KKC Orchestra	2:00	3:00	Glade Lounge	Sunday
+1508	John Bingly Bongly	1:00	2:00	Glade Lounge	Sunday
+1509	Switch	0:00	1:00	Glade Lounge	Sunday
+1510	Don Johnston	23:00	0:00	Glade Lounge	Sunday
+1511	Dirty Retro	21:30	23:00	Glade Lounge	Sunday
+1512	Tall Will	20:00	21:30	Glade Lounge	Sunday
+1537	Eyes on Film	23:00	23:30	Greenpeace Stage	Sunday
+1538	Bow Bow Belles	22:15	22:45	Greenpeace Stage	Sunday
+1539	Ellen and the Escapades	21:30	22:00	Greenpeace Stage	Sunday
+1572	"""SanchoPanza featuring Matt Brown, Jimmy K Tel And Michael Cook"""	0:00	2:30	Magic Bubbles	Sunday
+1573	Julien Dyne feat. Parks	22:45	0:00	Magic Bubbles	Sunday
+1574	Ladi6 (Live)	22:00	22:45	Magic Bubbles	Sunday
+1575	The 2 Bears	20:30	22:00	Magic Bubbles	Sunday
+1576	Doman & Gooding	19:00	20:30	Magic Bubbles	Sunday
+1577	La Bomba Soundsystem	17:30	19:00	Magic Bubbles	Sunday
+1578	Black Jesus Experience (Live)	16:00	17:30	Magic Bubbles	Sunday
+1579	Eclectic Ballroom	14:00	16:00	Magic Bubbles	Sunday
+1580	Don Johnston	12:00	14:00	Magic Bubbles	Sunday
+1626	Dangerous Dinky	1:00	2:00	Mandala Stage	Sunday
+1627	Crystal	0:00	1:00	Mandala Stage	Sunday
+1628	The Kays	23:00	0:00	Mandala Stage	Sunday
+1629	Gaea Knight	22:00	23:00	Mandala Stage	Sunday
+1630	Si Cousins	20:00	22:00	Mandala Stage	Sunday
+1631	Chris Ellis And Dave Sturt	19:00	20:00	Mandala Stage	Sunday
+1632	Ash the Rhymer	18:00	19:00	Mandala Stage	Sunday
+1633	The Pyramids Of SNAFU	17:00	18:00	Mandala Stage	Sunday
+1634	Janie Dare	15:00	17:00	Mandala Stage	Sunday
+1635	Tess	14:00	15:00	Mandala Stage	Sunday
+1636	Andrew Morris	13:00	14:00	Mandala Stage	Sunday
+1637	Whimwise	12:00	13:00	Mandala Stage	Sunday
+1662	Luke Howard & James Hillard (Horse Meat Disco)	3:00	5:00	NYC DOWNLOW	Sunday
+1663	"""Joshua (Iz & Diz, Vizual, Classic, OM, Chicago)"""	1:30	3:00	NYC DOWNLOW	Sunday
+1664	Gideon (www.thedownlowradio.com)	0:00	1:30	NYC DOWNLOW	Sunday
+1665	Felix Dickinson (Cynic)	23:00	0:00	NYC DOWNLOW	Sunday
+1666	Joe Hart (World Unknown/Bodyhammer)	22:00	23:00	NYC DOWNLOW	Sunday
+1692	The Fighter	1:00	2:56	Pilton Palais Cinema Tent	Sunday
+1693	Special advance screening	11:00	12:30	Pilton Palais Cinema Tent	Sunday
+1694	Inception	22:00	0:28	Pilton Palais Cinema Tent	Sunday
+1695	Paul	19:30	21:14	Pilton Palais Cinema Tent	Sunday
+1696	Monsters	17:30	19:34	Pilton Palais Cinema Tent	Sunday
+1697	Rio Breaks	15:30	16:55	Pilton Palais Cinema Tent	Sunday
+1698	Tron Leggacy 3D	13:00	15:05	Pilton Palais Cinema Tent	Sunday
+1731	Glastonbury Festival Poetry Slam (hosted by Joelle Taylor and Sin One)	17:00	19:00	Poetry and Words	Sunday
+1732	Helen Gregory and Benita Johnson	16:45	17:00	Poetry and Words	Sunday
+1733	Pete Hunter	16:20	16:45	Poetry and Words	Sunday
+1734	Furious George (2010 Slam Winner)	15:50	16:20	Poetry and Words	Sunday
+1735	Adam Kammerling	15:25	15:50	Poetry and Words	Sunday
+1736	Pete the Temp	15:00	15:25	Poetry and Words	Sunday
+1737	Matt Harvey	14:10	15:00	Poetry and Words	Sunday
+1738	Bohdan Piasecki	13:45	14:10	Poetry and Words	Sunday
+1739	Alfred Lord Telecom	13:20	13:45	Poetry and Words	Sunday
+1740	Longfella (Website Poet in Residence AKA Tony Walsh)	12:50	13:20	Poetry and Words	Sunday
+1741	Poeticat	12:25	12:50	Poetry and Words	Sunday
+1742	Anna Freeman	12:00	12:25	Poetry and Words	Sunday
+1743	Pre-show with Benita Johnson	11:45	12:00	Poetry and Words	Sunday
+1755	DJ	16:00	17:00	PORN KIOSK DAYTIME	Sunday
+1756	David 'Squeaky' George - TUTTI FRUTTI	18:00	20:00	PORN KIOSK DAYTIME	Sunday
+1757	Dave Kendrick (Macho City)	20:00	21:00	PORN KIOSK DAYTIME	Sunday
+1797	Hercules & Love Affair DJ Set (Andy Butler)	1:15	2:30	PUSSY PARLURE	Sunday
+1798	Foreign Beggars (Live)	0:15	1:15	PUSSY PARLURE	Sunday
+1799	Ghetto Funk All Stars	22:45	0:15	PUSSY PARLURE	Sunday
+1800	Benny Tones	21:30	22:45	PUSSY PARLURE	Sunday
+1801	Electric Empire (Live)	20:30	21:30	PUSSY PARLURE	Sunday
+1802	Natalia Kills (Live)	19:10	20:00	PUSSY PARLURE	Sunday
+1803	Bella Kalolo (Live)	17:50	18:50	PUSSY PARLURE	Sunday
+1804	Spoek Mathambo (Live)	16:45	17:30	PUSSY PARLURE	Sunday
+1805	Alex Clare (Live)	15:35	16:25	PUSSY PARLURE	Sunday
+1806	Ronit (Live)	14:20	15:10	PUSSY PARLURE	Sunday
+1807	Movin' Melvin Brown	13:15	14:00	PUSSY PARLURE	Sunday
+1808	Vid Warren (Live)	13:00	13:15	PUSSY PARLURE	Sunday
+1809	Randy & Earl's Old Record Club	11:00	13:00	PUSSY PARLURE	Sunday
+1834	Dub Pistols DJ Set	4:00:00	5:00:00	Sharkeys / Unfairground	Sunday
+1835	Atomic Hooligan	2:30:00	4:00:00	Sharkeys / Unfairground	Sunday
+1836	Tayo	1:00:00	2:30:00	Sharkeys / Unfairground	Sunday
+1837	Pyramid	23:30:00	1:00:00	Sharkeys / Unfairground	Sunday
+1838	Ben & Lex	22:00:00	23:30:00	Sharkeys / Unfairground	Sunday
+1839	Freerange Djs	20:00:00	22:00:00	Sharkeys / Unfairground	Sunday
+1840	Simon Stereo	18:00:00	20:00:00	Sharkeys / Unfairground	Sunday
+1841	Real Nice	16:00:00	18:00:00	Sharkeys / Unfairground	Sunday
+1878	Cornelius And Nick Clyne	3:45	4:45	Small World Stage	Sunday
+1879	The Little Unsaid	2:25	3:45	Small World Stage	Sunday
+1880	People’s StringFoundation	0:30	2:25	Small World Stage	Sunday
+1881	Penny Black Remedy	22:45	0:30	Small World Stage	Sunday
+1882	Souk Bab-El-Louk	21:00	22:45	Small World Stage	Sunday
+1883	Nancy Ackroid	19:30	21:00	Small World Stage	Sunday
+1884	Brooke Sharkey	18:15	19:30	Small World Stage	Sunday
+1885	Heal The Last Stand	16:45	18:15	Small World Stage	Sunday
+1886	De Fuego	15:15	16:45	Small World Stage	Sunday
+1887	Carrie Tree	13:30	15:15	Small World Stage	Sunday
+1888	Nathan Ball	12:00	13:30	Small World Stage	Sunday
+1916	Gregory Sams - Wonderful Global Change	19:00:00	20:00:00	So71 Café	Sunday
+1917	Andrew Kerr -' Intolerably Hip' Book signing	15:00:00	16:00:00	So71 Café	Sunday
+1918	Paul Goman - Book signing & Q&A with Dom	13:30:00	14:30:00	So71 Café	Sunday
+1919	"""Live stage discussion: Artisic legacy of designer Barney Bubbles with Paul Gorman, Billy Bragg, John Cooper Clarke & Jeff Dexter"""	12:30:00	13:30:00	So71 Café	Sunday
+1920	Howard Marks - Spoken Word	11:30:00	12:30:00	So71 Café	Sunday
+1960	Question Time	19:15	20:15	Speakers Forum	Sunday
+1961	Mary Ellen	18:00	19:15	Speakers Forum	Sunday
+1962	Tracey Smith	16:45	18:00	Speakers Forum	Sunday
+1963	Tony Benn	15:30	16:45	Speakers Forum	Sunday
+1964	Radical Poetry	14:25	15:30	Speakers Forum	Sunday
+1965	Michael Eavis	13:00	14:25	Speakers Forum	Sunday
+1966	Jonathan Cainer	11:45	13:00	Speakers Forum	Sunday
+1967	Action Work	10:30	11:45	Speakers Forum	Sunday
+1968	Yoga	8:30	10:30	Speakers Forum	Sunday
+1995	Jackmaster	2:30	4:00	Stonebridge Bar (The Park)	Sunday
+1996	Time and Space Machine	1:00	2:30	Stonebridge Bar (The Park)	Sunday
+1997	Pete Fowler (Seahawks/Monsterism)	0:00	1:00	Stonebridge Bar (The Park)	Sunday
+1998	The Schizodelic Sound	22:30	0:00	Stonebridge Bar (The Park)	Sunday
+1999	Stonebridge Residents	20:00	22:30	Stonebridge Bar (The Park)	Sunday
+2000	Smooth Sailing	18:00	20:00	Stonebridge Bar (The Park)	Sunday
+2001	Hip Hop Karaoke	16:00	18:00	Stonebridge Bar (The Park)	Sunday
+2002	Musical Bingo	14:00	16:00	Stonebridge Bar (The Park)	Sunday
+2003	The Endeacot Family	13:00	14:00	Stonebridge Bar (The Park)	Sunday
+2048	The Hand	2:30	3:30	Tadpole Stage	Sunday
+2049	The Muel	1:30	2:30	Tadpole Stage	Sunday
+2050	Loonaloop	0:10	1:30	Tadpole Stage	Sunday
+2051	Radio Break	23:00	0:10	Tadpole Stage	Sunday
+2052	Smoke Feathers	22:00	23:00	Tadpole Stage	Sunday
+2053	Janie Dare	21:00	22:00	Tadpole Stage	Sunday
+2054	David Celia	20:10	21:00	Tadpole Stage	Sunday
+2055	The Turbans	19:10	20:10	Tadpole Stage	Sunday
+2056	Fiddle workshop	18:15	19:10	Tadpole Stage	Sunday
+2057	Seize The Day	17:00	18:15	Tadpole Stage	Sunday
+2058	Little Machine	15:50	17:00	Tadpole Stage	Sunday
+2059	Souk-Bab-El-Louk	14:50	15:50	Tadpole Stage	Sunday
+2060	Via Trio	13:45	14:50	Tadpole Stage	Sunday
+2061	Drum and Eastern Dance Workshop	12:00	13:45	Tadpole Stage	Sunday
+2062	Didge workshop	11:00	12:00	Tadpole Stage	Sunday
+2088	Matt Pond (Deep Systems)	4:00	5:00	THE DOWNLOW RADIO	Sunday
+2089	Tristan da Cunha (Redux / backtobasics)	3:00	4:00	THE DOWNLOW RADIO	Sunday
+2090	Nacho - (www.thedownlowradio.com)	2:00	3:00	THE DOWNLOW RADIO	Sunday
+2091	Luke Howard (Horse Meat Disco / Samba)	1:00	2:00	THE DOWNLOW RADIO	Sunday
+2092	Legendary Chiildren - House	0:00	1:00	THE DOWNLOW RADIO	Sunday
+2093	Dave Kendrick (Macho City)	23:00	0:00	THE DOWNLOW RADIO	Sunday
+2118	Bashment Bish (Negusa Negast)	22:00	23:15	THE LONDON UNDERGROUND	Sunday
+2119	Ugly Man & Smokey B (Rum Shack)	23:15	0:30	THE LONDON UNDERGROUND	Sunday
+2120	RDK Hi Fi Featuring JAH LINGWA & MC KNATTY P	1:00	2:00	THE LONDON UNDERGROUND	Sunday
+2121	Channel One Sound System Mikey Dread & full crew	2:00	3:00	THE LONDON UNDERGROUND	Sunday
+2122	Steve Bedlam & Matty Dreadless (Rum Shack)	4:00	5:00	THE LONDON UNDERGROUND	Sunday
+2147	THE WOLFMAN OF DALSTON (Débruit)	1:00	2:30	THE MEETING POINT BAR	Sunday
+2148	TRONIK	23:00	1:00	THE MEETING POINT BAR	Sunday
+2149	OVEREASY DJs	17:00	23:00	THE MEETING POINT BAR	Sunday
+2150	SCI PHI	21:00	22:00	THE MEETING POINT BAR	Sunday
+2151	OVEREASY DJs	17:00	21:00	THE MEETING POINT BAR	Sunday
+2152	DJ NICKNAME / CHRIS READ	14:00	17:00	THE MEETING POINT BAR	Sunday
+2153	OVEREASY DJs	12:00	14:00	THE MEETING POINT BAR	Sunday
+2183	The Drop	3:30	4:30	The Rabbit Hole	Sunday
+2184	Secret Guests	2:00	3:30	The Rabbit Hole	Sunday
+2185	Yniwl	0:30	2:00	The Rabbit Hole	Sunday
+2186	The Fanclub	22:45	0:30	The Rabbit Hole	Sunday
+2187	Dan Steer	20:45	22:45	The Rabbit Hole	Sunday
+2188	Perhaps Contraption	19:00	20:45	The Rabbit Hole	Sunday
+2189	Mik Artistic	17:30	19:00	The Rabbit Hole	Sunday
+2190	Boxcar Aldous Huxley	16:00	17:30	The Rabbit Hole	Sunday
+2191	Emilie's Eldest	14:00	16:00	The Rabbit Hole	Sunday
+2192	White Rabbit's Records	12:00	14:00	The Rabbit Hole	Sunday
+2216	LONDON AFROBEAT COLLECTIVE TAKEOVER	23:15	2:30	THE WEST HOLTS BAR	Sunday
+2217	ME 1 RESIDENCY	19:03	20:00	THE WEST HOLTS BAR	Sunday
+2218	THE CANNONBALL CLUB-LIVE!	18:00	18:30	THE WEST HOLTS BAR	Sunday
+2219	Ghostpoet	16:30	17:00	THE WEST HOLTS BAR	Sunday
+2220	OPENMIC WITH JOE CHIARI (email westholtsopenmic@gmail:com for a slot)	15:00	15:30	THE WEST HOLTS BAR	Sunday
+2221	THE CANNONBALL CLUB-LIVE!	13:30	14:00	THE WEST HOLTS BAR	Sunday
+2250	Junkyard Scientists	19:00	20:00	Tripod Stage	Sunday
+2251	TBC	18:00	19:00	Tripod Stage	Sunday
+2252	The Drop	17:00	18:00	Tripod Stage	Sunday
+2253	Beans On Toast	16:00	17:00	Tripod Stage	Sunday
+2254	"Danny, Claire, Marrick"	15:00	16:00	Tripod Stage	Sunday
+2255	Open Mic Soap Box	14:00	15:00	Tripod Stage	Sunday
+2256	Spliff Richard	13:00	14:00	Tripod Stage	Sunday
+2257	Wind up the Banker : Morning Maypole Wakeup	12:00	13:00	Tripod Stage	Sunday
+2272	Porn Kiosk DJ Playing	16:00	20:00	VOGUE FABRICS	Sunday
+2273	"""Caberet - Holestar, Danni Daniels, Ashley Ryder"""	22:00	0:00	VOGUE FABRICS	Sunday
+2274	"""HotBoys DJ's Jonjo Jury and Dan Beaumont / Treatment rooms / Danni Daniels, Ashley Ryder, Michelle Webb"""	0:00	4:00	VOGUE FABRICS	Sunday
+330	Netsky	2:00	3:00	Wow!	Thursday
+331	Maya Jane Coles	1:00	2:00	Wow!	Thursday
+332	Julio Bashmore	0:00	1:00	Wow!	Thursday
+333	Ms Dynamite	23:15	0:00	Wow!	Thursday
+334	Trolley Snatcha	22:15	23:15	Wow!	Thursday
+335	Addison Groove	21:00	22:15	Wow!	Thursday
+336	Special Guest	20:00	21:00	Wow!	Thursday
+403	"""A Guy Called Gerald (LIVE) with Funktion One Experimental Soundfield"""	19:30	1:00	Spirit of 71	Thursday
+404	Martin Stone and Friends	18:00	19:30	Spirit of 71	Thursday
+405	Opening Ceremony with Special Guests	17:45	18:00	Spirit of 71	Thursday
+406	Yorke Dance Project	17:30	17:45	Spirit of 71	Thursday
+569	Le KKC Orchestra	22:00	23:00	The Hub	Thursday
+570	Wara	21:00	22:00	The Hub	Thursday
+571	The Worm	20:00	21:00	The Hub	Thursday
+572	Latin Dub Soundsystem	19:00	20:00	The Hub	Thursday
+573	Tako Lako	18:00	19:00	The Hub	Thursday
+574	Sam and the Womp	17:00	18:00	The Hub	Thursday
+575	Positive Focus All Stars	16:00	17:00	The Hub	Thursday
+576	DJ Cal Jader			The Hub	Thursday
+627	MILLION WAY			Arcadia	Thursday
+628	JAMES WONKA			Arcadia	Thursday
+705	Beginners: The Planets And Signs	16:00	17:00	ASTRO DOME WORKSHOPS	Thursday
+706	Astro Games WithMars And Venus	14:00	16:00	ASTRO DOME WORKSHOPS	Thursday
+707	Uranus In Aries - The Spark And Flame	11:00	14:00	ASTRO DOME WORKSHOPS	Thursday
+708	Jupiter Meditation	9:30	11:00	ASTRO DOME WORKSHOPS	Thursday
+776	RSVP	1:30:00	3:30	Avalon Café	Thursday
+777	Mad Dog Mcrea	0:00:00	1:30:00	Avalon Café	Thursday
+778	Rory Mcleod & the Familiar Strangers	22:30:00	0:00:00	Avalon Café	Thursday
+779	The New Forbidden	21:00:00	22:30:00	Avalon Café	Thursday
+780	Maybe Myrtle Tyrtle	19:30:00	21:00:00	Avalon Café	Thursday
+781	Back Before Breakfast	18:30:00	19:30:00	Avalon Café	Thursday
+782	Tree Top Flyers	17:30:00	18:30:00	Avalon Café	Thursday
+783	Urusen	16:00:00	17:30:00	Avalon Café	Thursday
+784	Mojohooker	15:30:00	16:00:00	Avalon Café	Thursday
+785	Josh Thorner	14:30:00	15:30:00	Avalon Café	Thursday
+786	Two Man Ting	13:30:00	14:30:00	Avalon Café	Thursday
+787	With Love From Humans!	12:30:00	13:30:00	Avalon Café	Thursday
+788	Kamal Arafa & the Moonlight Band	11:30:00	12:30:00	Avalon Café	Thursday
+789	"""Abi Baker, Bex and friends"""	10:30:00	11:30:00	Avalon Café	Thursday
+834	Scubaroots	23:00:00	0:00:00	Bandstand	Thursday
+835	The Mandibles	21:30:00	22:30:00	Bandstand	Thursday
+836	The Banana Sessions	20:15:00	21:00:00	Bandstand	Thursday
+837	The Beau Bow Belles	19:00:00	19:45:00	Bandstand	Thursday
+838	Punk's Not Dad	18:00:00	18:45:00	Bandstand	Thursday
+839	Cut A Shine	17:00:00	17:45:00	Bandstand	Thursday
+840	Back Before Breakfast	16:00:00	16:45:00	Bandstand	Thursday
+841	David Gibb & The Pony Club	15:00:00	15:45:00	Bandstand	Thursday
+842	Hodmadoddery	14:00:00	14:45:00	Bandstand	Thursday
+883	DJ STIVS & ED COX	22:00	23:00	BASSLINE CIRCUS	Thursday
+884	"""""""CIRCO GRINGO""""(BASSLINE CIRCUS SHOW)"""	21:00	22:00	BASSLINE CIRCUS	Thursday
+885	FANTAZIO	20:00	21:00	BASSLINE CIRCUS	Thursday
+929	Tayo	1:30	3:00	Beat Hotel	Thursday
+930	Filthy Dukes	0:00	1:30	Beat Hotel	Thursday
+931	Clancy	22:30	0:00	Beat Hotel	Thursday
+932	Zero 7 (DJ set)	20:30	22:30	Beat Hotel	Thursday
+933	Faze Action (DJ set)	18:30	20:30	Beat Hotel	Thursday
+934	Special guest	17:00	18:30	Beat Hotel	Thursday
+935	Duff Disco	15:00	17:00	Beat Hotel	Thursday
+936	Lonely Hertz Club DJs	13:00	15:00	Beat Hotel	Thursday
+937	Room Service	11:00	13:00	Beat Hotel	Thursday
+974	Jack B	22:00:00	23:00:00	Bez's Acid House	Thursday
+975	Lazio Legeezer	21:00:00	22:00:00	Bez's Acid House	Thursday
+976	Mattamatik	20:00:00	21:00:00	Bez's Acid House	Thursday
+977	DJ Bass	19:00:00	20:00:00	Bez's Acid House	Thursday
+978	Fish	18:00:00	19:00:00	Bez's Acid House	Thursday
+1005	Will Scott	1:00:00	2:45:00	Bourbon Street	Thursday
+1006	Connie Lush	23:30:00	0:45:00	Bourbon Street	Thursday
+1007	Ben Poole	22:15:00	23:15:00	Bourbon Street	Thursday
+1008	Sandi Thom	20:30:00	22:00:00	Bourbon Street	Thursday
+1009	Sean Taylor	19:15:00	20:15:00	Bourbon Street	Thursday
+1010	Ledfoot	18:00:00	19:00:00	Bourbon Street	Thursday
+1011	Marcus Bonfanti	16:45:00	17:45:00	Bourbon Street	Thursday
+1012	Matt Andersen	15:30:00	16:30:00	Bourbon Street	Thursday
+1013	Nicki Allan	14:15:00	15:15:00	Bourbon Street	Thursday
+1014	Top Shelf Jazz	13:00:00	14:00:00	Bourbon Street	Thursday
+1015	Leon O'Doherty & Nick Davis	12:00:00	12:45:00	Bourbon Street	Thursday
+1053	Kinky Leighton meets Mincewa: In Session	1:00	2:45	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1054	SPECIAL DJ GUEST	23:00	0:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1055	Mighty Mighty J's Dancehall Mash-up	23:00	0:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1056	Stuff n' Ting: Adventures in Sound System	21:00	23:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1057	leskin	20:00	21:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1058	Mincewa	18:30	20:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1059	THE DAILY CEILIDH starring the Castle Lean Ceilidh Band	17:30	18:30	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1060	WHITE RIBBON ALLIANCE CATWALK FASHION SHOW	16:00	17:30	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1061	Moleskin	15:00	16:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1062	House of Roots	13:00	15:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1063	Sensi and Spesh present 'Your Daily Dose of Dubstep'	12:00	13:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1064	Kinky Leighton: Journeys On Wax	11:00	12:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1065	Stuff'n' Ting's Nice Up Breakfast	10:00	11:00	Bridgwater Reggae Sound System presents Babylon Uprising	Thursday
+1165	Lucha Britannia - Mexican Wrestling	21:00	23:00	CAMPO PEQUENO	Thursday
+1166	Movimientos DJ's	19:00	21:00	CAMPO PEQUENO	Thursday
+1202	Yes Sir Boss	22:00:00	23:00:00	Chai Wallahs	Thursday
+1203	DJ Moneyshot	20:15:00	21:45:00	Chai Wallahs	Thursday
+1204	Backbeat Sound System	19:30:00	20:15:00	Chai Wallahs	Thursday
+1205	Tinroots	18:15:00	19:00:00	Chai Wallahs	Thursday
+1249	Cutashine	21:45	22:30	Club Dada	Thursday
+1250	Los Albertos	21:00	21:45	Club Dada	Thursday
+1251	NaraSirato	20:00	21:00	Club Dada	Thursday
+1252	Sheelanagig	19:00	20:00	Club Dada	Thursday
+1253	Tankus the Henge	18:00	19:00	Club Dada	Thursday
+1254	Sonora Balkanaca	17:00	18:00	Club Dada	Thursday
+1255	Dj Chris Tofu	16:00	17:00	Club Dada	Thursday
+1300	Posh Boy	21:30	21:45	Croissant Neuf	Thursday
+1301	Josh Thorner	21:45	22:00	Croissant Neuf	Thursday
+1302	Jimmy Davis	22:00	22:15	Croissant Neuf	Thursday
+1303	Luke Concannon	22:15	22:45	Croissant Neuf	Thursday
+1304	Mr. B The Gentleman Rhymer	22:45	23:45	Croissant Neuf	Thursday
+1305	The Huckleberries	23:45	0:45	Croissant Neuf	Thursday
+1331	DJ Felix El Gato	23:30	0:00	Cubana Salsa Tent	Thursday
+1332	Sur Caribe	22:00	23:30	Cubana Salsa Tent	Thursday
+1333	DJ Felix El Gato	21:30	22:00	Cubana Salsa Tent	Thursday
+1398	Queen Bee	1:30	4:00	CUBEHENGE (Heds Party)	Thursday
+1399	Quivver	22:30	1:30	CUBEHENGE (Heds Party)	Thursday
+1400	Western Soul	20:00	22:30	CUBEHENGE (Heds Party)	Thursday
+1401	Leo the Amateur	1:30	4:00	CUBEHENGE (Heds Party)	Thursday
+1402	Ed Carny	22:30	1:30	CUBEHENGE (Heds Party)	Thursday
+1403	DJ Bunjy	20:00	22:30	CUBEHENGE (Heds Party)	Thursday
+1426	Propaganda DJ's	20:00	4:00	EAST DANCE (Heds Party)	Thursday
+1427	The Kleptones	2:30	4:00	EAST DANCE (Heds Party)	Thursday
+1428	Loll	1:00	2:30	EAST DANCE (Heds Party)	Thursday
+1429	Smoke Eaters	23:00	1:00	EAST DANCE (Heds Party)	Thursday
+1430	Neil Scott	20:00	23:00	EAST DANCE (Heds Party)	Thursday
+1447	Jose Luis & Guests	18:00	23:00	EL PENOL CANTINA	Thursday
+1487	Saint Acid & The Bang Face Hard Crew	2:00	3:00	Glade Lounge	Thursday
+1488	The Teknoist	1:00	2:00	Glade Lounge	Thursday
+1489	Bizzy B	0:00	1:00	Glade Lounge	Thursday
+1490	Bangface All Stars	23:00	0:00	Glade Lounge	Thursday
+1491	2 Bad Mice	22:00	23:00	Glade Lounge	Thursday
+1492	Squire of Gothos	21:00	22:00	Glade Lounge	Thursday
+1493	Dave Skywalker	20:00	21:00	Glade Lounge	Thursday
+1514	Eyes on Film	2:00	2:45	Greenpeace Stage	Thursday
+1515	Burnt Toast	1:00	1:45	Greenpeace Stage	Thursday
+1516	Sound of Rum	23:45	0:45	Greenpeace Stage	Thursday
+1517	Sieze The Day	23:00	23:45	Greenpeace Stage	Thursday
+1518	Special Guest	22:15	22:45	Greenpeace Stage	Thursday
+1519	Special Guest	21:30	22:00	Greenpeace Stage	Thursday
+1541	SanchoPanza	0:00	3:00	Magic Bubbles	Thursday
+1542	Crazy P Soundsystem	22:00	0:00	Magic Bubbles	Thursday
+1543	DiY	20:00	22:00	Magic Bubbles	Thursday
+1582	Dangerous Dinky	2:00	3:00	Mandala Stage	Thursday
+1583	The Original Smirkins And Friends	1:00	2:00	Mandala Stage	Thursday
+1584	The Pyramids Of SNAFU	0:00	1:00	Mandala Stage	Thursday
+1585	Si Cousins	22:00	0:00	Mandala Stage	Thursday
+1586	Tribal Voices	21:00	22:00	Mandala Stage	Thursday
+1587	Chris Ellis & Dave Sturt	20:00	21:00	Mandala Stage	Thursday
+1588	Sixpenny Wayke	19:00	20:00	Mandala Stage	Thursday
+1589	Wig Smith & Andy Skellam	18:00	19:00	Mandala Stage	Thursday
+1590	The Portraits	17:00	18:00	Mandala Stage	Thursday
+1591	Tess	16:00	17:00	Mandala Stage	Thursday
+1592	Whimwise	15:00	16:00	Mandala Stage	Thursday
+1593	Mal Webb	13:00	15:00	Mandala Stage	Thursday
+1594	Mandala Poets	12:00	13:00	Mandala Stage	Thursday
+1642	Bennet	2:00	3:00	NYC DOWNLOW	Thursday
+1643	Ninebob-(www.thedownlowradio.com)	1:00	2:00	NYC DOWNLOW	Thursday
+1644	Hannah Holland (Paris' Acid Ball)	23:30	1:00	NYC DOWNLOW	Thursday
+1645	Tee Cardaci (Deep & Dusted/Botafogo Social Club)	22:00	23:30	NYC DOWNLOW	Thursday
+1646	Legendary Children	20:00	22:00	NYC DOWNLOW	Thursday
+1668	Count down to zero	2:00	3:31	Pilton Palais Cinema Tent	Thursday
+1669	Hobo With A Shotgun	0:00	1:54	Pilton Palais Cinema Tent	Thursday
+1670	The Honey Killer	21:30	23:00	Pilton Palais Cinema Tent	Thursday
+1671	Source Code	19:30	21:03	Pilton Palais Cinema Tent	Thursday
+1672	Thor 3D	17:00	18:54	Pilton Palais Cinema Tent	Thursday
+1673	Despicable me 3D	15:00	16:36	Pilton Palais Cinema Tent	Thursday
+1745	DJ	16:00	21:00	PORN KIOSK DAYTIME	Thursday
+1759	NZShapeShifter (Live)	2:00	3:00	PUSSY PARLURE	Thursday
+1760	Julien Dyne feat. Parks	1:15	2:00	PUSSY PARLURE	Thursday
+1761	Ladi 6 (Live)	12:30	1:15	PUSSY PARLURE	Thursday
+1762	Electric Wire Hustle (Live)	23:00	0:00	PUSSY PARLURE	Thursday
+1763	Benny Tones	22:00	23:00	PUSSY PARLURE	Thursday
+1764	Electric Empire (Live)	21:00	22:00	PUSSY PARLURE	Thursday
+1765	Ronit (Live)	19:45	20:30	PUSSY PARLURE	Thursday
+1766	Benny Tones	19:15	19:45	PUSSY PARLURE	Thursday
+1767	Bella Kalolo (Live)	18:30	19:15	PUSSY PARLURE	Thursday
+1768	Ayesha	18:00	18:30	PUSSY PARLURE	Thursday
+1811	Mini Da Minx	21:30:00	23:00:00	Sharkeys / Unfairground	Thursday
+1812	Wreckage	20:00:00	21:30:00	Sharkeys / Unfairground	Thursday
+1843	Philip Henry And Hannah Martin	3:15	4:15	Small World Stage	Thursday
+1844	Chicken Shed Zeppelin	2:00	3:15	Small World Stage	Thursday
+1845	Carnival Collective	0:30	2:00	Small World Stage	Thursday
+1846	Penny Black remedy	22:30	0:30	Small World Stage	Thursday
+1847	Tragic Roundabout	19:00	22:30	Small World Stage	Thursday
+1848	The Little Unsaid	17:30	19:00	Small World Stage	Thursday
+1849	Zen Elephant	16:00	17:30	Small World Stage	Thursday
+1850	Sean Taylor	14:30	16:00	Small World Stage	Thursday
+1851	De Fuego	13:15	14:30	Small World Stage	Thursday
+1852	Hattie Hatstar	12:00	13:15	Small World Stage	Thursday
+1893	Tom E Lewis	23:00:00	0:00:00	So71 Café	Thursday
+1894	Travelling Libraries	22:00:00	23:00:00	So71 Café	Thursday
+1895	Rory Motion - Comic	21:00:00	22:00:00	So71 Café	Thursday
+1896	Steve Marshall - The Ballad of Genrous John	20:00:00	21:00:00	So71 Café	Thursday
+1897	Malcolm Boyle - Readings from The Madcap	19:00:00	20:00:00	So71 Café	Thursday
+1898	Roy Hutchins - Heathcote Williams Poems	16:00:00	17:00:00	So71 Café	Thursday
+1928	Poetry Slam	20:00	21:00	Speakers Forum	Thursday
+1929	Is Veganism the ideological glue to bring together movements for social change?	19:00	20:00	Speakers Forum	Thursday
+1930	Corporations and Conflict	17:30	19:00	Speakers Forum	Thursday
+1931	The Children's Society	16:00	17:30	Speakers Forum	Thursday
+1932	The Bomb Factor - CND	14:30	16:00	Speakers Forum	Thursday
+1933	Big or Divided Society	13:00	14:30	Speakers Forum	Thursday
+1934	Exploit.com	11:30	13:00	Speakers Forum	Thursday
+1935	Current situation in Burma	10:30	11:30	Speakers Forum	Thursday
+1936	Yoga	8:30	10:30	Speakers Forum	Thursday
+1970	Baggy Mondays	1:00	3:00	Stonebridge Bar (Park)	Thursday
+1971	Pump Up The Volume	23:00	1:00	Stonebridge Bar (Park)	Thursday
+1972	Ultimate Power	21:30	23:00	Stonebridge Bar (Park)	Thursday
+1973	Yacht Rock	20:00	21:30	Stonebridge Bar (Park)	Thursday
+1974	Optimo	18:00	20:00	Stonebridge Bar (Park)	Thursday
+1975	Sounds Familiar The Music Quiz	16:00	18:00	Stonebridge Bar (Park)	Thursday
+1976	Heavenly Jukebox	14:00	16:00	Stonebridge Bar (Park)	Thursday
+2005	Tess	23:15	0:15	Tadpole Stage	Thursday
+2006	Kangaroo Moon	21:30	23:15	Tadpole Stage	Thursday
+2007	Andrew Morris	20:15	21:30	Tadpole Stage	Thursday
+2008	The Portraits	19:20	20:15	Tadpole Stage	Thursday
+2009	Kate Lissauer & The Kays	18:10	19:20	Tadpole Stage	Thursday
+2010	Heal The Last Stand	17:00	18:10	Tadpole Stage	Thursday
+2011	Carnival Collective	16:00	17:00	Tadpole Stage	Thursday
+2012	Shona Foster	15:00	16:00	Tadpole Stage	Thursday
+2013	The Hand	14:00	15:00	Tadpole Stage	Thursday
+2014	Via Trio	13:00	14:00	Tadpole Stage	Thursday
+2015	Didge workshop	12:00	13:00	Tadpole Stage	Thursday
+2064	Ben Jamin (Dirty Fairy / Bootie USA)	2:00	3:00	THE DOWNLOW RADIO	Thursday
+2065	www.GayHipHop.com	1:00	2:00	THE DOWNLOW RADIO	Thursday
+2066	Ninebob- (www.thedownlowradio.com)	0:00	1:00	THE DOWNLOW RADIO	Thursday
+2067	Mel - (www.thedownlowradio.com)	23:00	0:00	THE DOWNLOW RADIO	Thursday
+2068	Amy - Drop The Bomb (Funk/Disco)	22:00	23:00	THE DOWNLOW RADIO	Thursday
+2069	Nic Fisher (GutterSlut)	21:00	22:00	THE DOWNLOW RADIO	Thursday
+2070	Helen Noir- (www.thedownlowradio.com)	20:00	21:00	THE DOWNLOW RADIO	Thursday
+2095	Hannah Holland (Batty Bass)	20:00	21:00	THE LONDON UNDERGROUND	Thursday
+2096	Hannah Holland (Batty Bass)	21:00	22:00	THE LONDON UNDERGROUND	Thursday
+2097	Hannah Holland (Batty Bass)	22:00	23:15	THE LONDON UNDERGROUND	Thursday
+2098	Matty Dreadless (Fresh Connection)	23:00	0:00	THE LONDON UNDERGROUND	Thursday
+2099	Miss Pink (BM Soho)	0:00	1:00	THE LONDON UNDERGROUND	Thursday
+2124	GUILTY PLEASURES	23:00	3:00	THE MEETING POINT BAR	Thursday
+2125	JAMES CURRY (OVEREASY)	20:00	23:00	THE MEETING POINT BAR	Thursday
+2126	TOM ENO (OVEREASY)	18:00	20:00	THE MEETING POINT BAR	Thursday
+2127	DJ NICKNAME/CHRIS READ	16:00	18:00	THE MEETING POINT BAR	Thursday
+2128	BONEBOOKBANG (OVEREASY)	13:30	16:00	THE MEETING POINT BAR	Thursday
+2129	JAMES CURRY (OVEREASY)	11:00	13:30	THE MEETING POINT BAR	Thursday
+2155	Nick Warren	1:00	2:00	The Rabbit Hole	Thursday
+2156	"""Flying Rhino's DJj's follow with James Monroe, Grantly and Slinky Wizard"""	21:00	1:00	The Rabbit Hole	Thursday
+2157	The Vodka Jellies Live Karaoke Band	19:00	21:00	The Rabbit Hole	Thursday
+2158	Dark Moon	18:00	19:00	The Rabbit Hole	Thursday
+2159	Joker And The Thief	17:00	18:00	The Rabbit Hole	Thursday
+2194	HAVANA CLUB PALADAR	21:00	3:00	THE WEST HOLTS BAR	Thursday
+2195	BONEBOOKBANG (OVEREASY)	19:00	21:00	THE WEST HOLTS BAR	Thursday
+2196	THE CANNONBALL CLUB-LIVE!	18:00	19:00	THE WEST HOLTS BAR	Thursday
+2197	JAMES CURRY	17:00	18:00	THE WEST HOLTS BAR	Thursday
+2198	THE CANNONBALL CLUB-LIVE!	16:00	17:00	THE WEST HOLTS BAR	Thursday
+2199	TOM ENO (OVEREASY)	15:00	16:00	THE WEST HOLTS BAR	Thursday
+2200	THE CANNONBALL CLUB-LIVE!	14:00	15:00	THE WEST HOLTS BAR	Thursday
+2201	TOM ENO (OVEREASY) & GILLAN THE DRUMMER	11:00	14:00	THE WEST HOLTS BAR	Thursday
+2223	TBC	19:00	20:00	Tripod Stage	Thursday
+2224	Great White Shark	18:00	19:00	Tripod Stage	Thursday
+2225	Vid Warren	17:00	18:00	Tripod Stage	Thursday
+2226	Aisha	16:00	17:00	Tripod Stage	Thursday
+2227	Pete The Temp	15:00	16:00	Tripod Stage	Thursday
+2228	Open Mic Soap Box	14:00	15:00	Tripod Stage	Thursday
+2229	"Danny, Claire, Marrick"	13:00	14:00	Tripod Stage	Thursday
+2230	Wind up the Banker : Morning Maypole Wakeup	12:00	13:00	Tripod Stage	Thursday
+2260	"""No Fit State """"Barricade"""" DRESS REHEARSAL"""	22:30	23:30	Theatre & Circus . Circus Field	Thursday
+2261	Porn Kiosk DJ Playing	16:00	20:00	VOGUE FABRICS	Thursday
+2262	Vogue Fabrics Programming	22:00	4:00	VOGUE FABRICS	Thursday
+701	Introduction To Modern Astrology	16:00	17:00	ASTRO DOME WORKSHOPS	Wednesday
+702	The Story Of The Wheel Of The Zodiac	14:00	16:00	ASTRO DOME WORKSHOPS	Wednesday
+703	Mercury Meditation	9:30	14:00	ASTRO DOME WORKSHOPS	Wednesday
+1639	Bennet	0:00	1:00	NYC DOWNLOW	Wednesday
+1640	DJ - 200 Watts	20:00	0:00	NYC DOWNLOW	Wednesday
+1890	Michael Eavis Q & A with Dom	17:00:00	17:20:00	So71 Café	Wednesday
+1891	Andrew Kerr -' Intolerably Hip' Book signing	12:00:00	13:00:00	So71 Café	Wednesday
+1922	Ethical Catering	19:00	20:00	Speakers Forum	Wednesday
+1923	Canal Futures	17:30	19:00	Speakers Forum	Wednesday
+1924	The Art/Science of Bicycology	16:00	17:30	Speakers Forum	Wednesday
+1925	Tetrapak wallet making	14:30	16:00	Speakers Forum	Wednesday
+1926	Steward Training	11:30	14:30	Speakers Forum	Wednesday

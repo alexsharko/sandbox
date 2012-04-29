@@ -1,0 +1,117 @@
+
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/2005/10/profile">
+    <title>facebook | martimedia</title>
+    <style type="text/css">
+    </style>
+    
+    <meta name="robots" content="noodp,noydir">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="martimedia,ltd">
+
+    <meta name="description" content="Martimedia providing Social Media Consultancy in and around Suffolk."/>
+    <meta property="og:title" content="Martimeida | Social Media Consultancy"/>
+    <meta property="og:type" content="profile"/>
+    <meta property="og:url" content="http://martimedia.com"/>
+    <meta property="og:image" content="http://martimedia.com/public/beta/assets/header_bg.jpg"/>
+    <meta property="og:site_name" content="Martimedia"/>
+    <meta property="og:description" content="Martimeida | Social Media Consultancy"/>
+    <meta property="fb:app_id" content="1234"/>
+    <link rel="icon" type="image/png" href="http://martimedia.com/public/beta/assets/header_bg.jpg">
+</head>
+<body class="home">
+    
+<div id="header-wrapper" class="public public">
+    <div id="header" class="clearfix">
+        
+        <div id="menu">
+            <ul>
+                
+                    <li class=""><a class="understand-link" href="/">Home</a></li>
+                    
+                        <li class="last">
+                            <div id="dropdown-summary" class="sign-in">
+                                <span class="expand-menu-label">Sign In</span>
+                                <div id="dropdown-menu">
+                                    Sign into your account
+                                    <a class="tw-sign-in-button" href="/oauth">sign in via twitter</a>
+                                    <a class="fb-sign-in-button" href="/oauth_fb">sign in via facebook</a>
+                                </div>
+                            </div>
+                        </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    
+    
+    
+<div id="home-big-signin">
+    <div id="content">
+        <div class="signup">
+            <div class="buttons">
+                <a id="tw-connect" href="/oauth" class="login-btn">sign up via twitter</a>
+                <div class="or">OR</div>
+                <a id="fb-connect" href="/oauth_fb" class="login-btn">sign up via facebook</a>
+            </div>
+        </div>
+        <div class="facepile">
+            <fb:facepile max_rows="2" width="580"></fb:facepile>
+        </div>
+    </div>
+</div>
+    <div id="footer">
+
+</div>
+    
+    <script type="text/javascript" src="http://kcdn3.klout.com/static/js/vendor/gz-jquery-1.7.1.min.js"></script>
+    
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <script type="text/javascript">
+    ( function( w ) {
+        w.app = w.app || {};
+        
+    } )( window );
+
+</script>
+
+<!-- Facebook JS SDK -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init( {
+            appId : '1234',
+            status: true,
+            cookie: true,
+            xfbml : true
+        } );
+
+        if ( typeof FB != 'undefined' ) {
+            FB.Event.subscribe( 'edge.create', function ( resp ) {
+                if ( resp == 'facebook.com/kloutfb' ) {
+                   // do stuff 
+                }
+            } );
+        }
+    };
+    (function(d){
+        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+</script>
+
+<!-- Google +1 -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    {"parsetags": "explicit"}
+</script>
+  
+
+</body>
+</html>
