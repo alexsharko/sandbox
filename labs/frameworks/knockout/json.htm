@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>test | martimedia</title>
+    <meta charset="utf-8" />
+	    <link href="/sandbox/content/css/style.css" type="text/css" rel="stylesheet" />
+		<style type="text/css">
+		tr { vertical-align:top; background:#ececec;}
+		
+		</style>
+</head>
+<body>
+    <h1>knockout | martimedia</h1>
+    <p>
+        <a href=http://knockoutjs.com />knockout</a>, simple demo
+    </p>
+<h2>Contacts</h2>
+<div id='contactsList'>
+    <table class='contactsEditor'>
+        <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Phone numbers</th>
+        </tr>
+        <tbody data-bind="foreach: contacts">
+            <tr>
+                <td>
+                    <input data-bind='value: firstName' />
+                    <div><a href='#' data-bind='click: $root.removeContact'>Delete</a></div>
+                </td>
+                <td><input data-bind='value: lastName' /></td>
+                <td>
+                    <table>
+                        <tbody data-bind="foreach: phones">
+                            <tr>
+                                <td><input data-bind='value: type' /></td>
+                                <td><input data-bind='value: number' /></td>
+                                <td><a href='#' data-bind='click: $root.removePhone'>Delete</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <a href='#' data-bind='click: $root.addPhone'>Add number</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+ 
+<p>
+    <button data-bind='click: addContact'>Add a contact</button>
+    <button data-bind='click: save, enable: contacts().length > 0'>Save to JSON</button>
+</p>
+ 
+<textarea data-bind='value: lastSavedJson' rows='5' cols='60' disabled='disabled'> </textarea>
+
+	
+	
+	<div class=footer>(c) martimedia ltd 2012</div>
+	
+	</body>
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+	<script src="/sandbox/content/js/jQuery.tmpl.min.js" type="text/javascript"></script> 
+	<script src="/sandbox/scripts/knockout-2.0.0.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+   var initialData = [
+    { firstName: "Danny", lastName: "LaRusso", phones: [
+        { type: "Mobile", number: "(555) 121-2121" },
+        { type: "Home", number: "(555) 123-4567"}]
+    },
+    { firstName: "Sensei", lastName: "Miyagi", phones: [
+        { type: "Mobile", number: "(555) 444-2222" },
+        { type: "Home", number: "(555) 999-1212"}]
+    }
+];
+ 
+var ContactsModel = function(contacts) {
+    var self = this;
+    self.contacts = ko.observableArray(ko.utils.arrayMap(contacts, function(contact) {
+        return { firstName: contact.firstName, lastName: contact.lastName, phones: ko.observableArray(contact.phones) };
+    }));
+ 
+    self.addContact = function() {
+        self.contacts.push({
+            firstName: "",
+            lastName: "",
+            phones: ko.observableArray()
+        });
+    };
+ 
+    self.removeContact = function(contact) {
+        self.contacts.remove(contact);
+    };
+ 
+    self.addPhone = function(contact) {
+        contact.phones.push({
+            type: "",
+            number: ""
+        });
+    };
+ 
+    self.removePhone = function(phone) {
+        $.each(self.contacts(), function() { this.phones.remove(phone) })
+    };
+ 
+    self.save = function() {
+        self.lastSavedJson(JSON.stringify(ko.toJS(self.contacts), null, 2));
+    };
+ 
+    self.lastSavedJson = ko.observable("")
+};
+ 
+ko.applyBindings(new ContactsModel(initialData));
+
+   </script>
+   
+</html>

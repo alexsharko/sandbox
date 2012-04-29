@@ -1,0 +1,235 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Subway Map</title>
+   
+   
+    <style type="text/css">
+   html { background:#666; }
+    body{font-family: Verdana;font-size: 8pt;background:white; padding:20px;margin:20px; min-height:800px;}
+
+    /* The main DIV for the map */
+    .subway-map{margin: 0;width: 500px;height:410px;background-color: white;}
+
+    /* Text labels */
+    .text{text-decoration: none;color: black;font-size:80%;}
+    h2 { padding:0px; margin:0px; }
+    #legend{float: left;width: 240px;height:50px; border:1px solid #ccc;padding:20px;}
+    #legend div { height: 25px;}
+    #legend span {margin: 5px 5px 5px 0;}
+    .subway-map span{margin: 5px 5px 5px 0;} 
+    
+    </style>
+</head>
+
+<body>
+    <div id="subway-map" class="subway-map" data-columns="20" data-rows="10" 
+	data-cellSize="40" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="8"> 
+
+
+		<ul data-color="#00ff00" data-label="jQuery Interactions" data-shiftCoords="0,-1">      
+            <li data-coords="2,6"></li> 
+            <li data-coords="2,5.9" data-marker="@interchange"> </li> <!-- marker-only node, moved up by 0.10 -->
+            <li data-coords="5,6" data-marker="@station" data-labelPos="N"><a href="http://jqueryui.com/demos/selectable/">Selectable</a></li>  
+            <li data-coords="6,6"></li>  
+            <li data-coords="7,3" data-marker="@station" data-labelPos="W"><a href="http://jqueryui.com/demos/resizeable/">Resizeable</a></li>  
+            <li data-coords="7,5" data-dir="E" data-marker="station" data-labelPos="E"><a href="http://jqueryui.com/demos/droppable/">Droppable</a></li>  
+            <li data-coords="7,1" data-marker="interchange" data-labelPos="W"><a href="http://jqueryui.com/demos/draggable/">Draggable</a></li>  
+        </ul>
+		
+		<ul data-color="green" data-label="jQuery Widgets">          
+            <li data-coords="2,2" data-marker="interchange"><a href="http://jqueryui.com/demos/accordion/">Accordion</a></li>  
+            <li data-coords="4,2"><a href="http://jqueryui.com/demos/autocomplete/"><a href="http://jqueryui.com/demos/autocomplete/">Auto\ncomplete</a></li>  
+            <li data-coords="5,3" data-dir="E"></li>  
+            <li data-coords="5,7" data-marker="@station" data-labelPos="W"><a href="http://jqueryui.com/demos/slider/">Slider</a></li> <!-- marker-only node -->  
+            <li data-coords="6,4" data-dir="S" data-marker="interchange" data-markerInfo="h5"><a href="http://jqueryui.com/demos/datepicker/">Date\npicker</a></li>  
+            <li data-coords="7,4"></li>  
+            <li data-coords="7.15,8" data-marker="@station" data-labelPos="E"><a href="http://jqueryui.com/demos/dialog/">Dialog</a></li>  <!-- marker-only node, moved to the right by 0.15 -->
+            <li data-coords="8,3" data-dir="E"></li>  
+            <li data-coords="8,2"></li>  
+            <li data-coords="9,1" data-dir="N"></li>  
+            <li data-coords="10,2" data-dir="E" data-marker="interchange" data-labelPos="E"><a href="http://jqueryui.com/demos/button/">Button</a></li>  
+            <li data-coords="10,5"></li>  
+            <li data-coords="9,6" data-dir="S" data-marker="station"><a href="http://jqueryui.com/demos/progressbar/">Progress\nbar</a></li>  
+            <li data-coords="6,9"></li>  
+            <li data-coords="5,8" data-dir="W"></li>  
+            <li data-coords="5,7"></li>  
+            <li data-coords="4,6" data-dir="N"></li>  
+            <li data-coords="2,6"><a href="http://jqueryui.com/demos/tabs/">Tabs</a></li>  
+        </ul>
+		
+
+
+
+    </div>
+
+<script id="tubeTemplate" type="text/x-jquery-tmpl">
+
+{{each(i,line) lines}}
+	<ul data-color="${line.color}" data-label="${line.label}" data-shiftCoords="${line.data_shiftCoords}">
+			{{each(i,s) stations}}
+			<li id="${s.id}" 
+			data-coords="${s.x+line.offsetx},${s.y+line.offsety}" 
+			data-dir="${s.direction}"  
+			 data-marker="${s.marker}" 
+			 data-labelPos = "${s.data_labelPos}"
+			 >${s.name}</li>
+			{{/each}}
+	</ul>
+{{/each}}
+</script>
+   
+
+    <script src="/sandbox/scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+
+<!--[if IE]><script src="excanvas.js"></script><![endif]-->
+    
+   <script type="text/javascript" src="jquery.subwayMap-0.5.0.js"></script>
+	<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+    <script type="text/javascript">
+
+	var circle_line = {
+			"line" : { "color":"blue", "label" : "circle", "offsetx" :9, "offsety":1  , "data_shiftCoords": "0,0" },
+			"stations" : [
+				{ "id": "" ,"x": 3, "y":1 ,  "direction":"" , "marker":"" , "name":"start" },
+				{ "id": "", "x": 7, "y": 1, "direction": "N", "marker": "", "name": "1" },
+				{ "id": "", "x": 8, "y": 2, "direction": "E", "marker": "station", "name": "2"  , "data_labelPos" : "E"},
+				{ "id": "", "x": 8, "y": 4, "direction": "E", "marker": "", "name": "3" },
+				{ "id": "", "x": 7, "y": 5, "direction": "S", "marker": "", "name": "4" },
+				{ "id": "", "x": 3, "y": 5, "direction": "", "marker": "", "name": "5" },
+				{ "id": "", "x": 2, "y": 4, "direction": "W", "marker": "", "name": "6" },
+				{ "id": "", "x": 2, "y": 2, "direction": "W", "marker": "", "name": "7" },
+				{ "id": "", "x": 3, "y": 1, "direction": "N", "marker": "", "name": "" }
+			]
+		};
+
+		var central_line = {
+			"line": { "color": "red", "label": "central line" ,"offsetx" :0, "offsety":0  , "data_shiftCoords": "0,0"},
+			"stations": [
+				{ "id": "", "x": 1, "y": 4, "direction": "", "marker": "", "name": "start" },
+				{ "id": "", "x": 10, "y": 4, "direction": "", "marker": "", "name": "end" }
+			]};
+
+		var northern_line = {
+			"line": { "color": "black", "label": "northern line", "offsetx": 0, "offsety": 0  , "data_shiftCoords": "0,0"},
+			"stations": [
+				{ "id": "", "x": 8, "y": 1, "direction": "", "marker": "", "name": "start" },
+				{ "id": "", "x": 8, "y": 8, "direction": "", "marker": "", "name": "end" }
+				]};
+
+
+		var jquery_interactions = {
+			"line": { "color": "#00ff00", "label": "jQuery Interactions", "offsetx": 0, "offsety": 0  ,  "data_shiftCoords": "0,-1" },
+			"stations": [
+					{ "id": "", "x": 2, "y": 6, "direction": "", "marker": "", "name": "" },
+					{ "id": "", "x": 2, "y": 5.9, "direction": "", "marker": "@interchange", "name": "" },
+					{ "id": "", "x": 5, "y": 6, "direction": "N", "marker": "@station", "name": "selectable" },
+					{ "id": "", "x": 6, "y": 6, "direction": "", "marker": "", "name": "" },
+					{ "id": "", "x": 7, "y": 3, "direction": "W", "marker": "@station", "name": "resizeable" },
+					{ "id": "", "x": 7, "y": 5, "direction": "E", "marker": "station", "name": "droppable" },
+					{ "id": "", "x": 7, "y": 1, "direction": "W", "marker": "interchange", "name": "draggable" },
+		]};
+        
+		/*
+		<ul data-color="#00ff00" data-label="jQuery Interactions" data-shiftCoords="0,-1">      
+            <li data-coords="2,6"></li> 
+            <li data-coords="2,5.9" data-marker="@interchange"> </li> <!-- marker-only node, moved up by 0.10 -->
+            <li data-coords="5,6" data-marker="@station" data-labelPos="N"><a href="http://jqueryui.com/demos/selectable/">Selectable</a></li>  
+            <li data-coords="6,6"></li>  
+            <li data-coords="7,3" data-marker="@station" data-labelPos="W"><a href="http://jqueryui.com/demos/resizeable/">Resizeable</a></li>  
+            <li data-coords="7,5" data-dir="E" data-marker="station" data-labelPos="E"><a href="http://jqueryui.com/demos/droppable/">Droppable</a></li>  
+            <li data-coords="7,1" data-marker="interchange" data-labelPos="W"><a href="http://jqueryui.com/demos/draggable/">Draggable</a></li>  
+        </ul>
+		*/
+	
+
+	
+		/*
+        <ul data-color="green" data-label="jQuery Widgets">          
+            <li data-coords="2,2" data-marker="interchange"><a href="http://jqueryui.com/demos/accordion/">Accordion</a></li>  
+            <li data-coords="4,2"><a href="http://jqueryui.com/demos/autocomplete/"><a href="http://jqueryui.com/demos/autocomplete/">Auto\ncomplete</a></li>  
+            <li data-coords="5,3" data-dir="E"></li>  
+            <li data-coords="5,7" data-marker="@station" data-labelPos="W"><a href="http://jqueryui.com/demos/slider/">Slider</a></li> <!-- marker-only node -->  
+            <li data-coords="6,4" data-dir="S" data-marker="interchange" data-markerInfo="h5"><a href="http://jqueryui.com/demos/datepicker/">Date\npicker</a></li>  
+            <li data-coords="7,4"></li>  
+            <li data-coords="7.15,8" data-marker="@station" data-labelPos="E"><a href="http://jqueryui.com/demos/dialog/">Dialog</a></li>  <!-- marker-only node, moved to the right by 0.15 -->
+            <li data-coords="8,3" data-dir="E"></li>  
+            <li data-coords="8,2"></li>  
+            <li data-coords="9,1" data-dir="N"></li>  
+            <li data-coords="10,2" data-dir="E" data-marker="interchange" data-labelPos="E"><a href="http://jqueryui.com/demos/button/">Button</a></li>  
+            <li data-coords="10,5"></li>  
+            <li data-coords="9,6" data-dir="S" data-marker="station"><a href="http://jqueryui.com/demos/progressbar/">Progress\nbar</a></li>  
+            <li data-coords="6,9"></li>  
+            <li data-coords="5,8" data-dir="W"></li>  
+            <li data-coords="5,7"></li>  
+            <li data-coords="4,6" data-dir="N"></li>  
+            <li data-coords="2,6"><a href="http://jqueryui.com/demos/tabs/">Tabs</a></li>  
+        </ul>
+		*/
+
+		var map ={
+			"title" : "Underground",
+			"lines" : [
+			circle_line,
+			central_line,
+			northern_line,
+			jquery_interactions
+		]};
+
+
+	/*
+	 <ul data-color="red" data-label="circle">          
+		   <li data-coords="3,1" ><a href="http://jqueryui.com/demos/accordion/">Start</a></li>  
+			<li data-coords="7,1" data-labelPos="N">2</li>  
+
+			<li data-coords="8,2" data-dir="E" data-labelPos="E">3</li>  
+			<li data-coords="8,4" data-labelPos="E">4</li>  
+
+			<li data-coords="7,5" data-dir="S"  data-marker="interchange">5</li>  
+			<li data-coords="3,5" data-marker="interchange">End</li>  
+
+			<li data-coords="2,4" data-dir="W" data-labelPos="W">6</li>
+			<li data-coords="2,2" data-labelPos="W" >7</li>
+
+			 <li data-coords="3,1" data-dir="N" data-labelPos="N">8</li>
+			
+		</ul>
+		*/
+
+
+
+			$(function () {
+				if ($.browser.msie && $.browser.version < 9) {
+					$(".subway-map").html("Subway map only supported in IE9 and above").append("<img src=canvas.png>");
+
+				} else {
+					// http: //www.kalyani.com/2010/10/subway-map-visualization-jquery-plugin/
+
+		//			map = setMapDefaults(map);
+			//		applyTemplate("#subway-map", "#tubeTemplate", map);
+					$(".subway-map").subwayMap({ debug: true }).show();
+
+				}
+
+			});
+
+
+    	function applyTemplate(target,template,data) {
+    		//$(target).html("");
+    		$(template).tmpl(data).prependTo(target); 
+
+    	}
+
+    	function setMapDefaults(map) {
+    		$.each(map.lines, function (i, line) {
+    			$.each(line.stations, function (i, station) {
+    				if (station["data_labelPos"] === undefined)
+    					station["data_labelPos"] = "S";
+    			});
+    		});
+    		return map;
+    	}
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>jQuery sortGrid Plugin - Demo</title> 
+<style type="text/css"> 
+
+	body {	background: #fbfafa;	font-family: Arial, Helvetica, sans-serif;	font-size: 12px; } 
+ 
+	#container {	background: #fff;border: 1px solid #dddddd;width: 600px;margin: 20px auto;padding: 20px;
+	-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;/*-webkit-transform: translate3d(0,0,0);*/
+	-moz-box-shadow: 0 0 5px #d8d8d8;-webkit-box-shadow: 0 0 5px #d8d8d8;box-shadow: 0 0 5px #d8d8d8; }
+
+	#container .demo ul li {display:inline-block; }
+ 	#container .demo .boxes {width: 578px;	 min-height:400px; background: #cccccc;	display: block;	padding: 10px 0 0 0;	position: relative; }
+ 	#container .demo .box{	background: #f3f3f3;	padding: 2px;	border: 1px solid #bcbcbc;height: 75px;	width: 125px;	margin: 10px;	 }
+	#container .demo .box.photography {	background: #ecdf87; width:200px; }
+	#container .demo .box.illustration {	background: #87c7ec; width:90px;}
+	#container .demo .box.web {	background: #bbec87;width:60px; }
+	#container .demo .box h3 {	text-align: center; }
+	a { text-decoration:none; }
+	.active a { font-weight:bold; color:Red; } 
+	.box { 	  box-shadow:0px 7px 14px #666666; -webkit-box-shadow:0px 7px 14px #666666;  vertical-align:top;}
+	
+	.button {
+background: -moz-linear-gradient(top, #5CA9FF 0%, #3D79C3 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #5CA9FF), color-stop(100%, #3D79C3));
+background-color: #4A95E0;
+border: solid 1px #4B5D7E;color: #FFF;cursor: pointer;display: inline-block;float: right;
+font-size: 125%;font-weight: bold;margin-left: 6px;min-width: 40px;padding: 3px 5px;text-align: center;text-decoration: none;
+-moz-border-radius: 2px;-webkit-border-radius: 2px;border-radius: 2px;
+}
+
+</style> 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script> 
+<script type='text/javascript' src="jquery.sortGrid.js"></script>
+    
+<script type="text/javascript">
+
+	(function ($) {
+		$(function () {
+
+		$(".nav li a").live("click", function (e) {
+				e.preventDefault();
+				var el = $(this);
+				if (!el.parent().hasClass("active")) {
+					el.parent().addClass("active").siblings().removeClass("active");
+					$(".boxes").sortGrid(el.attr("rel"), 500);
+				}
+			});
+		});
+	})(jQuery);
+
+</script> 
+</head> 
+<body> 
+	<div id="container"> 
+        <h1>$.sortGrid()</h1> 
+            
+        <div class="demo clearfix"> 
+       		<ul class="nav"> 
+                <li class="active"><a href="#" rel="box" class="button" >All</a></li> 
+                <li><a href="#" class="button" rel="web">Web</a></li> <li><a href="#" class="button" rel="photography">Photography</a></li> <li><a href="#" class="button" rel="illustration">illustration</a></li> 
+            </ul> 
+        
+            <ul class="boxes clearfix"> 
+                <li class="box web"> <h3>1</h3></li> 
+                <li class="box photography"> <h3>2</h3> </li> 
+                <li class="box web"> <h3>3</h3> </li> 
+                <li class="box illustration"> <h3>4</h3> </li> 
+                <li class="box photography"> <h3>5</h3> </li> 
+                <li class="box web"> <h3>6</h3> </li> 
+                <li class="box"> <h3>7</h3> </li> 
+                <li class="box illustration"> <h3>8</h3> </li> 
+                <li class="box photography"> <h3>9</h3> </li> 
+                <li class="box"> <h3>10</h3> </li> 
+                <li class="box photography"> <h3>11</h3> </li> 
+                <li class="box web"> <h3>12</h3> </li> 
+                <li class="box"> <h3>13</h3> </li> 
+                <li class="box illustration"> <h3>14</h3> </li> 
+                <li class="box illustration"> <h3>15</h3> </li> 
+            </ul> 
+
+        </div> 
+        
+        <p class="note">Clicking on one of the navigation links will sort the boxes based on the corresponding class name.<br /> 
+        	<a href="http://darcyclarke.me/development/animating-sorting-elements-using-sortgrid/">Back to Article</a>  </p> 
+        
+    </div> 
+
+</body> 
+</html> 
